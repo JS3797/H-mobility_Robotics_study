@@ -1,0 +1,22 @@
+[rospy.client][INFO] 2023-09-12 12:28:02,234: init_node, name[/joint_state_publisher], pid[2385]
+[xmlrpc][INFO] 2023-09-12 12:28:02,235: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-12 12:28:02,236: Started XML-RPC server [http://LAPTOP-CB8EFKQO:44103/]
+[rospy.init][INFO] 2023-09-12 12:28:02,237: ROS Slave URI: [http://LAPTOP-CB8EFKQO:44103/]
+[rospy.impl.masterslave][INFO] 2023-09-12 12:28:02,237: _ready: http://LAPTOP-CB8EFKQO:44103/
+[xmlrpc][INFO] 2023-09-12 12:28:02,239: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-12 12:28:02,240: Registering with master node http://localhost:11311
+[rospy.init][INFO] 2023-09-12 12:28:02,339: registered with master
+[rospy.rosout][INFO] 2023-09-12 12:28:02,339: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-12 12:28:02,345: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-12 12:28:02,346: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-12 12:28:02,608: topic[/move_group/fake_controller_joint_states] adding connection to [http://LAPTOP-CB8EFKQO:38397/], count 0
+[rospy.internal][INFO] 2023-09-12 12:28:02,623: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2023-09-12 12:28:02,636: topic[/joint_states] adding connection to [/robot_state_publisher], count 0
+[rospy.internal][INFO] 2023-09-12 12:28:02,712: topic[/joint_states] adding connection to [/move_group], count 1
+[rospy.core][INFO] 2023-09-12 12:32:16,346: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2023-09-12 12:32:16,354: topic[/joint_states] removing connection to /robot_state_publisher
+[rospy.internal][INFO] 2023-09-12 12:32:16,355: topic[/joint_states] removing connection to /move_group
+[rospy.internal][INFO] 2023-09-12 12:32:16,356: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2023-09-12 12:32:16,357: topic[/move_group/fake_controller_joint_states] removing connection to http://LAPTOP-CB8EFKQO:38397/
+[rospy.impl.masterslave][INFO] 2023-09-12 12:32:16,358: signal-2
+[rospy.core][INFO] 2023-09-12 12:32:16,474: signal_shutdown [atexit]

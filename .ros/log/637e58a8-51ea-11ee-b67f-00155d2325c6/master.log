@@ -1,0 +1,71 @@
+[rosmaster.main][INFO] 2023-09-13 13:02:43,871: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2023-09-13 13:02:43,871: Starting ROS Master Node
+[xmlrpc][INFO] 2023-09-13 13:02:43,872: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2023-09-13 13:02:43,873: Started XML-RPC server [http://LAPTOP-CB8EFKQO:11311/]
+[xmlrpc][INFO] 2023-09-13 13:02:43,873: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2023-09-13 13:02:43,873: Master initialized: port[11311], uri[http://LAPTOP-CB8EFKQO:11311/]
+[rosmaster.master][INFO] 2023-09-13 13:02:43,977: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2023-09-13 13:02:43,979: +PARAM [/roslaunch/uris/host_laptop_cb8efkqo__38745] by /roslaunch
+[rosmaster.master][INFO] 2023-09-13 13:02:44,148: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2023-09-13 13:02:44,148: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2023-09-13 13:02:44,159: +SERVICE [/rosout/get_loggers] /rosout http://LAPTOP-CB8EFKQO:36389/
+[rosmaster.master][INFO] 2023-09-13 13:02:44,160: +SERVICE [/rosout/set_logger_level] /rosout http://LAPTOP-CB8EFKQO:36389/
+[rosmaster.master][INFO] 2023-09-13 13:02:44,161: +PUB [/rosout_agg] /rosout http://LAPTOP-CB8EFKQO:36389/
+[rosmaster.master][INFO] 2023-09-13 13:02:44,164: +SUB [/rosout] /rosout http://LAPTOP-CB8EFKQO:36389/
+[rosmaster.master][INFO] 2023-09-13 13:02:44,276: +PUB [/rosout] /rosbag http://LAPTOP-CB8EFKQO:39887/
+[rosmaster.master][INFO] 2023-09-13 13:02:44,277: +SERVICE [/rosbag/get_loggers] /rosbag http://LAPTOP-CB8EFKQO:39887/
+[rosmaster.master][INFO] 2023-09-13 13:02:44,277: +SERVICE [/rosbag/set_logger_level] /rosbag http://LAPTOP-CB8EFKQO:39887/
+[rosmaster.master][INFO] 2023-09-13 13:02:44,279: +PUB [/clock] /rosbag http://LAPTOP-CB8EFKQO:39887/
+[rosmaster.master][INFO] 2023-09-13 13:02:44,279: +SERVICE [/rosbag/pause_playback] /rosbag http://LAPTOP-CB8EFKQO:39887/
+[rosmaster.master][INFO] 2023-09-13 13:02:44,280: +CACHEDPARAM [/rosout_disable_topics_generation] by /rosbag
+[rosmaster.master][INFO] 2023-09-13 13:02:44,305: +PUB [/encoder/angle] /rosbag http://LAPTOP-CB8EFKQO:39887/
+[rosmaster.master][INFO] 2023-09-13 13:02:44,373: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:36389/ ['http://LAPTOP-CB8EFKQO:39887/']
+[rosmaster.master][INFO] 2023-09-13 13:02:44,380: +PUB [/rosout] /encoder_example_node http://LAPTOP-CB8EFKQO:45437/
+[rosmaster.master][INFO] 2023-09-13 13:02:44,381: +SERVICE [/encoder_example_node/get_loggers] /encoder_example_node http://LAPTOP-CB8EFKQO:45437/
+[rosmaster.master][INFO] 2023-09-13 13:02:44,382: +SERVICE [/encoder_example_node/set_logger_level] /encoder_example_node http://LAPTOP-CB8EFKQO:45437/
+[rosmaster.master][INFO] 2023-09-13 13:02:44,385: +SUB [/encoder/angle] /encoder_example_node http://LAPTOP-CB8EFKQO:45437/
+[rosmaster.master][INFO] 2023-09-13 13:02:44,386: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:36389/ ['http://LAPTOP-CB8EFKQO:39887/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-13 13:02:44,387: +PUB [/encoder/velocity] /encoder_example_node http://LAPTOP-CB8EFKQO:45437/
+[rosmaster.master][INFO] 2023-09-13 13:02:44,387: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:36389/ ['http://LAPTOP-CB8EFKQO:39887/', 'http://LAPTOP-CB8EFKQO:45437/']
+[rosmaster.master][INFO] 2023-09-13 13:02:44,389: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:36389/ ['http://LAPTOP-CB8EFKQO:39887/', 'http://LAPTOP-CB8EFKQO:45437/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-13 13:02:44,591: +CACHEDPARAM [/rosout/omit_topics] by /rosout
+[rosmaster.master][INFO] 2023-09-13 13:02:49,099: -PUB [/rosout] /rosbag http://LAPTOP-CB8EFKQO:39887/
+[rosmaster.master][INFO] 2023-09-13 13:02:49,100: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:36389/ ['http://LAPTOP-CB8EFKQO:45437/']
+[rosmaster.master][INFO] 2023-09-13 13:02:49,101: -PUB [/clock] /rosbag http://LAPTOP-CB8EFKQO:39887/
+[rosmaster.master][INFO] 2023-09-13 13:02:49,103: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:36389/ ['http://LAPTOP-CB8EFKQO:45437/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-13 13:02:49,103: -PUB [/encoder/angle] /rosbag http://LAPTOP-CB8EFKQO:39887/
+[rosmaster.master][INFO] 2023-09-13 13:02:49,103: publisherUpdate[/encoder/angle] -> http://LAPTOP-CB8EFKQO:45437/ []
+[rosmaster.master][INFO] 2023-09-13 13:02:49,105: -SERVICE [/rosbag/get_loggers] /rosbag rosrpc://LAPTOP-CB8EFKQO:57251
+[rosmaster.master][INFO] 2023-09-13 13:02:49,106: -SERVICE [/rosbag/set_logger_level] /rosbag rosrpc://LAPTOP-CB8EFKQO:57251
+[rosmaster.master][INFO] 2023-09-13 13:02:49,107: -SERVICE [/rosbag/pause_playback] /rosbag rosrpc://LAPTOP-CB8EFKQO:57251
+[rosmaster.master][INFO] 2023-09-13 13:02:49,108: -CACHEDPARAM [/rosout_disable_topics_generation] by /rosbag
+[rosmaster.master][INFO] 2023-09-13 13:02:49,119: publisherUpdate[/encoder/angle] -> http://LAPTOP-CB8EFKQO:45437/ []: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-13 13:02:49,864: +PUB [/rosout] /rqt_plot http://LAPTOP-CB8EFKQO:37163/
+[rosmaster.master][INFO] 2023-09-13 13:02:49,872: +SERVICE [/rqt_plot/get_loggers] /rqt_plot http://LAPTOP-CB8EFKQO:37163/
+[rosmaster.master][INFO] 2023-09-13 13:02:49,876: +SERVICE [/rqt_plot/set_logger_level] /rqt_plot http://LAPTOP-CB8EFKQO:37163/
+[rosmaster.master][INFO] 2023-09-13 13:02:49,887: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:36389/ ['http://LAPTOP-CB8EFKQO:45437/', 'http://LAPTOP-CB8EFKQO:37163/']
+[rosmaster.master][INFO] 2023-09-13 13:02:49,922: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:36389/ ['http://LAPTOP-CB8EFKQO:45437/', 'http://LAPTOP-CB8EFKQO:37163/']: sec=0.03, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-13 13:02:50,334: +SUB [/encoder/angle] /rqt_plot http://LAPTOP-CB8EFKQO:37163/
+[rosmaster.master][INFO] 2023-09-13 13:02:50,373: +SUB [/encoder/velocity] /rqt_plot http://LAPTOP-CB8EFKQO:37163/
+[rosmaster.master][INFO] 2023-09-13 13:05:56,094: -SUB [/encoder/angle] /rqt_plot http://LAPTOP-CB8EFKQO:37163/
+[rosmaster.master][INFO] 2023-09-13 13:05:56,104: -SUB [/encoder/velocity] /rqt_plot http://LAPTOP-CB8EFKQO:37163/
+[rosmaster.master][INFO] 2023-09-13 13:05:56,168: -PUB [/rosout] /rqt_plot http://LAPTOP-CB8EFKQO:37163/
+[rosmaster.master][INFO] 2023-09-13 13:05:56,168: -SERVICE [/rqt_plot/get_loggers] /rqt_plot rosrpc://LAPTOP-CB8EFKQO:43431
+[rosmaster.master][INFO] 2023-09-13 13:05:56,168: -SERVICE [/rqt_plot/set_logger_level] /rqt_plot rosrpc://LAPTOP-CB8EFKQO:43431
+[rosmaster.master][INFO] 2023-09-13 13:05:56,178: -PUB [/rosout] /encoder_example_node http://LAPTOP-CB8EFKQO:45437/
+[rosmaster.master][INFO] 2023-09-13 13:05:56,179: -PUB [/encoder/velocity] /encoder_example_node http://LAPTOP-CB8EFKQO:45437/
+[rosmaster.master][INFO] 2023-09-13 13:05:56,179: -SUB [/encoder/angle] /encoder_example_node http://LAPTOP-CB8EFKQO:45437/
+[rosmaster.master][INFO] 2023-09-13 13:05:56,180: -SERVICE [/encoder_example_node/get_loggers] /encoder_example_node rosrpc://LAPTOP-CB8EFKQO:60089
+[rosmaster.master][INFO] 2023-09-13 13:05:56,181: -SERVICE [/encoder_example_node/set_logger_level] /encoder_example_node rosrpc://LAPTOP-CB8EFKQO:60089
+[rosmaster.master][INFO] 2023-09-13 13:05:56,221: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:36389/ ['http://LAPTOP-CB8EFKQO:45437/']
+[rosmaster.master][INFO] 2023-09-13 13:05:56,221: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:36389/ ['http://LAPTOP-CB8EFKQO:45437/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-13 13:05:56,222: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:36389/ []
+[rosmaster.master][INFO] 2023-09-13 13:05:56,222: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:36389/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-13 13:05:56,524: -PUB [/rosout_agg] /rosout http://LAPTOP-CB8EFKQO:36389/
+[rosmaster.master][INFO] 2023-09-13 13:05:56,526: -SUB [/rosout] /rosout http://LAPTOP-CB8EFKQO:36389/
+[rosmaster.master][INFO] 2023-09-13 13:05:56,528: -SERVICE [/rosout/get_loggers] /rosout rosrpc://LAPTOP-CB8EFKQO:49453
+[rosmaster.master][INFO] 2023-09-13 13:05:56,529: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://LAPTOP-CB8EFKQO:49453
+[rosmaster.master][INFO] 2023-09-13 13:05:56,531: -CACHEDPARAM [/rosout/omit_topics] by /rosout
+[rosmaster.main][INFO] 2023-09-13 13:05:56,615: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2023-09-13 13:05:56,615: stopping master...
+[rospy.core][INFO] 2023-09-13 13:05:56,616: signal_shutdown [atexit]

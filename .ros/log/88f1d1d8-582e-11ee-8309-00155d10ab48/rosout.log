@@ -1,0 +1,10 @@
+
+
+1695266740.133664315  Node Startup
+1695266740.458555387 WARN /open_base/robot_state_publisher [/tmp/binarydeb/ros-melodic-robot-state-publisher-1.14.1/src/joint_state_listener.cpp:171(main)] [topics: /rosout] The 'state_publisher' executable is deprecated. Please use 'robot_state_publisher' instead
+1695266740.815108547 INFO /open_base/rviz [/tmp/binarydeb/ros-melodic-rviz-1.13.30/src/rviz/ogre_helpers/render_system.cpp:85(RenderSystem::forceGlVersion)] [topics: /rosout] Forcing OpenGl version 0.
+1695266740.763257026 INFO /open_base/controller_spawner [spawner:121(main)] [topics: /rosout] Controller Spawner: Waiting for service controller_manager/load_controller
+1695266741.319765848 INFO /open_base/rviz [/tmp/binarydeb/ros-melodic-rviz-1.13.30/src/rviz/ogre_helpers/render_system.cpp:462(RenderWindow* rviz::RenderSystem::makeRenderWindow)] [topics: /rosout] Stereo is NOT SUPPORTED
+1695266741.322907846 INFO /open_base/rviz [/tmp/binarydeb/ros-melodic-rviz-1.13.30/src/rviz/ogre_helpers/render_system.cpp:183(RenderSystem::detectGlVersion)] [topics: /rosout] OpenGL device: llvmpipe (LLVM 10.0.0, 256 bits)
+1695266741.323046546 INFO /open_base/rviz [/tmp/binarydeb/ros-melodic-rviz-1.13.30/src/rviz/ogre_helpers/render_system.cpp:230(RenderSystem::detectGlVersion)] [topics: /rosout] OpenGl version: 3.1 (GLSL 1.4).
+1695266770.965789079 WARN /open_base/controller_spawner [spawner:138(main)] [topics: /rosout] Controller Spawner couldn't find the expected controller_manager ROS interface.

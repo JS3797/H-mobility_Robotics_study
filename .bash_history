@@ -500,3 +500,419 @@ roslaunch kinematics_demo singularity.launch robot:=puma_560
 roslaunch kinematics_demo singularity.launch robot:=rrr
 source ~/catkin_ws/devel/setup.bash 
 roslaunch kinematics_demo singularity.launch robot:=rrr
+git remote add origin https://github.com/JS3797/H-mobility_Robotics_study.git
+git remote -v
+git config --gloabla user.email "ycocori2000@naver.com"
+git config --gloabal user.email "ycocori2000@naver.com"
+git config --global user.email "ycocori2000@naver.com"
+ls
+catkin_create_pkg workspace roscpp std_msgs
+ls
+cd workspace/
+ls
+mkdir launch
+cd ~/catkin_ws/
+catkin_make -DCATKIN_WHITELIST_PACKAGES="workspace"
+source ~/catkin_ws/devel/setup.bash 
+git remote -v
+git remote remove origin
+git remote -v
+rosfind rrr_moveit_config
+find rrr_moveit_config
+cd catkin_ws/
+ls
+cd ..
+find kinematics demo
+find kinematics_demo
+catkin_make -DCATKIN_WHITELIST_PACKAGES="workspace"
+source ~/catkin_ws/devel/setup.bash 
+roslaunch scara_moveit_config demo.launch
+roslaunch rrr_moveit_config demo.launch
+source ~/catkin_ws/devel/setup.bash 
+roslaunch workspace reachable_ws_fk.launch robot:=scara sleep_time:=0.1
+catkin_make -DCATKIN_WHITELIST_PACKAGES="workspace"
+roslaunch workspace reachable_ws_fk.launch robot:=scara sleep_time:=0.1
+roslaunch workspace reachable_ws_fk.launch robot:=rrr sleep_time:=0.1
+clear
+cd ..
+ls
+cd catkin_ws/
+ls
+cd src
+ls
+cd ..
+catkin_create_pkg workspace roscpp std_msgs
+ls
+catkin_make -DCATKIN_WHITELIST_PACKAGES="workspace"
+cd catkin_ws/
+catkin_make -DCATKIN_WHITELIST_PACKAGES="workspace"
+roslaunch scara_moveit_config demo.launch
+source ~/catkin_ws/devel/setup.bash
+roslaunch scara_moveit_config demo.launch
+catkin_create_pkg encoder_example roscpp std_msgs geometry_msgs
+cd ..
+cd encoder_example && mkdir bag launch
+source ~/catkin_ws/devel/setup.bash
+roslaunch workspace reachable_ws_fk.launch robot:=scara sleep_time:=0.1
+cd catkin_ws/
+roslaunch encoder_example demo.launch
+source ~/catkin_ws/devel/setup.bash
+roslaunch encoder_example demo.launch
+catkin_make -DCATKIN_WHITELIST_PACKAGES="encoder_example"
+source ~/catkin_ws/devel/setup.bash
+roslaunch encoder_example demo.launch
+catkin_make
+source ~/catkin_ws/devel/setup.bash
+roslaunch encoder_example demo.launch
+rostopic echo /imu_raw
+rostopic list
+rostopic echo /mag_raw
+rosbag play mag_calibration.bag
+mkdir ~/external_libs;
+cd ~/external_libs/
+git clone https://github.com/jbeder/yaml-cpp/build
+git clone https://github.com/jbeder/yaml-cpp.git
+mkdir yaml-cpp/build;
+cd yaml-cpp/build/
+cmake ..
+cd ~/catkin_ws/src
+catkin_create_pkg calibration_demo roscpp roslib std_msgs sensor_msgs
+cd catkin_ws/
+catkin_create_pkg ftsensor_example roscpp std_msgs geometry_msgs
+cd ftsensor_example && mkdir bag launch
+cd..
+cd ..
+source ~/catkin_ws/devel/setup.bash 
+roslaunch ftsensor_example demo.launch
+source ~/catkin_ws/devel/setup.bash 
+roslaunch ftsensor_example demo.launch
+roscore
+rosrun calibration_demo magnetometer_calibration
+ls
+cd catkin_ws/
+catkin_make -DCATKIN_WHITELIST_PACKAGES="calibration_demo"
+source ~/catkin_ws/devel/setup.bash 
+rosrun calibration_demo manetometer_calibration
+rosrun calibration_demo magnetometer_calibration
+cd ~/calibration_demo/config
+cd src
+cd calibration_demo/
+ls
+/home/jinsu_park/catkin_ws/src/calibration_demo/config/magnetometer_calibration.yaml
+rosrun calibration_demo magnetometer_calibration
+source ~/catkin_ws/devel/setup.bash 
+rosrun calibration_demo gyroscope
+catkin_make -DCATKIN WHITELIST="calibration_demo"
+catkin_make -DCATKIN WHITELIST_PACKAGES="calibration_demo"
+cd ..
+catkin_make -DCATKIN WHITELIST_PACKAGES="calibration_demo"
+source ~/catkin_ws/devel/setup.bash 
+catkin_make -DCATKIN WHITELIST_PACKAGES="calibration_demo"
+rosrun calibration_demo gyroscope
+cd src
+ls
+cd rosbag_archive/
+ls
+cd imu
+rosbag play mag_calibration.bag
+cd catkin_ws/
+catkin_make -DCATKIN_WHITELIST_PACKAGES="calibration_demo"
+source ~/catkin_ws/devel/setup.bash 
+rosrun calibration_demo gyroscope
+catkin_make -DCATKIN_WHITELIST_PACKAGES="calibration_demo"
+rosrun calibration_demo inertial_odom_acc_mag 
+rviz
+cd ~/src/rosbag_archive
+cd catkin_ws/src/rosbag_archive/imu/
+rosbag play circle.bag
+cldar
+clear
+
+
+rosbag play circle.bag
+roscore
+cd ~/catkin_ws/src
+git clone https://github.com/ros-agriculture/ublox_f9p.git
+git clone https://github.com/ros-agriculture/ntrip_ros.git
+git clone https://github.com/tilk/rtcm_msgs.git
+sudo chmod 777 /dev/ttyACM0
+cd ~/catkin_ws/src
+git clone https://github.com/ros-drivers/velodyne.git
+cd ..
+catkin_make -DCATKIN WHITELIST PACKAGES="velodyne"
+catkin_make
+roslaunch velodyne_pointcloud VLP16_points.launch
+catkin_make -DCATKIN_WHITELIST_PACKAGES="velodyne"
+roslaunch velodyne_pointcloud VLP16_points.launch
+cd src
+git clone https://github.com/jiyou384/velarray_ROI.git
+cd ~/catkin_ws/
+catkin_make -DCATKIN_WHITELIST_PACKAGES="velarray_ROI"
+catkin_make
+cd /mnt/c/Users/jinsu_park/Downloads
+cd ~/mnt/c/Users/jinsu_park/Downloads
+cd ~/mnt
+cd /mnt/c/Users
+ls
+cd ycoco
+cd Downloads/
+rosbag play -l velodyne.bag
+cd velodyne
+ls
+rosbag play -l velodyne.bag
+cd ..
+cd d
+ls
+cd Users/
+ls
+cd ycoco
+rosbag play -l velodyne.bag
+cd velodyne
+ls
+cd Downloads/
+rosbag play -l velodyne.bag
+roscore
+rosrun lidar_roi_example lidar_roi_example
+cd ~/catkin_ws/src
+rosrun lidar_roi_example lidar_roi_example
+source ~/catkin_ws/devel/setup.bash
+rosrun lidar_roi_example lidar_roi_example
+cd ..
+catkin_make -DCKATKIN_WHITELIST_PACKAGES="velarray_ROI"
+rosrun lidar_roi_example lidar_roi_example
+cd ~/mnt/d/Users/ycoco
+cd ~/mnt
+cd ..
+cd mnt
+cd ~/mnt
+ls
+cd /mnt
+cd d
+cd Users
+cd ycoco/
+cd Downloads/
+rosrun lidar_roi_example lidar_roi_example
+cd ~/catkin_ws/
+rosrun lidar_roi_example lidar_roi_example
+catkin_make
+rosrun lidar_roi_example lidar_roi_example
+cd src
+rosrun lidar_roi_example lidar_roi_example
+cd ..
+catkin_make -DCATKIN_WHITELIST_PACKAGES="velarray_ROI"
+rosrun lidar_roi_example lidar_roi_example
+source ~/catkin_ws/devel/setup.bash 
+rosrun lidar_roi_example lidar_roi_example
+catkin_make -DCATKIN_WHITELIST_PACKAGES="velodyne"
+source ~/catkin_ws/devel/setup.bash 
+rosrun lidar_roi_example lidar_roi_example
+cd src
+rosrun lidar_roi_example lidar_roi_example
+catkin_make -DCATKIN_WHITELIST_PACKAGES="velarray_ROI"
+cd ..
+catkin_make -DCATKIN_WHITELIST_PACKAGES="velarray_ROI"
+source ~/catkin_ws/devel/setup.bash 
+rosrun lidar_roi_example lidar_roi_example
+cd ~/catkin_ws/
+source ~/catkin_ws/devel/setup.bash
+catkin_make
+source ~/catkin_ws/devel/setup.bash
+rosrun lidar_roi_example lidar_roi_example
+cd src
+catkin_make -DCATKIN_WHITELIST_PACKAGES="velarray_ROI"
+cd ..
+catkin_make -DCATKIN_WHITELIST_PACKAGES="velarray_ROI"
+source ~/catkin_ws/devel/setup.bash
+rosrun lidar_roi_example lidar_roi_example
+sudo apt-get install ros-melodic-realsense2-camera
+roslaunch realsense2_camera rs_camera.launch
+roslaunch realsense2_camera rs_camera.launch filters:=pointcloud
+rosbag play -l realsense_d455.bag
+roscore
+source ~/catkin_ws/devel/setup.bash 
+roslaunch open_base rviz.launch
+cd catkin_ws/
+roslaunch open_base rviz.launch
+source ~/catkin_ws/devel/setup.bash 
+roslaunch open_base rviz.launch
+rosbag play -l realsense_d455.bag
+rostopic echo --noarr /camera/color/image_raw
+cd catkin_ws/src/
+rostopic echo --noarr /camera/color/image_raw
+cd ..
+sudo apt install ros-melodic-effort-controllers
+sudo apt install ros-melodic-joint-state-controller
+sudo apt install ros-melodic-position-controllers
+cd src
+git clone https://github.com/rise-lab-skku/OpenBase.git
+cd ..
+cakin_make -DCATKIN_WHITELIST_PACKAGES="OpenBase"
+catkin_make -DCATKIN_WHITELIST_PACKAGES="OpenBase"
+source ~/catkin_ws/devel/setup.bash 
+rosrun open_base wheel_command
+catkin_make
+catkin_make -DCATKIN_WHITELIST_PACKAGES="OpenBase"
+rosrun open_base wheel_command
+roscore
+cd catkin_ws/
+catkin_maek
+catkin_make
+roscore
+roslaunch open_base rviz.launch
+source ~/catkin_ws/devel/setup.bash 
+roslaunch open_base rviz.launch
+source ~/catkin_ws/devel/setup.bash 
+rosrun open_base wheel_command
+catkin_make -DCATKIN_WHITELIST_PACKAGES="OpenBase
+catkin_make -DCATKIN_WHITELIST_PACKAGES="OpenBase"
+catkin_make -DCATKIN_WHITELIST_PACKAGES="OpenBase"
+source ~/catkin_ws/devel/setup.bash 
+rosrun open_base wheel_command
+rosrun Open_base wheel_command
+rosrun Open_Base wheel_command
+rosrun open_base wheel_command
+catkin_make -DCATKIN_WHITELIST_PACKAGES="OpenBase"
+rosrun open_base wheel_command
+cd src
+cd OpenBase/
+rosrun open_base wheel_command
+sudo apt install ros-melodic-effort-controllers
+sudo apt install ros-melodic-joint-state-controller
+sudo apt install ros-melodic-position-controllers
+cd catkin_ws
+catkin_make -DACTKIN_WHITELIST_PACKAGES="open_base"
+source ~/catkin_ws/devel/setup.bash 
+roslaunch open_base rviz.launch
+catkin_make "Open_Base"
+catkin_make install 
+source ~/catkin_ws/devel/setup.bash 
+roslaunch open_base rviz.launch
+source ~/catkin_ws/devel/setup.bash 
+roslaunch open_base rviz.launch
+source ~/catkin_ws/devel/setup.bash 
+rosrun open_base wheel_command
+rqt_graph
+cd src
+git clone https://github.com/rise-lab-skku/OpenBase.git
+cd ..
+catkin_maek
+catkin_make
+source devel/setup.bash 
+rosrun open_base wheel_command
+cd src
+git clone https://github.com/rise-lab-skku/OpenBase.git
+cd ..
+catkin_make -DCATKIN_WHITELIST_PACKAGES="Open_Base"
+cd src
+git clone https://github.com/rise-lab-skku/turtlebot3
+git clone https://github.com/rise-lab-skku/turtlebot3_msgs
+git clone https://github.com/rise-lab-skku/turtlebot3_simulations
+sudo apt install ros-melodic-navigation
+sudo apt install ros-melodic-gazebo-ros
+sudo apt install ros-melodic-navigation
+cd turtlebot3_simulations/turtlebot3_fake/
+mkdir msg
+cd ~/catkin_ws/
+catkin_make
+source ~/catkin_ws/devel/setup.bash
+catkin_make
+catkin_make -DCATKIN_WHITELIST_PACKAGES="turtlebot3"
+catkin_make -DCATKIN_WHITELIST_PACKAGES="turtlebot3_msgs"
+catkin_make -DCATKIN_WHITELIST_PACKAGES="turtlebot3_simulation"
+catkin_make -DCATKIN_WHITELIST_PACKAGES="turtlebot3_simulations"
+export TURTLEBOT3_MODEL=burger
+source ~/catkin_ws/devel/setup.bash
+roslaunch turtlebot3_fake turtlebot3_fake.launch
+rviz rrr_moveit_Config
+rviz rrr_moveit_config
+roslaunch turtlebot3_fake turtlebot3_fake.launch
+rosrun tf2_tools view_frames.py
+roslaunch turtlebot3_fake turtlebot3_fake.launch
+rosrun tf view_frames
+rosrun rqt_tf_tree rqt_tf_tree 
+rostopic list
+catkin_make -DCATKIN_WHITELIST_PACKAGES="turtlebot_path_tracker
+catkin_make -DCATKIN_WHITELIST_PACKAGES="turtlebot_path_tracker"
+catkin_maek
+catkin_make
+git remote -v
+git remote remove origin
+git remote -v
+catkin_make -DCATKIN_WHITELIST_PACKAGES="turtlebot_path_tracker"
+catkin_make
+git remote -v
+cd catkin_ws/
+catkin_make
+roslaunch turtlebot3_fake turtlebot3_fake launch
+source ~/catkin_ws/devel/setup.bash
+roslaunch turtlebot3_fake turtlebot3_fake launch
+ros core
+roscore
+source ~/catkin_ws/devel/setup.bash
+export TURTLEBOT3_MODEL=burger
+roslaunch turtlebot3_fake turtlebot3_fake.launch 
+cd catkin_ws/
+catkin_make
+catkin_make -DCAKIN_WHITELISTS_PACKAGES="traj_plan"
+cd src
+git clone https://github.com/ros-drivers/velodyne.git
+cd ..
+catkin_make
+sudo apt-get update && sudo apt-get install libpcap-dev
+catkin_make
+catkin_make -DCATKIN_WHITELISTS_PAKCAGES="traj_plan"
+catkin_make -DCATKIN_WHITELISTS_PAKCAGES="encoder_example"
+cd src
+cd traj_plan/
+chmod +x jjj.cpp
+chmod +x JointInterpolation.h
+cd ..
+make VERBOSE=1
+cmake
+cmake --help
+cakin_make
+source /opt/ros/ros-melodic/setup.bash
+mkdir src
+cd ..
+cd catkin_ws
+ls
+mkdir src
+cd ~/catkin_ws
+catkin_make
+cd src
+git clone https://github.com/rise-lab-skku/robotics-course/tree/main/turtlebot_path_tracker
+catkin_create_pkg turtlebot_path_tracker
+cd turtlebot_path_tracker/
+cd ..
+catkin_make
+roslaunch turtlebot_path_tracker turtlebot_path_tracker.launch
+source ~/catkin_ws/devel/setup.bash
+roslaunch turtlebot_path_tracker turtlebot_path_tracker.launch
+source ~/catkin_ws/devel/setup.bash
+roslaunch turtlebot3_fake turtlebot3_fake.launch
+cd src
+git clone https://github.com/rise-lab-skku/turtlebot3
+git clone https://github.com/rise-lab-skku/turtlebot3_msgs
+git clone https://github.com/rise-lab-skku/turtlebot3_simulations
+cd ..
+catkin_make
+export TURTLEBOT3_MODEL=burger
+roslaunch turtlebot3_fake turtlebot3_fake.launch 
+sudo apt install ros-melodic-navigation
+sudo apt install ros-melodic-gazebo-ros
+cd catkin_ws
+catkin_make
+export TURTLEBOT3_MODEL=burger
+roslaunch turtlebot3_fake turtlebot3_fake.launch
+sourc ~/catkin_ws/devel/setup.bash
+source ~/catkin_ws/devel/setup.bash
+roslaunch turtlebot3_fake turtlebot3_fake.launch
+roscore
+ls
+cd catkin_ws1
+git clone https://github.com/ODIN3797/H-mobility_Robotics_study.git
+cd ..
+git clone https://github.com/ODIN3797/H-mobility_Robotics_study.git
+git pull
+git add *
+git push

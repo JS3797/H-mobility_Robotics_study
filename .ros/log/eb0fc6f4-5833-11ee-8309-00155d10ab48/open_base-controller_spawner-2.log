@@ -1,0 +1,18 @@
+[rospy.client][INFO] 2023-09-21 13:04:12,335: init_node, name[/open_base/controller_spawner], pid[8038]
+[xmlrpc][INFO] 2023-09-21 13:04:12,336: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-21 13:04:12,336: Started XML-RPC server [http://LAPTOP-CB8EFKQO:33723/]
+[rospy.impl.masterslave][INFO] 2023-09-21 13:04:12,336: _ready: http://LAPTOP-CB8EFKQO:33723/
+[rospy.init][INFO] 2023-09-21 13:04:12,336: ROS Slave URI: [http://LAPTOP-CB8EFKQO:33723/]
+[xmlrpc][INFO] 2023-09-21 13:04:12,337: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-21 13:04:12,337: Registering with master node http://localhost:11311
+[rospy.init][INFO] 2023-09-21 13:04:12,438: registered with master
+[rospy.rosout][INFO] 2023-09-21 13:04:12,438: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-21 13:04:12,441: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-21 13:04:12,442: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rosout][INFO] 2023-09-21 13:04:12,444: Controller Spawner: Waiting for service controller_manager/load_controller
+[rospy.internal][INFO] 2023-09-21 13:04:12,746: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.core][INFO] 2023-09-21 13:04:15,280: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2023-09-21 13:04:15,282: topic[/rosout] removing connection to /rosout
+[rospy.impl.masterslave][INFO] 2023-09-21 13:04:15,283: signal-2
+[rosout][WARNING] 2023-09-21 13:04:15,415: Controller Spawner couldn't find the expected controller_manager ROS interface.
+[rospy.core][INFO] 2023-09-21 13:04:15,417: signal_shutdown [atexit]

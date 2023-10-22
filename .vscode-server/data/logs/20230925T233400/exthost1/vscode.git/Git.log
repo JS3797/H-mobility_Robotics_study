@@ -1,0 +1,21 @@
+2023-09-25 23:34:06.221 [info] 로그 수준: Info
+2023-09-25 23:34:06.221 [info] "git"에서 찾은 git 유효성을 검사하는 중
+2023-09-25 23:34:06.221 [info] "2.17.1"에서 git "git"을(를) 사용하는 중
+2023-09-25 23:34:06.221 [info] > git rev-parse --show-toplevel [24ms]
+2023-09-25 23:34:06.231 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-25 23:34:06.243 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-25 23:34:06.255 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-25 23:34:06.265 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-25 23:34:06.274 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-25 23:34:06.285 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-25 23:34:06.294 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-25 23:34:06.310 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-25 23:34:06.320 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-25 23:34:06.334 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-25 23:34:06.343 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-25 23:34:06.351 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-25 23:34:06.359 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-25 23:34:06.364 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-25 23:34:06.374 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-25 23:34:06.380 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-25 23:34:06.387 [info] > git rev-parse --show-toplevel [1ms]

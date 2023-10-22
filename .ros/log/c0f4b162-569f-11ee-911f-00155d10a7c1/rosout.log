@@ -1,0 +1,4 @@
+
+
+1695095464.573986442  Node Startup
+1695095467.814149122 INFO /play_1695095467798965312 [/tmp/binarydeb/ros-melodic-rosbag-1.14.13/src/player.cpp:136(Player::publish)] [topics: /rosout, /clock] Opening velodyne.bag

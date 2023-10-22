@@ -1,0 +1,14 @@
+
+
+1695180642.891420130  Node Startup
+1695180643.030066822 INFO /camera/realsense2_camera_manager [/tmp/binarydeb/ros-melodic-nodelet-1.9.16/src/loader.cpp:233(Loader::Impl::advertiseRosApi)] [topics: /rosout] Initializing nodelet with 8 worker threads.
+1695180643.105115018 INFO /camera/realsense2_camera [/tmp/binarydeb/ros-melodic-nodelet-1.9.16/src/nodelet.cpp:196(loadNodelet)] [topics: /rosout] Loading nodelet /camera/realsense2_camera of type realsense2_camera/RealSenseNodeFactory to manager realsense2_camera_manager with the following remappings:
+1695180643.424726999 INFO /camera/realsense2_camera_manager [/tmp/binarydeb/ros-melodic-realsense2-camera-2.3.2/src/realsense_node_factory.cpp:37(RealSenseNodeFactory::RealSenseNodeFactory)] [topics: /rosout] RealSense ROS v2.3.2
+1695180643.425889299 INFO /camera/realsense2_camera_manager [/tmp/binarydeb/ros-melodic-realsense2-camera-2.3.2/src/realsense_node_factory.cpp:38(RealSenseNodeFactory::RealSenseNodeFactory)] [topics: /rosout] Built with LibRealSense v2.50.0
+1695180643.426590799 INFO /camera/realsense2_camera_manager [/tmp/binarydeb/ros-melodic-realsense2-camera-2.3.2/src/realsense_node_factory.cpp:39(RealSenseNodeFactory::RealSenseNodeFactory)] [topics: /rosout] Running with LibRealSense v2.50.0
+1695180643.462895497 WARN /camera/realsense2_camera_manager [/tmp/binarydeb/ros-melodic-realsense2-camera-2.3.2/src/realsense_node_factory.cpp:93(RealSenseNodeFactory::getDevice)] [topics: /rosout, /camera/realsense2_camera_manager/bond] No RealSense devices were found!
+1695180649.467527067 WARN /camera/realsense2_camera_manager [/tmp/binarydeb/ros-melodic-realsense2-camera-2.3.2/src/realsense_node_factory.cpp:93(RealSenseNodeFactory::getDevice)] [topics: /rosout, /camera/realsense2_camera_manager/bond] No RealSense devices were found!
+1695180655.471151628 WARN /camera/realsense2_camera_manager [/tmp/binarydeb/ros-melodic-realsense2-camera-2.3.2/src/realsense_node_factory.cpp:93(RealSenseNodeFactory::getDevice)] [topics: /rosout, /camera/realsense2_camera_manager/bond] No RealSense devices were found!
+1695180661.493712021 WARN /camera/realsense2_camera_manager [/tmp/binarydeb/ros-melodic-realsense2-camera-2.3.2/src/realsense_node_factory.cpp:93(RealSenseNodeFactory::getDevice)] [topics: /rosout, /camera/realsense2_camera_manager/bond] No RealSense devices were found!
+1695180667.506691361 WARN /camera/realsense2_camera_manager [/tmp/binarydeb/ros-melodic-realsense2-camera-2.3.2/src/realsense_node_factory.cpp:93(RealSenseNodeFactory::getDevice)] [topics: /rosout, /camera/realsense2_camera_manager/bond] No RealSense devices were found!
+1695180668.549201350 INFO /camera/realsense2_camera [/tmp/binarydeb/ros-melodic-nodelet-1.9.16/src/nodelet.cpp:159(unloadNodelet)] [topics: /rosout, /camera/realsense2_camera_manager/bond] Unloading nodelet /camera/realsense2_camera from manager realsense2_camera_manager

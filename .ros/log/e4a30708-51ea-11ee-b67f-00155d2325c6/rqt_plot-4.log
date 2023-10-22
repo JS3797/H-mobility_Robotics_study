@@ -1,0 +1,19 @@
+[rospy.client][INFO] 2023-09-13 13:06:26,398: init_node, name[/rqt_plot], pid[11563]
+[xmlrpc][INFO] 2023-09-13 13:06:26,399: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-13 13:06:26,399: Started XML-RPC server [http://LAPTOP-CB8EFKQO:37919/]
+[rospy.init][INFO] 2023-09-13 13:06:26,399: ROS Slave URI: [http://LAPTOP-CB8EFKQO:37919/]
+[rospy.impl.masterslave][INFO] 2023-09-13 13:06:26,400: _ready: http://LAPTOP-CB8EFKQO:37919/
+[rospy.registration][INFO] 2023-09-13 13:06:26,400: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-13 13:06:26,401: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2023-09-13 13:06:26,500: registered with master
+[rospy.rosout][INFO] 2023-09-13 13:06:26,501: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-13 13:06:26,505: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-13 13:06:26,507: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-13 13:06:26,809: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2023-09-13 13:06:26,834: topic[/encoder/velocity] adding connection to [http://LAPTOP-CB8EFKQO:36715/], count 0
+[rospy.internal][INFO] 2023-09-13 13:06:37,925: topic impl's ref count is zero, deleting topic /encoder/angle...
+[rospy.internal][INFO] 2023-09-13 13:06:37,929: topic impl's ref count is zero, deleting topic /encoder/velocity...
+[rospy.internal][INFO] 2023-09-13 13:06:37,930: topic[/encoder/velocity] removing connection to http://LAPTOP-CB8EFKQO:36715/
+[rospy.core][INFO] 2023-09-13 13:06:38,011: signal_shutdown [atexit]
+[rospy.internal][INFO] 2023-09-13 13:06:38,016: topic[/rosout] removing connection to /rosout
+[rospy.impl.masterslave][INFO] 2023-09-13 13:06:38,016: atexit

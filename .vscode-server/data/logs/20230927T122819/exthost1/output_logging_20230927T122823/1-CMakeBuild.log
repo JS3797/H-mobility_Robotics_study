@@ -1,0 +1,4 @@
+[proc] 명령 실행 중: cmake --version
+[proc] 명령 실행 중: cmake -E capabilities
+[variant] 새 variant 세트를 로드함
+[kit] /home/jinsu_park/.local/share/CMakeTools/cmake-tools-kits.json에서 1개 키트를 로드함

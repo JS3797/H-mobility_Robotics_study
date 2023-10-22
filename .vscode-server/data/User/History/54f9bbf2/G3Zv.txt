@@ -1,0 +1,29 @@
+cmake_minimum_required(VERSION 3.0.2)
+project(calibration_demo)
+
+## Compile as C++11, supported in ROS Kinetic and newer
+# add_compile_options(-std=c++11)
+
+## Find catkin macros and libraries
+## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
+## is used, also find other catkin packages
+find_package(yaml-cpp
+  PATHS ~/external_libs/yaml-cpp/build
+)
+find_package(catkin REQUIRED COMPONENTS
+  roscpp
+  roslib
+  sensor_msgs
+  std_msgs
+  geomoetry_msgs
+)
+
+catkin_package( CATKIN_DEPENDS roscpp roslib sensor_msgs std_msgs geomoetry_msgs )
+include_directories( ${catkin_INCLUDE_DIRS} )
+add_executable(magnetometer_calibration src/magnetometer_calibration.cpp)
+target_link_libraries(magnetometer_calibration
+  ${catkin_LIBRARIES}
+  yaml-cpp
+)
+
+

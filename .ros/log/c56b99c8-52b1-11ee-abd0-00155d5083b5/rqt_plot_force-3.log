@@ -1,0 +1,18 @@
+[rospy.client][INFO] 2023-09-14 12:50:01,893: init_node, name[/rqt_plot_force], pid[5117]
+[xmlrpc][INFO] 2023-09-14 12:50:01,894: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-14 12:50:01,894: Started XML-RPC server [http://LAPTOP-CB8EFKQO:38993/]
+[rospy.impl.masterslave][INFO] 2023-09-14 12:50:01,895: _ready: http://LAPTOP-CB8EFKQO:38993/
+[rospy.init][INFO] 2023-09-14 12:50:01,895: ROS Slave URI: [http://LAPTOP-CB8EFKQO:38993/]
+[rospy.registration][INFO] 2023-09-14 12:50:01,896: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-14 12:50:01,896: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2023-09-14 12:50:01,996: registered with master
+[rospy.rosout][INFO] 2023-09-14 12:50:01,997: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-14 12:50:01,998: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-14 12:50:01,999: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-14 12:50:02,222: topic[/torque_sensor] adding connection to [http://LAPTOP-CB8EFKQO:37423/], count 0
+[rospy.internal][INFO] 2023-09-14 12:50:02,256: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2023-09-14 12:50:10,368: topic[/torque_sensor] removing connection to http://LAPTOP-CB8EFKQO:37423/
+[rospy.internal][INFO] 2023-09-14 12:50:59,938: topic impl's ref count is zero, deleting topic /torque_sensor...
+[rospy.core][INFO] 2023-09-14 12:51:00,122: signal_shutdown [atexit]
+[rospy.internal][INFO] 2023-09-14 12:51:00,126: topic[/rosout] removing connection to /rosout
+[rospy.impl.masterslave][INFO] 2023-09-14 12:51:00,127: atexit

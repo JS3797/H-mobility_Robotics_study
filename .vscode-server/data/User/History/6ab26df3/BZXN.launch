@@ -1,0 +1,9 @@
+<launch>
+    //ROSbag 파일을 실행함
+    <node pkg="rosbag" type="play" name="rosbag" args="$(find encoder_example)/bag/force_torque_sensor.bag --delay 3"/>
+    //각도 값을 받아 속도로 변환해 출력해주는 node
+    <node name="encoder_example_node" pkg="encoder_example" type="encoder_example_node" output="screen"/>
+    //두 개의 토픽을 받아 그래프로 plot 해주는 node
+    <node pkg="rqt_plot" type="rqt_plot" name="rqt_plot" args="/encoder/angle/twist/angular/z
+                                                               /encoder/velocity/twist/angular/z" />
+</launch>

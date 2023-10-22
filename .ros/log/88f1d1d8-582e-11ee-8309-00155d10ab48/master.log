@@ -1,0 +1,129 @@
+[rosmaster.main][INFO] 2023-09-21 12:25:39,793: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2023-09-21 12:25:39,793: Starting ROS Master Node
+[xmlrpc][INFO] 2023-09-21 12:25:39,794: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2023-09-21 12:25:39,795: Started XML-RPC server [http://LAPTOP-CB8EFKQO:11311/]
+[rosmaster.master][INFO] 2023-09-21 12:25:39,795: Master initialized: port[11311], uri[http://LAPTOP-CB8EFKQO:11311/]
+[xmlrpc][INFO] 2023-09-21 12:25:39,795: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2023-09-21 12:25:39,865: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:39,867: +PARAM [/roslaunch/uris/host_laptop_cb8efkqo__44161] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,083: +PARAM [/open_base/left_joint_velocity_controller/pid/d] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,083: +PARAM [/open_base/left_joint_velocity_controller/pid/i] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,084: +PARAM [/open_base/parameter/initial/y] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,084: +PARAM [/open_base/parameter/initial/x] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,084: +PARAM [/open_base/left_joint_velocity_controller/pid/p] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,084: +PARAM [/open_base/joint_state_controller/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,085: +PARAM [/open_base/right_joint_velocity_controller/pid/p] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,085: +PARAM [/open_base/right_joint_velocity_controller/joint] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,085: +PARAM [/open_base/right_joint_velocity_controller/pid/i] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,085: +PARAM [/open_base/parameter/initial/theta] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,086: +PARAM [/open_base/right_joint_velocity_controller/pid/d] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,086: +PARAM [/open_base/back_joint_velocity_controller/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,086: +PARAM [/open_base/parameter/stop/angle] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,087: +PARAM [/open_base/parameter/max/omega] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,087: +PARAM [/open_base/back_joint_velocity_controller/pid/d] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,087: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,087: +PARAM [/open_base/back_joint_velocity_controller/pid/i] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,088: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,088: +PARAM [/open_base/left_joint_velocity_controller/joint] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,088: +PARAM [/open_base/back_joint_velocity_controller/pid/p] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,088: +PARAM [/open_base/robot_description] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,088: +PARAM [/open_base/right_joint_velocity_controller/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,089: +PARAM [/open_base/parameter/stop/distance] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,089: +PARAM [/open_base/back_joint_velocity_controller/joint] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,089: +PARAM [/open_base/parameter/max/v] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,089: +PARAM [/open_base/parameter/control/P] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,089: +PARAM [/open_base/parameter/wheel/radius] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,090: +PARAM [/open_base/parameter/control/I] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,090: +PARAM [/open_base/left_joint_velocity_controller/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,091: +PARAM [/open_base/joint_state_controller/publish_rate] by /roslaunch
+[rosmaster.master][INFO] 2023-09-21 12:25:40,127: +SERVICE [/rosout/get_loggers] /rosout http://LAPTOP-CB8EFKQO:44999/
+[rosmaster.master][INFO] 2023-09-21 12:25:40,128: +SERVICE [/rosout/set_logger_level] /rosout http://LAPTOP-CB8EFKQO:44999/
+[rosmaster.master][INFO] 2023-09-21 12:25:40,134: +PUB [/rosout_agg] /rosout http://LAPTOP-CB8EFKQO:44999/
+[rosmaster.master][INFO] 2023-09-21 12:25:40,137: +SUB [/rosout] /rosout http://LAPTOP-CB8EFKQO:44999/
+[rosmaster.master][INFO] 2023-09-21 12:25:40,456: +PUB [/rosout] /open_base/robot_state_publisher http://LAPTOP-CB8EFKQO:45389/
+[rosmaster.master][INFO] 2023-09-21 12:25:40,457: +SERVICE [/open_base/robot_state_publisher/get_loggers] /open_base/robot_state_publisher http://LAPTOP-CB8EFKQO:45389/
+[rosmaster.master][INFO] 2023-09-21 12:25:40,457: +SERVICE [/open_base/robot_state_publisher/set_logger_level] /open_base/robot_state_publisher http://LAPTOP-CB8EFKQO:45389/
+[rosmaster.master][INFO] 2023-09-21 12:25:40,458: +CACHEDPARAM [/rosout_disable_topics_generation] by /open_base/robot_state_publisher
+[rosmaster.master][INFO] 2023-09-21 12:25:40,467: +PUB [/tf] /open_base/robot_state_publisher http://LAPTOP-CB8EFKQO:45389/
+[rosmaster.master][INFO] 2023-09-21 12:25:40,468: +PUB [/tf_static] /open_base/robot_state_publisher http://LAPTOP-CB8EFKQO:45389/
+[rosmaster.master][INFO] 2023-09-21 12:25:40,476: +SUB [/open_base/joint_states] /open_base/robot_state_publisher http://LAPTOP-CB8EFKQO:45389/
+[rosmaster.master][INFO] 2023-09-21 12:25:40,495: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:44999/ ['http://LAPTOP-CB8EFKQO:45389/']
+[rosmaster.master][INFO] 2023-09-21 12:25:40,525: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:44999/ ['http://LAPTOP-CB8EFKQO:45389/']: sec=0.03, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-21 12:25:40,726: +CACHEDPARAM [/rosout/omit_topics] by /rosout
+[rosmaster.master][INFO] 2023-09-21 12:25:40,758: +PUB [/rosout] /open_base/controller_spawner http://LAPTOP-CB8EFKQO:34287/
+[rosmaster.master][INFO] 2023-09-21 12:25:40,760: +SERVICE [/open_base/controller_spawner/get_loggers] /open_base/controller_spawner http://LAPTOP-CB8EFKQO:34287/
+[rosmaster.master][INFO] 2023-09-21 12:25:40,761: +SERVICE [/open_base/controller_spawner/set_logger_level] /open_base/controller_spawner http://LAPTOP-CB8EFKQO:34287/
+[rosmaster.master][INFO] 2023-09-21 12:25:40,762: +CACHEDPARAM [/rosout_disable_topics_generation] by /open_base/controller_spawner
+[rosmaster.master][INFO] 2023-09-21 12:25:40,796: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:44999/ ['http://LAPTOP-CB8EFKQO:45389/', 'http://LAPTOP-CB8EFKQO:34287/']
+[rosmaster.master][INFO] 2023-09-21 12:25:40,811: +PUB [/rosout] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 12:25:40,812: +SERVICE [/open_base/rviz/get_loggers] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 12:25:40,813: +SERVICE [/open_base/rviz/set_logger_level] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 12:25:40,815: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:44999/ ['http://LAPTOP-CB8EFKQO:45389/', 'http://LAPTOP-CB8EFKQO:34287/']: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-21 12:25:40,816: +CACHEDPARAM [/rosout_disable_topics_generation] by /open_base/rviz
+[rosmaster.master][INFO] 2023-09-21 12:25:40,817: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:44999/ ['http://LAPTOP-CB8EFKQO:45389/', 'http://LAPTOP-CB8EFKQO:34287/', 'http://LAPTOP-CB8EFKQO:34925/']
+[rosmaster.master][INFO] 2023-09-21 12:25:40,820: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:44999/ ['http://LAPTOP-CB8EFKQO:45389/', 'http://LAPTOP-CB8EFKQO:34287/', 'http://LAPTOP-CB8EFKQO:34925/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-21 12:25:41,365: +SUB [/tf] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 12:25:41,371: +SUB [/tf_static] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 12:25:41,437: +PUB [/open_base/initialpose] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 12:25:41,439: +PUB [/open_base/goal] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 12:25:41,490: -PUB [/open_base/goal] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 12:25:41,491: -PUB [/open_base/initialpose] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 12:25:41,495: +PUB [/open_base/initialpose] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 12:25:41,496: +PUB [/initialpose] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 12:25:41,497: -PUB [/open_base/initialpose] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 12:25:41,498: +PUB [/open_base/goal] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 12:25:41,499: +PUB [/move_base_simple/goal] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 12:25:41,499: -PUB [/open_base/goal] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 12:25:41,500: +PUB [/clicked_point] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 12:25:41,541: +SERVICE [/open_base/rviz/reload_shaders] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 12:25:41,542: +SERVICE [/open_base/rviz/load_config] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 12:25:41,543: +SERVICE [/open_base/rviz/save_config] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 12:26:10,963: +CACHEDPARAM [/rosout_disable_topics_generation] by /open_base/controller_spawner
+[rosmaster.master][INFO] 2023-09-21 12:26:10,968: -PUB [/rosout] /open_base/controller_spawner http://LAPTOP-CB8EFKQO:34287/
+[rosmaster.master][INFO] 2023-09-21 12:26:10,969: -SERVICE [/open_base/controller_spawner/set_logger_level] /open_base/controller_spawner rosrpc://LAPTOP-CB8EFKQO:34099
+[rosmaster.master][INFO] 2023-09-21 12:26:10,969: -SERVICE [/open_base/controller_spawner/get_loggers] /open_base/controller_spawner rosrpc://LAPTOP-CB8EFKQO:34099
+[rosmaster.master][INFO] 2023-09-21 12:26:10,973: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:44999/ ['http://LAPTOP-CB8EFKQO:45389/', 'http://LAPTOP-CB8EFKQO:34925/']
+[rosmaster.master][INFO] 2023-09-21 12:26:10,994: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:44999/ ['http://LAPTOP-CB8EFKQO:45389/', 'http://LAPTOP-CB8EFKQO:34925/']: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-21 12:27:19,956: +PUB [/rosout] /rqt_gui_py_node_3197 http://LAPTOP-CB8EFKQO:37347/
+[rosmaster.master][INFO] 2023-09-21 12:27:19,958: +SERVICE [/rqt_gui_py_node_3197/get_loggers] /rqt_gui_py_node_3197 http://LAPTOP-CB8EFKQO:37347/
+[rosmaster.master][INFO] 2023-09-21 12:27:19,959: +SERVICE [/rqt_gui_py_node_3197/set_logger_level] /rqt_gui_py_node_3197 http://LAPTOP-CB8EFKQO:37347/
+[rosmaster.master][INFO] 2023-09-21 12:27:19,982: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:44999/ ['http://LAPTOP-CB8EFKQO:45389/', 'http://LAPTOP-CB8EFKQO:34925/', 'http://LAPTOP-CB8EFKQO:37347/']
+[rosmaster.master][INFO] 2023-09-21 12:27:19,984: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:44999/ ['http://LAPTOP-CB8EFKQO:45389/', 'http://LAPTOP-CB8EFKQO:34925/', 'http://LAPTOP-CB8EFKQO:37347/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-21 12:27:20,001: +SUB [/statistics] /rqt_gui_py_node_3197 http://LAPTOP-CB8EFKQO:37347/
+[rosmaster.master][INFO] 2023-09-21 12:32:46,135: -SUB [/statistics] /rqt_gui_py_node_3197 http://LAPTOP-CB8EFKQO:37347/
+[rosmaster.master][INFO] 2023-09-21 12:32:46,136: -PUB [/rosout] /rqt_gui_py_node_3197 http://LAPTOP-CB8EFKQO:37347/
+[rosmaster.master][INFO] 2023-09-21 12:32:46,136: -SERVICE [/rqt_gui_py_node_3197/get_loggers] /rqt_gui_py_node_3197 rosrpc://LAPTOP-CB8EFKQO:44165
+[rosmaster.master][INFO] 2023-09-21 12:32:46,136: -SERVICE [/rqt_gui_py_node_3197/set_logger_level] /rqt_gui_py_node_3197 rosrpc://LAPTOP-CB8EFKQO:44165
+[rosmaster.master][INFO] 2023-09-21 12:32:46,174: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:44999/ ['http://LAPTOP-CB8EFKQO:45389/', 'http://LAPTOP-CB8EFKQO:34925/']
+[rosmaster.master][INFO] 2023-09-21 12:32:46,175: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:44999/ ['http://LAPTOP-CB8EFKQO:45389/', 'http://LAPTOP-CB8EFKQO:34925/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-21 13:02:06,699: -PUB [/rosout] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 13:02:06,703: -PUB [/initialpose] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 13:02:06,704: -PUB [/move_base_simple/goal] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 13:02:06,705: -PUB [/clicked_point] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 13:02:06,706: -SUB [/tf] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 13:02:06,707: -SUB [/tf_static] /open_base/rviz http://LAPTOP-CB8EFKQO:34925/
+[rosmaster.master][INFO] 2023-09-21 13:02:06,710: -SERVICE [/open_base/rviz/get_loggers] /open_base/rviz rosrpc://LAPTOP-CB8EFKQO:40131
+[rosmaster.master][INFO] 2023-09-21 13:02:06,712: -SERVICE [/open_base/rviz/set_logger_level] /open_base/rviz rosrpc://LAPTOP-CB8EFKQO:40131
+[rosmaster.master][INFO] 2023-09-21 13:02:06,713: -SERVICE [/open_base/rviz/reload_shaders] /open_base/rviz rosrpc://LAPTOP-CB8EFKQO:40131
+[rosmaster.master][INFO] 2023-09-21 13:02:06,715: -SERVICE [/open_base/rviz/load_config] /open_base/rviz rosrpc://LAPTOP-CB8EFKQO:40131
+[rosmaster.master][INFO] 2023-09-21 13:02:06,719: -SERVICE [/open_base/rviz/save_config] /open_base/rviz rosrpc://LAPTOP-CB8EFKQO:40131
+[rosmaster.master][INFO] 2023-09-21 13:02:06,722: -CACHEDPARAM [/rosout_disable_topics_generation] by /open_base/rviz
+[rosmaster.master][INFO] 2023-09-21 13:02:06,776: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:44999/ ['http://LAPTOP-CB8EFKQO:45389/']
+[rosmaster.master][INFO] 2023-09-21 13:02:06,778: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:44999/ ['http://LAPTOP-CB8EFKQO:45389/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-21 13:02:06,854: -PUB [/rosout] /open_base/robot_state_publisher http://LAPTOP-CB8EFKQO:45389/
+[rosmaster.master][INFO] 2023-09-21 13:02:06,856: -PUB [/tf] /open_base/robot_state_publisher http://LAPTOP-CB8EFKQO:45389/
+[rosmaster.master][INFO] 2023-09-21 13:02:06,857: -PUB [/tf_static] /open_base/robot_state_publisher http://LAPTOP-CB8EFKQO:45389/
+[rosmaster.master][INFO] 2023-09-21 13:02:06,860: -SUB [/open_base/joint_states] /open_base/robot_state_publisher http://LAPTOP-CB8EFKQO:45389/
+[rosmaster.master][INFO] 2023-09-21 13:02:06,864: -SERVICE [/open_base/robot_state_publisher/get_loggers] /open_base/robot_state_publisher rosrpc://LAPTOP-CB8EFKQO:48029
+[rosmaster.master][INFO] 2023-09-21 13:02:06,865: -SERVICE [/open_base/robot_state_publisher/set_logger_level] /open_base/robot_state_publisher rosrpc://LAPTOP-CB8EFKQO:48029
+[rosmaster.master][INFO] 2023-09-21 13:02:06,866: -CACHEDPARAM [/rosout_disable_topics_generation] by /open_base/robot_state_publisher
+[rosmaster.master][INFO] 2023-09-21 13:02:06,878: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:44999/ []
+[rosmaster.master][INFO] 2023-09-21 13:02:06,879: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:44999/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-21 13:02:07,385: -PUB [/rosout_agg] /rosout http://LAPTOP-CB8EFKQO:44999/
+[rosmaster.master][INFO] 2023-09-21 13:02:07,387: -SUB [/rosout] /rosout http://LAPTOP-CB8EFKQO:44999/
+[rosmaster.master][INFO] 2023-09-21 13:02:07,389: -SERVICE [/rosout/get_loggers] /rosout rosrpc://LAPTOP-CB8EFKQO:44807
+[rosmaster.master][INFO] 2023-09-21 13:02:07,390: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://LAPTOP-CB8EFKQO:44807
+[rosmaster.master][INFO] 2023-09-21 13:02:07,392: -CACHEDPARAM [/rosout/omit_topics] by /rosout
+[rosmaster.main][INFO] 2023-09-21 13:02:07,539: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2023-09-21 13:02:07,539: stopping master...
+[rospy.core][INFO] 2023-09-21 13:02:07,544: signal_shutdown [atexit]

@@ -1,0 +1,11 @@
+
+
+1695785939.618858879  Node Startup
+1695786319.984134575 INFO /rviz [/tmp/binarydeb/ros-melodic-rviz-1.13.30/src/rviz/ogre_helpers/render_system.cpp:85(RenderSystem::forceGlVersion)] [topics: /rosout] Forcing OpenGl version 0.
+1695786320.656357207 INFO /rviz [/tmp/binarydeb/ros-melodic-rviz-1.13.30/src/rviz/ogre_helpers/render_system.cpp:462(RenderWindow* rviz::RenderSystem::makeRenderWindow)] [topics: /rosout] Stereo is NOT SUPPORTED
+1695786320.656495407 INFO /rviz [/tmp/binarydeb/ros-melodic-rviz-1.13.30/src/rviz/ogre_helpers/render_system.cpp:183(RenderSystem::detectGlVersion)] [topics: /rosout] OpenGL device: llvmpipe (LLVM 10.0.0, 256 bits)
+1695786320.656558207 INFO /rviz [/tmp/binarydeb/ros-melodic-rviz-1.13.30/src/rviz/ogre_helpers/render_system.cpp:230(RenderSystem::detectGlVersion)] [topics: /rosout] OpenGl version: 3.1 (GLSL 1.4).
+1695789225.106798502 INFO /rviz [/tmp/binarydeb/ros-melodic-rviz-1.13.30/src/rviz/ogre_helpers/render_system.cpp:85(RenderSystem::forceGlVersion)] [topics: /rosout] Forcing OpenGl version 0.
+1695789225.403175101 INFO /rviz [/tmp/binarydeb/ros-melodic-rviz-1.13.30/src/rviz/ogre_helpers/render_system.cpp:462(RenderWindow* rviz::RenderSystem::makeRenderWindow)] [topics: /rosout] Stereo is NOT SUPPORTED
+1695789225.403272276 INFO /rviz [/tmp/binarydeb/ros-melodic-rviz-1.13.30/src/rviz/ogre_helpers/render_system.cpp:183(RenderSystem::detectGlVersion)] [topics: /rosout] OpenGL device: llvmpipe (LLVM 10.0.0, 256 bits)
+1695789225.403291343 INFO /rviz [/tmp/binarydeb/ros-melodic-rviz-1.13.30/src/rviz/ogre_helpers/render_system.cpp:230(RenderSystem::detectGlVersion)] [topics: /rosout] OpenGl version: 3.1 (GLSL 1.4).

@@ -1,0 +1,142 @@
+2023-10-22T12:55:17.976Z [info] [proc] 명령 실행 중: cmake --version
+2023-10-22T12:55:18.238Z [info] [proc] 명령 실행 중: cmake -E capabilities
+2023-10-22T12:55:18.582Z [debug] [main] 새 CMakeProject 인스턴스를 안전하게 생성
+2023-10-22T12:55:18.584Z [debug] [variant] VariantManager을(를) 생성하는 중
+2023-10-22T12:55:18.588Z [debug] [main] 새 CMakeProject 인스턴스 생성
+2023-10-22T12:55:18.589Z [debug] [main] CMake Tools 2단계 초기화 시작
+2023-10-22T12:55:18.798Z [info] [variant] 새 variant 세트를 로드함
+2023-10-22T12:55:18.806Z [debug] [kit] 키트 파일 /home/jinsu_park/.local/share/CMakeTools/cmake-tools-kits.json을(를) 읽는 중
+2023-10-22T12:55:18.925Z [info] [kit] /home/jinsu_park/.local/share/CMakeTools/cmake-tools-kits.json에서 1개 키트를 로드함
+2023-10-22T12:55:18.959Z [debug] [kit] 존재하지 않는 키트 파일을 읽지 않음: /home/jinsu_park/.vscode/cmake-kits.json
+2023-10-22T12:55:18.976Z [debug] [main] CMakeProject 인스턴스 초기화가 완료되었습니다.
+2023-10-19T04:18:54.020Z [debug] [extension] CMakeTools 비활성화
+��지 않음: 선택된 키트가 없음
+2023-09-27T03:53:49.562Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:53:49.811Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:53:58.778Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:53:59.003Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:53:59.200Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:53:59.947Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:54:00.832Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:54:45.797Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:54:46.002Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:54:46.170Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:54:46.892Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:55:08.778Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:55:08.954Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:55:09.102Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:55:24.518Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:55:24.807Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:55:24.905Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:55:46.645Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:55:46.830Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:55:46.990Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:56:15.961Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:56:16.217Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:56:54.078Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:57:18.719Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:57:19.040Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:58:56.067Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:58:56.417Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:58:57.832Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:59:16.633Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:59:16.814Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:59:16.982Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:59:19.530Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T03:59:19.763Z [debug] [main] CMake 드라이버를 시작하지 않음: 선택된 키트가 없음
+2023-09-27T04:35:06.359Z [debug] [extension] CMakeTools 비활성화
+on/Python311/Scripts 디렉터리를 검색하는 중
+2023-09-19T04:39:52.773Z [debug] [kit] 컴파일러의 /mnt/c/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit 디렉터리를 검색하는 중
+2023-09-19T04:39:52.774Z [debug] [kit] 존재하지 않는 경로 /mnt/c/Users/ycoco/anaconda3/Library/usr/bin의 검색을 건너뛰는 중
+2023-09-19T04:39:52.774Z [debug] [kit] 디렉터리 /mnt/c/Users/ycoco/anaconda3/Library/usr/bin에서 0개 키트를 찾음
+2023-09-19T04:39:52.774Z [debug] [kit] 컴파일러의 /mnt/c/Users/ycoco/anaconda3/Library/bin 디렉터리를 검색하는 중
+2023-09-19T04:39:52.775Z [debug] [kit] 컴파일러의 /mnt/c/Users/ycoco/anaconda3/Scripts 디렉터리를 검색하는 중
+2023-09-19T04:39:52.775Z [debug] [kit] 컴파일러의 /mnt/c/Users/ycoco/AppData/Local/Microsoft/WindowsApps 디렉터리를 검색하는 중
+2023-09-19T04:39:52.775Z [debug] [kit] 존재하지 않는 경로 /snap/bin의 검색을 건너뛰는 중
+2023-09-19T04:39:52.776Z [debug] [kit] 디렉터리 /snap/bin에서 0개 키트를 찾음
+2023-09-19T04:39:52.776Z [debug] [kit] 컴파일러의 /mnt/c/Users/ycoco/anaconda3/Library/mingw-w64/bin 디렉터리를 검색하는 중
+2023-09-19T04:39:52.777Z [debug] [kit] 존재하지 않는 경로 undefined\LLVM\bin의 검색을 건너뛰는 중
+2023-09-19T04:39:52.777Z [debug] [kit] 디렉터리 undefined\LLVM\bin에서 0개 키트를 찾음
+2023-09-19T04:39:52.778Z [debug] [kit] 컴파일러의 /mnt/c/Users/ycoco/AppData/Local/Programs/Microsoft VS Code/bin 디렉터리를 검색하는 중
+2023-09-19T04:39:52.778Z [debug] [kit] 존재하지 않는 경로 undefined\msys64\mingw32\bin의 검색을 건너뛰는 중
+2023-09-19T04:39:52.779Z [debug] [kit] 디렉터리 undefined\msys64\mingw32\bin에서 0개 키트를 찾음
+2023-09-19T04:39:52.780Z [debug] [kit] 존재하지 않는 경로 undefined\msys64\mingw64\bin의 검색을 건너뛰는 중
+2023-09-19T04:39:52.780Z [debug] [kit] 디렉터리 undefined\msys64\mingw64\bin에서 0개 키트를 찾음
+2023-09-19T04:39:52.781Z [debug] [kit] 존재하지 않는 경로 undefined\msys64\clang32\bin의 검색을 건너뛰는 중
+2023-09-19T04:39:52.781Z [debug] [kit] 디렉터리 undefined\msys64\clang32\bin에서 0개 키트를 찾음
+2023-09-19T04:39:52.787Z [debug] [kit] 존재하지 않는 경로 undefined\msys64\clang64\bin의 검색을 건너뛰는 중
+2023-09-19T04:39:52.789Z [debug] [kit] 디렉터리 undefined\msys64\clang64\bin에서 0개 키트를 찾음
+2023-09-19T04:39:52.791Z [debug] [kit] 존재하지 않는 경로 undefined\msys64\ucrt64\bin의 검색을 건너뛰는 중
+2023-09-19T04:39:52.792Z [debug] [kit] 디렉터리 undefined\msys64\ucrt64\bin에서 0개 키트를 찾음
+2023-09-19T04:39:52.792Z [debug] [kit] 존재하지 않는 경로 undefined\msys64\clangarm64\bin의 검색을 건너뛰는 중
+2023-09-19T04:39:52.793Z [debug] [kit] 디렉터리 undefined\msys64\clangarm64\bin에서 0개 키트를 찾음
+2023-09-19T04:39:52.793Z [debug] [kit] 컴파일러의 /mnt/c/Program Files/Bandizip 디렉터리를 검색하는 중
+2023-09-19T04:39:52.827Z [debug] [kit] 디렉터리 /home/jinsu_park/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/bin/remote-cli에서 0개 키트를 찾음
+2023-09-19T04:39:52.841Z [debug] [kit] 디렉터리 /opt/ros/melodic/bin에서 0개 키트를 찾음
+2023-09-19T04:39:52.842Z [debug] [kit] 디렉터리 /usr/local/sbin에서 0개 키트를 찾음
+2023-09-19T04:39:52.842Z [debug] [kit] 디렉터리 /usr/local/bin에서 0개 키트를 찾음
+2023-09-19T04:39:52.857Z [debug] [kit] 디렉터리 /usr/sbin에서 0개 키트를 찾음
+2023-09-19T04:39:52.857Z [debug] [kit] 디렉터리 /usr/games에서 0개 키트를 찾음
+2023-09-19T04:39:52.858Z [debug] [kit] 디렉터리 /usr/local/games에서 0개 키트를 찾음
+2023-09-19T04:39:52.886Z [debug] [kit] 디렉터리 /sbin에서 0개 키트를 찾음
+2023-09-19T04:39:52.900Z [debug] [kit] 디렉터리 /bin에서 0개 키트를 찾음
+2023-09-19T04:39:52.908Z [debug] [kit] GCC 이진을 테스트하는 중: /usr/bin/c89-gcc
+2023-09-19T04:39:52.909Z [info] [proc] 명령 실행 중: /usr/bin/c89-gcc -v
+2023-09-19T04:39:52.919Z [debug] [kit] GCC 이진을 테스트하는 중: /usr/bin/c99-gcc
+2023-09-19T04:39:52.919Z [info] [proc] 명령 실행 중: /usr/bin/c99-gcc -v
+2023-09-19T04:39:52.944Z [debug] [kit] GCC 이진을 테스트하는 중: /usr/bin/gcc
+2023-09-19T04:39:52.945Z [info] [proc] 명령 실행 중: /usr/bin/gcc -v
+2023-09-19T04:39:52.953Z [debug] [kit] GCC 이진을 테스트하는 중: /usr/bin/gcc-7
+2023-09-19T04:39:52.954Z [info] [proc] 명령 실행 중: /usr/bin/gcc-7 -v
+2023-09-19T04:39:53.008Z [debug] [kit] GCC 이진을 테스트하는 중: /usr/bin/x86_64-linux-gnu-gcc
+2023-09-19T04:39:53.008Z [info] [proc] 명령 실행 중: /usr/bin/x86_64-linux-gnu-gcc -v
+2023-09-19T04:39:53.017Z [debug] [kit] GCC 이진을 테스트하는 중: /usr/bin/x86_64-linux-gnu-gcc-7
+2023-09-19T04:39:53.018Z [info] [proc] 명령 실행 중: /usr/bin/x86_64-linux-gnu-gcc-7 -v
+2023-09-19T04:39:53.035Z [debug] [kit] 디렉터리 /usr/lib/wsl/lib에서 0개 키트를 찾음
+2023-09-19T04:39:53.049Z [debug] [kit] 디렉터리 /mnt/c/WINDOWS에서 0개 키트를 찾음
+2023-09-19T04:39:53.050Z [debug] [kit] 디렉터리 /mnt/c/WINDOWS/System32/OpenSSH에서 0개 키트를 찾음
+2023-09-19T04:39:53.078Z [debug] [kit] 디렉터리 /mnt/c/WINDOWS/System32/Wbem에서 0개 키트를 찾음
+2023-09-19T04:39:53.083Z [debug] [kit] 디렉터리 /mnt/c/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.0/bin에서 0개 키트를 찾음
+2023-09-19T04:39:53.085Z [debug] [kit] 디렉터리 /mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0에서 0개 키트를 찾음
+2023-09-19T04:39:53.085Z [debug] [kit] 디렉터리 /mnt/c/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.0/libnvvp에서 0개 키트를 찾음
+2023-09-19T04:39:53.086Z [debug] [kit] 디렉터리 /mnt/c/Program Files/NVIDIA Corporation/Nsight Compute 2020.1.2에서 0개 키트를 찾음
+2023-09-19T04:39:53.088Z [debug] [kit] 디렉터리 /mnt/c/Program Files/Intel/WiFi/bin에서 0개 키트를 찾음
+2023-09-19T04:39:53.088Z [debug] [kit] 디렉터리 /mnt/c/Program Files/Common Files/Intel/WirelessCommon에서 0개 키트를 찾음
+2023-09-19T04:39:53.347Z [debug] [kit] 디렉터리 /mnt/c/WINDOWS/system32에서 0개 키트를 찾음
+2023-09-19T04:39:53.347Z [debug] [kit] 디렉터리 /mnt/c/Program Files/MATLAB/R2023a/bin에서 0개 키트를 찾음
+2023-09-19T04:39:53.348Z [debug] [kit] 디렉터리 /mnt/c/Program Files/Microsoft SQL Server/150/Tools/Binn에서 0개 키트를 찾음
+2023-09-19T04:39:53.349Z [debug] [kit] 디렉터리 /mnt/c/Users/ycoco/AppData/Local/Programs/Python/Python311에서 0개 키트를 찾음
+2023-09-19T04:39:53.351Z [debug] [kit] 디렉터리 /mnt/c/Program Files/Microsoft SQL Server/150/DTS/Binn에서 0개 키트를 찾음
+2023-09-19T04:39:53.355Z [debug] [kit] 디렉터리 /mnt/c/Users/ycoco/anaconda3에서 0개 키트를 찾음
+2023-09-19T04:39:53.355Z [debug] [kit] 디렉터리 /mnt/c/Users/ycoco/AppData/Local/Programs/Python/Python311/Scripts에서 0개 키트를 찾음
+2023-09-19T04:39:53.358Z [debug] [kit] 디렉터리 /mnt/c/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit에서 0개 키트를 찾음
+2023-09-19T04:39:53.359Z [debug] [kit] 디렉터리 /mnt/c/Program Files (x86)/Microsoft SQL Server/150/Tools/Binn에서 0개 키트를 찾음
+2023-09-19T04:39:53.375Z [debug] [kit] 디렉터리 /mnt/c/Users/ycoco/anaconda3/Scripts에서 0개 키트를 찾음
+2023-09-19T04:39:53.377Z [debug] [kit] 디렉터리 /mnt/c/Users/ycoco/AppData/Local/Microsoft/WindowsApps에서 0개 키트를 찾음
+2023-09-19T04:39:53.400Z [debug] [kit] 디렉터리 /mnt/c/Users/ycoco/anaconda3/Library/bin에서 0개 키트를 찾음
+2023-09-19T04:39:53.401Z [debug] [kit] 디렉터리 /mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn에서 0개 키트를 찾음
+2023-09-19T04:39:53.401Z [debug] [kit] 디렉터리 /mnt/c/Users/ycoco/AppData/Local/Programs/Microsoft VS Code/bin에서 0개 키트를 찾음
+2023-09-19T04:39:53.402Z [debug] [kit] 디렉터리 /mnt/c/Program Files/Bandizip에서 0개 키트를 찾음
+2023-09-19T04:39:53.403Z [debug] [kit] 디렉터리 /mnt/c/Users/ycoco/anaconda3/Library/mingw-w64/bin에서 0개 키트를 찾음
+2023-09-19T04:39:53.425Z [debug] [kit] GCC 컴파일러가 감지됨: /usr/bin/x86_64-linux-gnu-gcc-7
+2023-09-19T04:39:53.433Z [debug] [kit] GCC 컴파일러가 감지됨: /usr/bin/x86_64-linux-gnu-gcc
+2023-09-19T04:39:53.435Z [debug] [kit] GCC 컴파일러가 감지됨: /usr/bin/gcc-7
+2023-09-19T04:39:53.438Z [debug] [kit] GCC 컴파일러가 감지됨: /usr/bin/gcc
+2023-09-19T04:39:53.441Z [debug] [kit] GCC 컴파일러가 감지됨: /usr/bin/c99-gcc
+2023-09-19T04:39:53.444Z [debug] [kit] GCC 컴파일러가 감지됨: /usr/bin/c89-gcc
+2023-09-19T04:39:53.450Z [debug] [kit] GCC 이진을 테스트하는 중: /usr/bin/c99-gcc
+2023-09-19T04:39:53.451Z [info] [proc] 명령 실행 중: /usr/bin/c99-gcc -v
+2023-09-19T04:39:53.461Z [debug] [kit] GCC 이진을 테스트하는 중: /usr/bin/c89-gcc
+2023-09-19T04:39:53.462Z [info] [proc] 명령 실행 중: /usr/bin/c89-gcc -v
+2023-09-19T04:39:53.474Z [debug] [kit] GCC 컴파일러가 감지됨: /usr/bin/c99-gcc
+2023-09-19T04:39:53.476Z [debug] [kit] GCC 컴파일러가 감지됨: /usr/bin/c89-gcc
+2023-09-19T04:39:53.478Z [debug] [kit] 디렉터리 /usr/bin에서 6개 키트를 찾음
+2023-09-19T04:39:53.478Z [info] [kit] 찾은 키트(신뢰할 수 있음): GCC 7.5.0 x86_64-linux-gnu
+2023-09-19T04:39:53.478Z [info] [kit] 찾은 키트(신뢰할 수 있음): GCC 7.5.0 x86_64-linux-gnu
+2023-09-19T04:39:53.478Z [info] [kit] 찾은 키트(신뢰할 수 있음): GCC 7.5.0 x86_64-linux-gnu
+2023-09-19T04:39:53.479Z [info] [kit] 찾은 키트(신뢰할 수 있음): GCC 7.5.0 x86_64-linux-gnu
+2023-09-19T04:39:53.479Z [info] [kit] 찾은 키트(신뢰할 수 있음): GCC 7.5.0 x86_64-linux-gnu
+2023-09-19T04:39:53.479Z [info] [kit] 찾은 키트(신뢰할 수 있음): GCC 7.5.0 x86_64-linux-gnu
+2023-09-19T04:39:53.481Z [debug] [kitsController] /home/jinsu_park/.local/share/CMakeTools/cmake-tools-kits.json에 키트를 저장하는 중
+2023-09-19T04:39:53.481Z [debug] [kitsController] /home/jinsu_park/.local/share/CMakeTools/cmake-tools-kits.json에 새 키트를 저장하는 중
+2023-09-19T05:03:12.107Z [debug] [extension] CMakeTools 비활성화

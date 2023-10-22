@@ -1,0 +1,93 @@
+2023-09-25 13:21:11.934 [info] 로그 수준: Info
+2023-09-25 13:21:11.934 [info] "git"에서 찾은 git 유효성을 검사하는 중
+2023-09-25 13:21:11.934 [info] "2.17.1"에서 git "git"을(를) 사용하는 중
+2023-09-25 13:21:11.934 [info] > git rev-parse --show-toplevel [4ms]
+2023-09-25 13:21:11.934 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-09-25 13:21:11.934 [info] Open repository: /home/jinsu_park
+2023-09-25 13:21:11.937 [info] > git config --get commit.template [11ms]
+2023-09-25 13:21:11.939 [info] > git rev-parse --show-toplevel [5ms]
+2023-09-25 13:21:11.955 [info] No remotes found in the git config file.
+2023-09-25 13:21:11.965 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2023-09-25 13:21:11.979 [info] > git rev-parse --git-dir --git-common-dir [16ms]
+2023-09-25 13:21:11.986 [info] Open repository: /home/jinsu_park/catkin_ws/src/turtlebot3_simulations
+2023-09-25 13:21:12.007 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-25 13:21:12.008 [info] > git config --get commit.template [11ms]
+2023-09-25 13:21:12.025 [info] > git rev-parse --show-toplevel [8ms]
+2023-09-25 13:21:12.026 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/robotics-course refs/remotes/robotics-course [3ms]
+2023-09-25 13:21:12.054 [info] > git rev-parse --show-toplevel [8ms]
+2023-09-25 13:21:12.076 [info] > git status -z -uall [99ms]
+2023-09-25 13:21:12.077 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-25 13:21:15.336 [info] > git status -z -uall [3299ms]
+2023-09-25 13:21:15.445 [info] > git config --get commit.template [204ms]
+2023-09-25 13:21:15.451 [info] > git rev-parse --show-toplevel [218ms]
+2023-09-25 13:21:15.470 [info] > git config --get commit.template [74ms]
+2023-09-25 13:21:15.482 [info] No remotes found in the git config file.
+2023-09-25 13:21:15.484 [info] > git rev-parse --show-toplevel [16ms]
+2023-09-25 13:21:15.539 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [58ms]
+2023-09-25 13:21:15.559 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/robotics-course refs/remotes/robotics-course [20ms]
+2023-09-25 13:21:15.571 [info] > git rev-parse --show-toplevel [14ms]
+2023-09-25 13:21:15.581 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-25 13:21:15.605 [info] > git status -z -uall [36ms]
+2023-09-25 13:21:15.610 [info] > git rev-parse --show-toplevel [6ms]
+2023-09-25 13:21:15.627 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-25 13:21:15.645 [info] > git status -z -uall [97ms]
+2023-09-25 13:21:18.483 [info] > git rev-parse --show-toplevel [2844ms]
+2023-09-25 13:21:18.529 [info] > git check-ignore -v -z --stdin [207ms]
+2023-09-25 13:21:18.532 [info] > git check-ignore -v -z --stdin [199ms]
+2023-09-25 13:21:18.546 [info] > git rev-parse --show-toplevel [19ms]
+2023-09-25 13:21:18.578 [info] > git rev-parse --show-toplevel [13ms]
+2023-09-25 13:21:18.745 [info] > git rev-parse --show-toplevel [9ms]
+2023-09-25 13:21:18.762 [info] > git rev-parse --show-toplevel [6ms]
+2023-09-25 13:21:18.773 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-25 13:21:18.804 [info] > git show --textconv :catkin_ws/src/calibration_demo/src/gyroscope.cpp [17ms]
+2023-09-25 13:21:18.809 [info] > git ls-files --stage -- /home/jinsu_park/catkin_ws/src/calibration_demo/src/gyroscope.cpp [10ms]
+2023-09-25 13:21:18.956 [info] > git check-ignore -v -z --stdin [94ms]
+2023-09-25 13:21:18.957 [info] > git show --textconv :catkin_ws/src/calibration_demo/src/magnetometer_calibration.cpp [73ms]
+2023-09-25 13:21:18.957 [info] > git ls-files --stage -- /home/jinsu_park/catkin_ws/src/calibration_demo/src/magnetometer_calibration.cpp [60ms]
+2023-09-25 13:21:20.672 [info] > git config --get commit.template [2ms]
+2023-09-25 13:21:20.691 [info] No remotes found in the git config file.
+2023-09-25 13:21:20.693 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-09-25 13:21:20.897 [info] > git status -z -uall [188ms]
+2023-09-25 13:21:20.897 [info] > git check-ignore -v -z --stdin [8ms]
+2023-09-25 13:21:23.911 [info] > git show --textconv :catkin_ws/src/encoder_example/CMakeLists.txt [26ms]
+2023-09-25 13:21:23.914 [info] > git ls-files --stage -- /home/jinsu_park/catkin_ws/src/encoder_example/CMakeLists.txt [12ms]
+2023-09-25 13:21:26.141 [info] No remotes found in the git config file.
+2023-09-25 13:21:26.144 [info] > git config --get commit.template [29ms]
+2023-09-25 13:21:26.145 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-09-25 13:21:26.248 [info] > git status -z -uall [75ms]
+2023-09-25 13:21:31.531 [info] > git config --get commit.template [8ms]
+2023-09-25 13:21:31.560 [info] No remotes found in the git config file.
+2023-09-25 13:21:31.562 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-09-25 13:21:31.680 [info] > git status -z -uall [101ms]
+2023-09-25 13:21:34.320 [info] > git check-ignore -v -z --stdin [20ms]
+2023-09-25 13:22:08.264 [info] No remotes found in the git config file.
+2023-09-25 13:22:08.266 [info] > git config --get commit.template [11ms]
+2023-09-25 13:22:08.267 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-09-25 13:22:08.339 [info] > git status -z -uall [62ms]
+2023-09-25 13:22:19.837 [info] > git config --get commit.template [1ms]
+2023-09-25 13:22:19.867 [info] No remotes found in the git config file.
+2023-09-25 13:22:19.869 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-09-25 13:22:19.947 [info] > git status -z -uall [59ms]
+2023-09-25 13:22:25.190 [info] > git config --get commit.template [4ms]
+2023-09-25 13:22:25.215 [info] No remotes found in the git config file.
+2023-09-25 13:22:25.217 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-09-25 13:22:25.386 [info] > git status -z -uall [144ms]
+2023-09-25 13:22:30.637 [info] > git config --get commit.template [4ms]
+2023-09-25 13:22:30.656 [info] No remotes found in the git config file.
+2023-09-25 13:22:30.657 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-09-25 13:22:30.722 [info] > git status -z -uall [51ms]
+2023-09-25 13:22:35.938 [info] No remotes found in the git config file.
+2023-09-25 13:22:35.939 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-09-25 13:22:35.939 [info] > git config --get commit.template [19ms]
+2023-09-25 13:22:36.002 [info] > git status -z -uall [50ms]
+2023-09-25 13:22:38.538 [info] Close repository: /home/jinsu_park
+2023-09-25 13:22:41.182 [info] > git config --get commit.template [2ms]
+2023-09-25 13:22:41.182 [info] No remotes found in the git config file.
+2023-09-25 13:22:41.199 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-09-25 13:22:41.279 [info] > git status -z -uall [66ms]
+2023-09-25 13:22:50.406 [info] > git check-ignore -v -z --stdin [2ms]
+2023-09-25 13:22:51.596 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-25 13:22:52.192 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-25 13:22:53.805 [info] > git check-ignore -v -z --stdin [9ms]
+2023-09-25 13:23:22.710 [info] > git check-ignore -v -z --stdin [4ms]
+2023-09-25 13:23:24.571 [info] > git check-ignore -v -z --stdin [3ms]

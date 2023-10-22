@@ -1,0 +1,96 @@
+[rosmaster.main][INFO] 2023-09-25 12:35:20,978: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2023-09-25 12:35:20,978: Starting ROS Master Node
+[xmlrpc][INFO] 2023-09-25 12:35:20,979: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2023-09-25 12:35:20,980: Started XML-RPC server [http://LAPTOP-CB8EFKQO:11311/]
+[rosmaster.master][INFO] 2023-09-25 12:35:20,980: Master initialized: port[11311], uri[http://LAPTOP-CB8EFKQO:11311/]
+[xmlrpc][INFO] 2023-09-25 12:35:20,980: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2023-09-25 12:35:21,068: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2023-09-25 12:35:21,072: +PARAM [/roslaunch/uris/host_laptop_cb8efkqo__37433] by /roslaunch
+[rosmaster.master][INFO] 2023-09-25 12:35:21,329: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2023-09-25 12:35:21,329: +PARAM [/robot_description] by /roslaunch
+[rosmaster.master][INFO] 2023-09-25 12:35:21,329: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2023-09-25 12:35:21,330: +PARAM [/tb3_model] by /roslaunch
+[rosmaster.master][INFO] 2023-09-25 12:35:21,330: +PARAM [/robot_state_publisher/publish_frequency] by /roslaunch
+[rosmaster.master][INFO] 2023-09-25 12:35:21,372: +SERVICE [/rosout/get_loggers] /rosout http://LAPTOP-CB8EFKQO:32995/
+[rosmaster.master][INFO] 2023-09-25 12:35:21,373: +SERVICE [/rosout/set_logger_level] /rosout http://LAPTOP-CB8EFKQO:32995/
+[rosmaster.master][INFO] 2023-09-25 12:35:21,374: +PUB [/rosout_agg] /rosout http://LAPTOP-CB8EFKQO:32995/
+[rosmaster.master][INFO] 2023-09-25 12:35:21,377: +SUB [/rosout] /rosout http://LAPTOP-CB8EFKQO:32995/
+[rosmaster.master][INFO] 2023-09-25 12:35:21,484: +PUB [/rosout] /robot_state_publisher http://LAPTOP-CB8EFKQO:46851/
+[rosmaster.master][INFO] 2023-09-25 12:35:21,485: +SERVICE [/robot_state_publisher/get_loggers] /robot_state_publisher http://LAPTOP-CB8EFKQO:46851/
+[rosmaster.master][INFO] 2023-09-25 12:35:21,486: +SERVICE [/robot_state_publisher/set_logger_level] /robot_state_publisher http://LAPTOP-CB8EFKQO:46851/
+[rosmaster.master][INFO] 2023-09-25 12:35:21,489: +PUB [/tf] /robot_state_publisher http://LAPTOP-CB8EFKQO:46851/
+[rosmaster.master][INFO] 2023-09-25 12:35:21,490: +PUB [/tf_static] /robot_state_publisher http://LAPTOP-CB8EFKQO:46851/
+[rosmaster.master][INFO] 2023-09-25 12:35:21,495: +SUB [/joint_states] /robot_state_publisher http://LAPTOP-CB8EFKQO:46851/
+[rosmaster.master][INFO] 2023-09-25 12:35:21,580: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:32995/ ['http://LAPTOP-CB8EFKQO:46851/']
+[rosmaster.master][INFO] 2023-09-25 12:35:21,595: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:32995/ ['http://LAPTOP-CB8EFKQO:46851/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-25 12:35:21,773: +PUB [/rosout] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:35:21,774: +SERVICE [/rviz/get_loggers] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:35:21,774: +SERVICE [/rviz/set_logger_level] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:35:21,776: +CACHEDPARAM [/rosout_disable_topics_generation] by /rviz
+[rosmaster.master][INFO] 2023-09-25 12:35:21,781: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:32995/ ['http://LAPTOP-CB8EFKQO:46851/', 'http://LAPTOP-CB8EFKQO:45081/']
+[rosmaster.master][INFO] 2023-09-25 12:35:21,791: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:32995/ ['http://LAPTOP-CB8EFKQO:46851/', 'http://LAPTOP-CB8EFKQO:45081/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-25 12:35:21,994: +CACHEDPARAM [/rosout/omit_topics] by /rosout
+[rosmaster.master][INFO] 2023-09-25 12:35:22,213: +SUB [/tf] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:35:22,216: +SUB [/tf_static] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:35:22,289: +PUB [/initialpose] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:35:22,291: +PUB [/goal] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:35:22,496: +SUB [/odom] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:35:22,496: -PUB [/goal] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:35:22,497: -PUB [/initialpose] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:35:22,503: +PUB [/initialpose] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:35:22,505: +PUB [/goal] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:35:22,506: +PUB [/move_base_simple/goal] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:35:22,506: -PUB [/goal] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:35:22,507: +PUB [/clicked_point] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:35:22,738: +SERVICE [/rviz/reload_shaders] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:35:22,738: +SERVICE [/rviz/load_config] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:35:22,739: +SERVICE [/rviz/save_config] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:38:42,899: +PUB [/rosout] /view_frames_3453_1695613122754 http://LAPTOP-CB8EFKQO:39461/
+[rosmaster.master][INFO] 2023-09-25 12:38:42,904: +SERVICE [/view_frames_3453_1695613122754/get_loggers] /view_frames_3453_1695613122754 http://LAPTOP-CB8EFKQO:39461/
+[rosmaster.master][INFO] 2023-09-25 12:38:42,919: +SERVICE [/view_frames_3453_1695613122754/set_logger_level] /view_frames_3453_1695613122754 http://LAPTOP-CB8EFKQO:39461/
+[rosmaster.master][INFO] 2023-09-25 12:38:42,922: +SUB [/tf] /view_frames_3453_1695613122754 http://LAPTOP-CB8EFKQO:39461/
+[rosmaster.master][INFO] 2023-09-25 12:38:42,924: +SUB [/tf_static] /view_frames_3453_1695613122754 http://LAPTOP-CB8EFKQO:39461/
+[rosmaster.master][INFO] 2023-09-25 12:38:42,945: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:32995/ ['http://LAPTOP-CB8EFKQO:46851/', 'http://LAPTOP-CB8EFKQO:45081/', 'http://LAPTOP-CB8EFKQO:39461/']
+[rosmaster.master][INFO] 2023-09-25 12:38:42,963: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:32995/ ['http://LAPTOP-CB8EFKQO:46851/', 'http://LAPTOP-CB8EFKQO:45081/', 'http://LAPTOP-CB8EFKQO:39461/']: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-25 12:38:48,052: -SUB [/tf_static] /view_frames_3453_1695613122754 http://LAPTOP-CB8EFKQO:39461/
+[rosmaster.master][INFO] 2023-09-25 12:38:48,052: -SUB [/tf] /view_frames_3453_1695613122754 http://LAPTOP-CB8EFKQO:39461/
+[rosmaster.master][INFO] 2023-09-25 12:38:48,053: -PUB [/rosout] /view_frames_3453_1695613122754 http://LAPTOP-CB8EFKQO:39461/
+[rosmaster.master][INFO] 2023-09-25 12:38:48,053: -SERVICE [/view_frames_3453_1695613122754/get_loggers] /view_frames_3453_1695613122754 rosrpc://LAPTOP-CB8EFKQO:35435
+[rosmaster.master][INFO] 2023-09-25 12:38:48,053: -SERVICE [/view_frames_3453_1695613122754/set_logger_level] /view_frames_3453_1695613122754 rosrpc://LAPTOP-CB8EFKQO:35435
+[rosmaster.master][INFO] 2023-09-25 12:38:48,071: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:32995/ ['http://LAPTOP-CB8EFKQO:46851/', 'http://LAPTOP-CB8EFKQO:45081/']
+[rosmaster.master][INFO] 2023-09-25 12:38:48,074: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:32995/ ['http://LAPTOP-CB8EFKQO:46851/', 'http://LAPTOP-CB8EFKQO:45081/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-25 12:39:24,673: -PUB [/rosout] /robot_state_publisher http://LAPTOP-CB8EFKQO:46851/
+[rosmaster.master][INFO] 2023-09-25 12:39:24,677: -PUB [/tf] /robot_state_publisher http://LAPTOP-CB8EFKQO:46851/
+[rosmaster.master][INFO] 2023-09-25 12:39:24,681: -PUB [/tf_static] /robot_state_publisher http://LAPTOP-CB8EFKQO:46851/
+[rosmaster.master][INFO] 2023-09-25 12:39:24,685: -SUB [/joint_states] /robot_state_publisher http://LAPTOP-CB8EFKQO:46851/
+[rosmaster.master][INFO] 2023-09-25 12:39:24,686: -SERVICE [/robot_state_publisher/get_loggers] /robot_state_publisher rosrpc://LAPTOP-CB8EFKQO:42185
+[rosmaster.master][INFO] 2023-09-25 12:39:24,687: -SERVICE [/robot_state_publisher/set_logger_level] /robot_state_publisher rosrpc://LAPTOP-CB8EFKQO:42185
+[rosmaster.master][INFO] 2023-09-25 12:39:24,708: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:32995/ ['http://LAPTOP-CB8EFKQO:45081/']
+[rosmaster.master][INFO] 2023-09-25 12:39:24,715: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:32995/ ['http://LAPTOP-CB8EFKQO:45081/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-25 12:39:24,716: publisherUpdate[/tf] -> http://LAPTOP-CB8EFKQO:45081/ []
+[rosmaster.master][INFO] 2023-09-25 12:39:24,735: publisherUpdate[/tf] -> http://LAPTOP-CB8EFKQO:45081/ []: sec=0.02, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2023-09-25 12:39:24,736: publisherUpdate[/tf_static] -> http://LAPTOP-CB8EFKQO:45081/ []
+[rosmaster.master][INFO] 2023-09-25 12:39:24,737: publisherUpdate[/tf_static] -> http://LAPTOP-CB8EFKQO:45081/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2023-09-25 12:39:24,837: -PUB [/rosout] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:39:24,838: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:32995/ []
+[rosmaster.master][INFO] 2023-09-25 12:39:24,846: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:32995/ []: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-25 12:39:24,847: -PUB [/initialpose] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:39:24,848: -PUB [/move_base_simple/goal] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:39:24,850: -PUB [/clicked_point] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:39:24,851: -SUB [/tf] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:39:24,854: -SUB [/tf_static] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:39:24,855: -SUB [/odom] /rviz http://LAPTOP-CB8EFKQO:45081/
+[rosmaster.master][INFO] 2023-09-25 12:39:24,856: -SERVICE [/rviz/get_loggers] /rviz rosrpc://LAPTOP-CB8EFKQO:33069
+[rosmaster.master][INFO] 2023-09-25 12:39:24,856: -SERVICE [/rviz/set_logger_level] /rviz rosrpc://LAPTOP-CB8EFKQO:33069
+[rosmaster.master][INFO] 2023-09-25 12:39:24,857: -SERVICE [/rviz/reload_shaders] /rviz rosrpc://LAPTOP-CB8EFKQO:33069
+[rosmaster.master][INFO] 2023-09-25 12:39:24,858: -SERVICE [/rviz/load_config] /rviz rosrpc://LAPTOP-CB8EFKQO:33069
+[rosmaster.master][INFO] 2023-09-25 12:39:24,862: -SERVICE [/rviz/save_config] /rviz rosrpc://LAPTOP-CB8EFKQO:33069
+[rosmaster.master][INFO] 2023-09-25 12:39:24,863: -CACHEDPARAM [/rosout_disable_topics_generation] by /rviz
+[rosmaster.master][INFO] 2023-09-25 12:39:25,344: -PUB [/rosout_agg] /rosout http://LAPTOP-CB8EFKQO:32995/
+[rosmaster.master][INFO] 2023-09-25 12:39:25,345: -SUB [/rosout] /rosout http://LAPTOP-CB8EFKQO:32995/
+[rosmaster.master][INFO] 2023-09-25 12:39:25,346: -SERVICE [/rosout/get_loggers] /rosout rosrpc://LAPTOP-CB8EFKQO:41603
+[rosmaster.master][INFO] 2023-09-25 12:39:25,347: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://LAPTOP-CB8EFKQO:41603
+[rosmaster.master][INFO] 2023-09-25 12:39:25,347: -CACHEDPARAM [/rosout/omit_topics] by /rosout
+[rosmaster.main][INFO] 2023-09-25 12:39:25,360: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2023-09-25 12:39:25,360: stopping master...
+[rospy.core][INFO] 2023-09-25 12:39:25,360: signal_shutdown [atexit]

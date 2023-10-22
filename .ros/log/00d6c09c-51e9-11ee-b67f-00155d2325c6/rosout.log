@@ -1,0 +1,4 @@
+
+
+1694577169.417007554  Node Startup
+1694577169.516413239 INFO /rosbag [/tmp/binarydeb/ros-melodic-rosbag-1.14.13/src/player.cpp:136(Player::publish)] [topics: /rosout, /clock] Opening /home/jinsu_park/catkin_ws/src/encoder_example/bag/encoder.bag

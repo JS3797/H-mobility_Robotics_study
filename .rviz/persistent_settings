@@ -1,6 +1,10 @@
-Last Config Dir: /home/jinsu_park/catkin_ws/src/rrr_moveit_config/launch
+Last Config Dir: /home/jinsu_park/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/rviz
 Last Image Dir: ""
 Recent Configs:
+  - /home/jinsu_park/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/rviz/turtlebot3_fake.rviz
+  - /home/jinsu_park/catkin_ws/src/OpenBase/ROS/open_base/description.rviz
+  - /opt/ros/melodic/share/rviz/default.rviz
+  - /home/jinsu_park/catkin_ws/src/scara_moveit_config/launch/moveit.rviz
   - /home/jinsu_park/catkin_ws/src/rrr_moveit_config/launch/moveit.rviz
   - /home/jinsu_park/catkin_ws/src/puma560_moveit_config/launch/moveit.rviz
   - /home/jinsu_park/catkin_ws/src/pick_n_place/launch/my_moveit.rviz

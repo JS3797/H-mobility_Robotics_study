@@ -1,0 +1,8 @@
+<launch>
+    //ROSbag 파일을 실행함
+    <node pkg="rosbag" type="play" name="rosbag" args="$(find encoder_example)/bag/force_torque_sensor.bag --delay 3"/>
+    //bag 파일에서 출력되는 토픽 중 force값을 받아 그래프로 plot 해주는 node
+    <node pkg="rqt_plot" type="rqt_plot" name="rqt_plot_force" args="/torque_sensor/wrench/force" />
+    //bag 파일에서 출력되는 토픽 중 torque값을 받아 그래프로 plot 해주는 node
+    <node pkg="rqt_plot" type="rqt_plot" name="rqt_plot_torque" args="/torque_sensor/wrench/torque" />
+</launch>
