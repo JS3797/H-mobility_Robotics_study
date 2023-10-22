@@ -225,3 +225,6 @@ To add an exception for this directory, call:
 2023-10-22 22:12:39.531 [info] > git rev-parse --show-toplevel [2ms]
 2023-10-22 22:13:14.406 [info] > git rev-parse --show-toplevel [1ms]
 2023-10-22 22:14:08.601 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-22 22:14:13.870 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-22 22:14:24.276 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-22 22:18:20.639 [info] > git rev-parse --show-toplevel [2ms]
