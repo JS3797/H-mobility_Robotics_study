@@ -1,2 +1,5 @@
-# H-mobility_Robotics_study
-study Robotics in H-mobility using ROS
+## ❗️ 정보
+
+- 현대엔지비에서 진행하는 미래 모빌리티 산업을 이끌어갈 인재들에게 로보틱스를 이해할 수 있는 교육 과정입니다.
+- 로보틱스에 경우 실습을 통해 로봇을 Solidworks로 제작하면 Matlab, ROS를 활용하여 제어합니다.
+- 대부분에 실습내용은 catkin_ws/src 파일에 있습니다.
