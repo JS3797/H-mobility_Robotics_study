@@ -1,0 +1,74 @@
+[rosmaster.main][INFO] 2023-08-22 12:35:32,381: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2023-08-22 12:35:32,381: Starting ROS Master Node
+[xmlrpc][INFO] 2023-08-22 12:35:32,382: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2023-08-22 12:35:32,382: Started XML-RPC server [http://LAPTOP-CB8EFKQO:11311/]
+[xmlrpc][INFO] 2023-08-22 12:35:32,383: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2023-08-22 12:35:32,383: Master initialized: port[11311], uri[http://LAPTOP-CB8EFKQO:11311/]
+[rosmaster.master][INFO] 2023-08-22 12:35:32,483: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2023-08-22 12:35:32,484: +PARAM [/roslaunch/uris/host_laptop_cb8efkqo__39463] by /roslaunch
+[rosmaster.master][INFO] 2023-08-22 12:35:32,627: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2023-08-22 12:35:32,627: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2023-08-22 12:35:32,634: +SERVICE [/rosout/get_loggers] /rosout http://LAPTOP-CB8EFKQO:33825/
+[rosmaster.master][INFO] 2023-08-22 12:35:32,635: +SERVICE [/rosout/set_logger_level] /rosout http://LAPTOP-CB8EFKQO:33825/
+[rosmaster.master][INFO] 2023-08-22 12:35:32,636: +PUB [/rosout_agg] /rosout http://LAPTOP-CB8EFKQO:33825/
+[rosmaster.master][INFO] 2023-08-22 12:35:32,638: +SUB [/rosout] /rosout http://LAPTOP-CB8EFKQO:33825/
+[rosmaster.master][INFO] 2023-08-22 12:35:32,797: +PUB [/rosout] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:35:32,797: +SERVICE [/moveit_setup_assistant/get_loggers] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:35:32,798: +SERVICE [/moveit_setup_assistant/set_logger_level] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:35:32,883: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:33825/ ['http://LAPTOP-CB8EFKQO:36023/']
+[rosmaster.master][INFO] 2023-08-22 12:35:32,898: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:33825/ ['http://LAPTOP-CB8EFKQO:36023/']: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-08-22 12:35:54,573: +CACHEDPARAM [/rosout_disable_topics_generation] by /moveit_setup_assistant
+[rosmaster.master][INFO] 2023-08-22 12:35:54,576: +CACHEDPARAM [/rosout/omit_topics] by /rosout
+[rosmaster.master][INFO] 2023-08-22 12:35:54,578: +PARAM [/robot_description] by /moveit_setup_assistant
+[rosmaster.master][INFO] 2023-08-22 12:35:54,582: +PARAM [/robot_description_semantic] by /moveit_setup_assistant
+[rosmaster.master][INFO] 2023-08-22 12:35:54,600: +PUB [/moveit_robot_state] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:35:54,845: +SUB [/tf] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:35:54,850: +SUB [/tf_static] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:35:54,931: +PUB [/initialpose] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:35:54,933: +PUB [/goal] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:35:54,992: +SUB [/display_robot_state] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:35:54,993: -SUB [/display_robot_state] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:35:54,998: +SUB [/moveit_robot_state] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:39:22,369: -SUB [/moveit_robot_state] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:39:22,376: +SUB [/moveit_robot_state] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:53:51,465: -PUB [/rosout] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:53:51,467: -PUB [/moveit_robot_state] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:53:51,468: -PUB [/initialpose] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:53:51,469: -PUB [/goal] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:53:51,470: -SUB [/tf] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:53:51,471: -SUB [/tf_static] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:53:51,472: -SUB [/moveit_robot_state] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:36023/
+[rosmaster.master][INFO] 2023-08-22 12:53:51,473: -SERVICE [/moveit_setup_assistant/get_loggers] /moveit_setup_assistant rosrpc://LAPTOP-CB8EFKQO:40047
+[rosmaster.master][INFO] 2023-08-22 12:53:51,474: -SERVICE [/moveit_setup_assistant/set_logger_level] /moveit_setup_assistant rosrpc://LAPTOP-CB8EFKQO:40047
+[rosmaster.master][INFO] 2023-08-22 12:53:51,475: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:33825/ []
+[rosmaster.master][INFO] 2023-08-22 12:53:51,476: publisherUpdate[/moveit_robot_state] -> http://LAPTOP-CB8EFKQO:36023/ []
+[rosmaster.master][INFO] 2023-08-22 12:53:51,480: -CACHEDPARAM [/rosout_disable_topics_generation] by /moveit_setup_assistant
+[rosmaster.master][INFO] 2023-08-22 12:53:51,508: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:33825/ []: sec=0.03, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-08-22 12:53:51,509: publisherUpdate[/moveit_robot_state] -> http://LAPTOP-CB8EFKQO:36023/ []: sec=0.03, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2023-08-22 12:53:51,511: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-08-22 12:53:52,110: -PUB [/rosout_agg] /rosout http://LAPTOP-CB8EFKQO:33825/
+[rosmaster.master][INFO] 2023-08-22 12:53:52,111: -SUB [/rosout] /rosout http://LAPTOP-CB8EFKQO:33825/
+[rosmaster.master][INFO] 2023-08-22 12:53:52,113: -SERVICE [/rosout/get_loggers] /rosout rosrpc://LAPTOP-CB8EFKQO:54803
+[rosmaster.master][INFO] 2023-08-22 12:53:52,114: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://LAPTOP-CB8EFKQO:54803
+[rosmaster.master][INFO] 2023-08-22 12:53:52,115: -CACHEDPARAM [/rosout/omit_topics] by /rosout
+[rosmaster.main][INFO] 2023-08-22 12:53:52,215: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2023-08-22 12:53:52,216: stopping master...
+[rospy.core][INFO] 2023-08-22 12:53:52,218: signal_shutdown [atexit]

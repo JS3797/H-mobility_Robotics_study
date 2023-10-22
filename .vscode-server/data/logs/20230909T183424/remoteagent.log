@@ -1,0 +1,20 @@
+2023-09-09 18:34:24.876 [info] 
+
+
+
+
+2023-09-09 18:34:24.894 [info] Extension host agent started.
+2023-09-09 18:34:25.100 [info] [127.0.0.1][05077cb8][ManagementConnection] New connection established.
+2023-09-09 18:34:25.643 [info] [127.0.0.1][ee4e4238][ExtensionHostConnection] New connection established.
+2023-09-09 18:34:25.690 [info] [127.0.0.1][ee4e4238][ExtensionHostConnection] <4041> Launched Extension Host Process.
+2023-09-09 18:34:34.551 [info] [127.0.0.1][05077cb8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-09 18:34:34.552 [error] Error: Throttler is disposed
+    at c.queue (/home/jinsu_park/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/jinsu_park/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/jinsu_park/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+2023-09-09 18:34:36.484 [info] [127.0.0.1][1a5bcad4][ManagementConnection] New connection established.
+2023-09-09 18:34:37.387 [info] [127.0.0.1][0864339d][ExtensionHostConnection] New connection established.
+2023-09-09 18:34:37.410 [info] [127.0.0.1][0864339d][ExtensionHostConnection] <4156> Launched Extension Host Process.
+2023-09-09 18:34:39.577 [info] [127.0.0.1][ee4e4238][ExtensionHostConnection] <4041> Extension Host Process exited with code: 0, signal: null.
+2023-09-09 18:35:00.914 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-09-09 18:35:19.842 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

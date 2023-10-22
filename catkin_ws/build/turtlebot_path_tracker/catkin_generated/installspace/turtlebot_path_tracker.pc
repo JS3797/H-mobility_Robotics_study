@@ -1,0 +1,8 @@
+prefix=/home/jinsu_park/catkin_ws/install
+
+Name: turtlebot_path_tracker
+Description: Description of turtlebot_path_tracker
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs nav_msgs roscpp sensor_msgs std_msgs turtlebot3_msgs visualization_msgs

@@ -1,0 +1,31 @@
+[rosmaster.main][INFO] 2023-08-21 13:12:03,987: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2023-08-21 13:12:03,988: Starting ROS Master Node
+[xmlrpc][INFO] 2023-08-21 13:12:03,989: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2023-08-21 13:12:03,990: Started XML-RPC server [http://LAPTOP-CB8EFKQO:11311/]
+[xmlrpc][INFO] 2023-08-21 13:12:03,990: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2023-08-21 13:12:03,990: Master initialized: port[11311], uri[http://LAPTOP-CB8EFKQO:11311/]
+[rosmaster.master][INFO] 2023-08-21 13:12:04,095: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2023-08-21 13:12:04,098: +PARAM [/roslaunch/uris/host_laptop_cb8efkqo__35969] by /roslaunch
+[rosmaster.master][INFO] 2023-08-21 13:12:04,273: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2023-08-21 13:12:04,274: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2023-08-21 13:12:04,320: +SERVICE [/rosout/get_loggers] /rosout http://LAPTOP-CB8EFKQO:43371/
+[rosmaster.master][INFO] 2023-08-21 13:12:04,321: +SERVICE [/rosout/set_logger_level] /rosout http://LAPTOP-CB8EFKQO:43371/
+[rosmaster.master][INFO] 2023-08-21 13:12:04,322: +PUB [/rosout_agg] /rosout http://LAPTOP-CB8EFKQO:43371/
+[rosmaster.master][INFO] 2023-08-21 13:12:04,324: +SUB [/rosout] /rosout http://LAPTOP-CB8EFKQO:43371/
+[rosmaster.master][INFO] 2023-08-21 13:12:04,627: +PUB [/rosout] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:42025/
+[rosmaster.master][INFO] 2023-08-21 13:12:04,628: +SERVICE [/moveit_setup_assistant/get_loggers] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:42025/
+[rosmaster.master][INFO] 2023-08-21 13:12:04,628: +SERVICE [/moveit_setup_assistant/set_logger_level] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:42025/
+[rosmaster.master][INFO] 2023-08-21 13:12:04,691: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:43371/ ['http://LAPTOP-CB8EFKQO:42025/']
+[rosmaster.master][INFO] 2023-08-21 13:12:04,735: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:43371/ ['http://LAPTOP-CB8EFKQO:42025/']: sec=0.04, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-08-21 13:15:16,710: -PUB [/rosout] /moveit_setup_assistant http://LAPTOP-CB8EFKQO:42025/
+[rosmaster.master][INFO] 2023-08-21 13:15:16,711: -SERVICE [/moveit_setup_assistant/get_loggers] /moveit_setup_assistant rosrpc://LAPTOP-CB8EFKQO:48465
+[rosmaster.master][INFO] 2023-08-21 13:15:16,712: -SERVICE [/moveit_setup_assistant/set_logger_level] /moveit_setup_assistant rosrpc://LAPTOP-CB8EFKQO:48465
+[rosmaster.master][INFO] 2023-08-21 13:15:16,740: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:43371/ []
+[rosmaster.master][INFO] 2023-08-21 13:15:16,755: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:43371/ []: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-08-21 13:15:17,056: -PUB [/rosout_agg] /rosout http://LAPTOP-CB8EFKQO:43371/
+[rosmaster.master][INFO] 2023-08-21 13:15:17,057: -SUB [/rosout] /rosout http://LAPTOP-CB8EFKQO:43371/
+[rosmaster.master][INFO] 2023-08-21 13:15:17,058: -SERVICE [/rosout/get_loggers] /rosout rosrpc://LAPTOP-CB8EFKQO:55213
+[rosmaster.master][INFO] 2023-08-21 13:15:17,059: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://LAPTOP-CB8EFKQO:55213
+[rosmaster.main][INFO] 2023-08-21 13:15:17,135: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2023-08-21 13:15:17,136: stopping master...
+[rospy.core][INFO] 2023-08-21 13:15:17,136: signal_shutdown [atexit]

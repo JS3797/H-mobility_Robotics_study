@@ -1,0 +1,58 @@
+[rosmaster.main][INFO] 2023-07-31 13:25:09,399: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2023-07-31 13:25:09,399: Starting ROS Master Node
+[xmlrpc][INFO] 2023-07-31 13:25:09,400: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2023-07-31 13:25:09,401: Started XML-RPC server [http://LAPTOP-CB8EFKQO:11311/]
+[rosmaster.master][INFO] 2023-07-31 13:25:09,401: Master initialized: port[11311], uri[http://LAPTOP-CB8EFKQO:11311/]
+[xmlrpc][INFO] 2023-07-31 13:25:09,401: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2023-07-31 13:25:09,466: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2023-07-31 13:25:09,468: +PARAM [/roslaunch/uris/host_laptop_cb8efkqo__33115] by /roslaunch
+[rosmaster.master][INFO] 2023-07-31 13:25:09,535: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2023-07-31 13:25:09,536: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2023-07-31 13:25:09,615: +SERVICE [/rosout/get_loggers] /rosout http://LAPTOP-CB8EFKQO:43161/
+[rosmaster.master][INFO] 2023-07-31 13:25:09,615: +SERVICE [/rosout/set_logger_level] /rosout http://LAPTOP-CB8EFKQO:43161/
+[rosmaster.master][INFO] 2023-07-31 13:25:09,617: +PUB [/rosout_agg] /rosout http://LAPTOP-CB8EFKQO:43161/
+[rosmaster.master][INFO] 2023-07-31 13:25:09,620: +SUB [/rosout] /rosout http://LAPTOP-CB8EFKQO:43161/
+[rosmaster.master][INFO] 2023-07-31 13:26:54,158: +PUB [/rosout] /turtlesim http://LAPTOP-CB8EFKQO:33709/
+[rosmaster.master][INFO] 2023-07-31 13:26:54,159: +SERVICE [/turtlesim/get_loggers] /turtlesim http://LAPTOP-CB8EFKQO:33709/
+[rosmaster.master][INFO] 2023-07-31 13:26:54,161: +SERVICE [/turtlesim/set_logger_level] /turtlesim http://LAPTOP-CB8EFKQO:33709/
+[rosmaster.master][INFO] 2023-07-31 13:26:54,165: +PARAM [/turtlesim/background_r] by /turtlesim
+[rosmaster.master][INFO] 2023-07-31 13:26:54,167: +PARAM [/turtlesim/background_g] by /turtlesim
+[rosmaster.master][INFO] 2023-07-31 13:26:54,167: +PARAM [/turtlesim/background_b] by /turtlesim
+[rosmaster.master][INFO] 2023-07-31 13:26:54,199: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:43161/ ['http://LAPTOP-CB8EFKQO:33709/']
+[rosmaster.master][INFO] 2023-07-31 13:26:54,202: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:43161/ ['http://LAPTOP-CB8EFKQO:33709/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-07-31 13:26:54,203: +SERVICE [/clear] /turtlesim http://LAPTOP-CB8EFKQO:33709/
+[rosmaster.master][INFO] 2023-07-31 13:26:54,203: +SERVICE [/reset] /turtlesim http://LAPTOP-CB8EFKQO:33709/
+[rosmaster.master][INFO] 2023-07-31 13:26:54,204: +SERVICE [/spawn] /turtlesim http://LAPTOP-CB8EFKQO:33709/
+[rosmaster.master][INFO] 2023-07-31 13:26:54,205: +SERVICE [/kill] /turtlesim http://LAPTOP-CB8EFKQO:33709/
+[rosmaster.master][INFO] 2023-07-31 13:26:54,205: +CACHEDPARAM [/rosout_disable_topics_generation] by /turtlesim
+[rosmaster.master][INFO] 2023-07-31 13:26:54,208: +SUB [/turtle1/cmd_vel] /turtlesim http://LAPTOP-CB8EFKQO:33709/
+[rosmaster.master][INFO] 2023-07-31 13:26:54,209: +PUB [/turtle1/pose] /turtlesim http://LAPTOP-CB8EFKQO:33709/
+[rosmaster.master][INFO] 2023-07-31 13:26:54,210: +PUB [/turtle1/color_sensor] /turtlesim http://LAPTOP-CB8EFKQO:33709/
+[rosmaster.master][INFO] 2023-07-31 13:26:54,210: +SERVICE [/turtle1/set_pen] /turtlesim http://LAPTOP-CB8EFKQO:33709/
+[rosmaster.master][INFO] 2023-07-31 13:26:54,210: +SERVICE [/turtle1/teleport_relative] /turtlesim http://LAPTOP-CB8EFKQO:33709/
+[rosmaster.master][INFO] 2023-07-31 13:26:54,211: +SERVICE [/turtle1/teleport_absolute] /turtlesim http://LAPTOP-CB8EFKQO:33709/
+[rosmaster.master][INFO] 2023-07-31 13:26:54,404: +CACHEDPARAM [/rosout/omit_topics] by /rosout
+[rosmaster.master][INFO] 2023-07-31 13:28:11,227: -SERVICE [/turtle1/teleport_absolute] /turtlesim rosrpc://LAPTOP-CB8EFKQO:42659
+[rosmaster.master][INFO] 2023-07-31 13:28:11,229: -SERVICE [/turtle1/teleport_relative] /turtlesim rosrpc://LAPTOP-CB8EFKQO:42659
+[rosmaster.master][INFO] 2023-07-31 13:28:11,231: -SERVICE [/turtle1/set_pen] /turtlesim rosrpc://LAPTOP-CB8EFKQO:42659
+[rosmaster.master][INFO] 2023-07-31 13:28:11,235: -PUB [/turtle1/color_sensor] /turtlesim http://LAPTOP-CB8EFKQO:33709/
+[rosmaster.master][INFO] 2023-07-31 13:28:11,239: -PUB [/turtle1/pose] /turtlesim http://LAPTOP-CB8EFKQO:33709/
+[rosmaster.master][INFO] 2023-07-31 13:28:11,241: -SUB [/turtle1/cmd_vel] /turtlesim http://LAPTOP-CB8EFKQO:33709/
+[rosmaster.master][INFO] 2023-07-31 13:28:11,242: -SERVICE [/kill] /turtlesim rosrpc://LAPTOP-CB8EFKQO:42659
+[rosmaster.master][INFO] 2023-07-31 13:28:11,244: -SERVICE [/spawn] /turtlesim rosrpc://LAPTOP-CB8EFKQO:42659
+[rosmaster.master][INFO] 2023-07-31 13:28:11,245: -SERVICE [/reset] /turtlesim rosrpc://LAPTOP-CB8EFKQO:42659
+[rosmaster.master][INFO] 2023-07-31 13:28:11,246: -SERVICE [/clear] /turtlesim rosrpc://LAPTOP-CB8EFKQO:42659
+[rosmaster.master][INFO] 2023-07-31 13:28:11,512: -PUB [/rosout] /turtlesim http://LAPTOP-CB8EFKQO:33709/
+[rosmaster.master][INFO] 2023-07-31 13:28:11,514: -SERVICE [/turtlesim/get_loggers] /turtlesim rosrpc://LAPTOP-CB8EFKQO:42659
+[rosmaster.master][INFO] 2023-07-31 13:28:11,514: -SERVICE [/turtlesim/set_logger_level] /turtlesim rosrpc://LAPTOP-CB8EFKQO:42659
+[rosmaster.master][INFO] 2023-07-31 13:28:11,515: -CACHEDPARAM [/rosout_disable_topics_generation] by /turtlesim
+[rosmaster.master][INFO] 2023-07-31 13:28:11,529: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:43161/ []
+[rosmaster.master][INFO] 2023-07-31 13:28:11,530: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:43161/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-07-31 13:28:53,107: -PUB [/rosout_agg] /rosout http://LAPTOP-CB8EFKQO:43161/
+[rosmaster.master][INFO] 2023-07-31 13:28:53,110: -SUB [/rosout] /rosout http://LAPTOP-CB8EFKQO:43161/
+[rosmaster.master][INFO] 2023-07-31 13:28:53,111: -SERVICE [/rosout/get_loggers] /rosout rosrpc://LAPTOP-CB8EFKQO:34137
+[rosmaster.master][INFO] 2023-07-31 13:28:53,113: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://LAPTOP-CB8EFKQO:34137
+[rosmaster.master][INFO] 2023-07-31 13:28:53,115: -CACHEDPARAM [/rosout/omit_topics] by /rosout
+[rosmaster.main][INFO] 2023-07-31 13:28:53,305: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2023-07-31 13:28:53,305: stopping master...
+[rospy.core][INFO] 2023-07-31 13:28:53,305: signal_shutdown [atexit]

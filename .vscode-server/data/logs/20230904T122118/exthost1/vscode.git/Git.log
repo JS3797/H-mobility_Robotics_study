@@ -1,0 +1,39 @@
+2023-09-04 12:21:26.201 [info] 로그 수준: Info
+2023-09-04 12:21:26.201 [info] "git"에서 찾은 git 유효성을 검사하는 중
+2023-09-04 12:21:26.201 [info] "2.17.1"에서 git "git"을(를) 사용하는 중
+2023-09-04 12:21:26.201 [info] > git rev-parse --show-toplevel [54ms]
+2023-09-04 12:21:26.201 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-04 12:21:26.417 [info] > git rev-parse --show-toplevel [201ms]
+2023-09-04 12:21:26.417 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-04 12:21:26.434 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-04 12:21:26.434 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-04 12:21:26.444 [info] > git rev-parse --show-toplevel [4ms]
+2023-09-04 12:21:26.444 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-04 12:21:26.471 [info] > git rev-parse --show-toplevel [9ms]
+2023-09-04 12:21:26.488 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-09-04 12:21:26.561 [info] Open repository: /home/jinsu_park/catkin_ws/src/puma560_description
+2023-09-04 12:21:26.610 [info] > git config --get commit.template [23ms]
+2023-09-04 12:21:26.617 [info] > git rev-parse --show-toplevel [9ms]
+2023-09-04 12:21:26.617 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-04 12:21:26.657 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [26ms]
+2023-09-04 12:21:26.684 [info] > git rev-parse --show-toplevel [28ms]
+2023-09-04 12:21:26.685 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-04 12:21:26.712 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-04 12:21:26.712 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-04 12:21:26.764 [info] > git status -z -uall [87ms]
+2023-09-04 12:21:26.812 [info] > git config --get commit.template [16ms]
+2023-09-04 12:21:26.814 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2023-09-04 12:21:26.855 [info] > git status -z -uall [30ms]
+2023-09-04 12:21:27.330 [info] > git check-ignore -v -z --stdin [4ms]
+2023-09-04 12:21:27.505 [info] > git rev-parse --show-toplevel [4ms]
+2023-09-04 12:21:27.505 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-04 13:15:07.444 [info] > git rev-parse --show-toplevel [19ms]
+2023-09-04 13:15:07.445 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-04 13:27:45.475 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-04 13:27:45.475 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-04 13:27:54.716 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-04 13:27:54.716 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-04 13:31:37.733 [info] > git rev-parse --show-toplevel [6ms]
+2023-09-04 13:31:37.733 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-04 13:37:55.835 [info] > git rev-parse --show-toplevel [28ms]
+2023-09-04 13:37:55.835 [info] fatal: not a git repository (or any of the parent directories): .git

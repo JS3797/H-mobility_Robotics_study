@@ -1,0 +1,8 @@
+prefix=/home/jinsu_park/catkin_ws/install
+
+Name: scara_description
+Description: Description of scara_description
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

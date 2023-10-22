@@ -1,0 +1,26 @@
+[rospy.client][INFO] 2023-09-08 13:10:31,518: init_node, name[/joint_state_publisher], pid[9653]
+[xmlrpc][INFO] 2023-09-08 13:10:31,518: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-08 13:10:31,519: Started XML-RPC server [http://LAPTOP-CB8EFKQO:46493/]
+[rospy.impl.masterslave][INFO] 2023-09-08 13:10:31,519: _ready: http://LAPTOP-CB8EFKQO:46493/
+[rospy.init][INFO] 2023-09-08 13:10:31,520: ROS Slave URI: [http://LAPTOP-CB8EFKQO:46493/]
+[xmlrpc][INFO] 2023-09-08 13:10:31,521: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-08 13:10:31,521: Registering with master node http://localhost:11311
+[rospy.init][INFO] 2023-09-08 13:10:31,620: registered with master
+[rospy.rosout][INFO] 2023-09-08 13:10:31,620: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-08 13:10:31,624: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-08 13:10:31,625: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-08 13:10:31,849: topic[/joint_states] adding connection to [/robot_state_publisher], count 0
+[rospy.internal][INFO] 2023-09-08 13:10:31,879: topic[/move_group/fake_controller_joint_states] adding connection to [http://LAPTOP-CB8EFKQO:42719/], count 0
+[rospy.internal][INFO] 2023-09-08 13:10:31,881: topic[/joint_states] adding connection to [/move_group], count 1
+[rospy.internal][INFO] 2023-09-08 13:10:31,930: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2023-09-08 13:10:52,460: topic[/joint_states] adding connection to [/singularity], count 2
+[rospy.internal][INFO] 2023-09-08 13:10:52,693: topic[/move_group/fake_controller_joint_states] adding connection to [http://LAPTOP-CB8EFKQO:42021/], count 1
+[rospy.internal][INFO] 2023-09-08 13:11:03,456: topic[/move_group/fake_controller_joint_states] removing connection to http://LAPTOP-CB8EFKQO:42021/
+[rospy.internal][INFO] 2023-09-08 13:11:03,521: topic[/joint_states] removing connection to /singularity
+[rospy.core][INFO] 2023-09-08 13:11:07,876: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2023-09-08 13:11:07,882: topic[/joint_states] removing connection to /robot_state_publisher
+[rospy.internal][INFO] 2023-09-08 13:11:07,883: topic[/joint_states] removing connection to /move_group
+[rospy.internal][INFO] 2023-09-08 13:11:07,884: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2023-09-08 13:11:07,885: topic[/move_group/fake_controller_joint_states] removing connection to http://LAPTOP-CB8EFKQO:42719/
+[rospy.impl.masterslave][INFO] 2023-09-08 13:11:07,888: signal-2
+[rospy.core][INFO] 2023-09-08 13:11:07,993: signal_shutdown [atexit]

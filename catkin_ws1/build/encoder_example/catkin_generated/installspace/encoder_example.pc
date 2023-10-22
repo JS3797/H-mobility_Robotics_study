@@ -1,0 +1,8 @@
+prefix=/home/jinsu_park/catkin_ws/install
+
+Name: encoder_example
+Description: Description of encoder_example
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

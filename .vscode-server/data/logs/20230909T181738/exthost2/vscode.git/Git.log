@@ -1,0 +1,33 @@
+2023-09-09 18:21:26.105 [info] 로그 수준: Info
+2023-09-09 18:21:26.105 [info] "git"에서 찾은 git 유효성을 검사하는 중
+2023-09-09 18:21:26.105 [info] "2.17.1"에서 git "git"을(를) 사용하는 중
+2023-09-09 18:21:26.105 [info] > git rev-parse --show-toplevel [5ms]
+2023-09-09 18:21:26.110 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-09-09 18:21:26.130 [info] Open repository: /home/jinsu_park/My-project
+2023-09-09 18:21:26.149 [info] > git config --get commit.template [2ms]
+2023-09-09 18:21:26.165 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2023-09-09 18:21:26.181 [info] > git status -z -uall [5ms]
+2023-09-09 18:21:26.208 [info] > git config --get commit.template [5ms]
+2023-09-09 18:21:26.220 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2023-09-09 18:21:26.232 [info] > git status -z -uall [4ms]
+2023-09-09 18:21:26.685 [info] > git check-ignore -v -z --stdin [1ms]
+2023-09-09 18:21:29.772 [info] > git show --textconv :라인트레이서 프로젝트.txt [9ms]
+2023-09-09 18:21:29.775 [info] > git ls-files --stage -- /home/jinsu_park/My-project/라인트레이서 프로젝트.txt [5ms]
+2023-09-09 18:21:29.781 [info] > git cat-file -s f9f8635ace3ea0cea17d3a5e8c3b0aa142f0e18d [1ms]
+2023-09-09 18:22:00.570 [info] > git show --textconv :라인트레이서 프로젝트.c [8ms]
+2023-09-09 18:22:00.571 [info] > git ls-files --stage -- /home/jinsu_park/My-project/라인트레이서 프로젝트.c [3ms]
+2023-09-09 18:22:00.696 [info] > git check-ignore -v -z --stdin [1ms]
+2023-09-09 18:22:01.359 [info] > git config --get commit.template [10ms]
+2023-09-09 18:22:01.360 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-09-09 18:22:01.367 [info] > git status -z -uall [2ms]
+2023-09-09 18:22:26.219 [info] > git show --textconv :자동창문청소로봇.ino [6ms]
+2023-09-09 18:22:26.221 [info] > git ls-files --stage -- /home/jinsu_park/My-project/자동창문청소로봇.ino [2ms]
+2023-09-09 18:22:26.226 [info] > git cat-file -s 92ebf8b8861e086568a9a0f259cd1b231c54e578 [1ms]
+2023-09-09 18:22:40.994 [info] > git show --textconv :라인트레이서 프로젝트.c [6ms]
+2023-09-09 18:22:40.995 [info] > git ls-files --stage -- /home/jinsu_park/My-project/라인트레이서 프로젝트.c [1ms]
+2023-09-09 18:26:49.981 [info] > git clone https://github.com/JS3797/My-project.git /home/jinsu_park/My-project-1 --progress [662ms]
+2023-09-09 18:26:49.981 [info] Cloning into '/home/jinsu_park/My-project-1'...
+remote: Enumerating objects: 14, done.        
+remote: Counting objects:   7% (1/14)        remote: Counting objects:  14% (2/14)        remote: Counting objects:  21% (3/14)        remote: Counting objects:  28% (4/14)        remote: Counting objects:  35% (5/14)        remote: Counting objects:  42% (6/14)        remote: Counting objects:  50% (7/14)        remote: Counting objects:  57% (8/14)        remote: Counting objects:  64% (9/14)        remote: Counting objects:  71% (10/14)        remote: Counting objects:  78% (11/14)        remote: Counting objects:  85% (12/14)        remote: Counting objects:  92% (13/14)        remote: Counting objects: 100% (14/14)        remote: Counting objects: 100% (14/14), done.        
+remote: Compressing objects:   8% (1/12)        remote: Compressing objects:  16% (2/12)        remote: Compressing objects:  25% (3/12)        remote: Compressing objects:  33% (4/12)        remote: Compressing objects:  41% (5/12)        remote: Compressing objects:  50% (6/12)        remote: Compressing objects:  58% (7/12)        remote: Compressing objects:  66% (8/12)        remote: Compressing objects:  75% (9/12)        remote: Compressing objects:  83% (10/12)        remote: Compressing objects:  91% (11/12)        remote: Compressing objects: 100% (12/12)        remote: Compressing objects: 100% (12/12), done.        
+remote: Total 14 (delta 4), reused 0 (delta 0), pack-reused 0

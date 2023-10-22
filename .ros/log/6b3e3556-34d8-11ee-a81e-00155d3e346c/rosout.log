@@ -1,0 +1,704 @@
+
+
+1691381462.373643010  Node Startup
+1691381629.162939999 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 2
+1691381629.262978907 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 3
+1691381629.363124014 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 4
+1691381629.462867422 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 5
+1691381629.563038829 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 6
+1691381629.663495337 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 7
+1691381629.762860944 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 8
+1691381629.862413752 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 9
+1691381629.962615659 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 10
+1691381630.062854667 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 11
+1691381630.163118874 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 12
+1691381630.263010582 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 13
+1691381630.363272393 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 14
+1691381630.462906007 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 15
+1691381630.563042721 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 16
+1691381630.662898135 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 17
+1691381630.763133449 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 18
+1691381630.863221363 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 19
+1691381630.963068877 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 20
+1691381631.063181691 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 21
+1691381631.162610505 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 22
+1691381631.262841119 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 23
+1691381631.362920933 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 24
+1691381631.463203747 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 25
+1691381631.562753061 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 26
+1691381631.663128875 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 27
+1691381631.763139989 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 28
+1691381631.863343003 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 29
+1691381631.962790317 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 30
+1691381632.062832631 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 31
+1691381632.162587745 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 32
+1691381632.262933459 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 33
+1691381632.362893873 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 34
+1691381632.462807687 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 35
+1691381632.562855501 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 36
+1691381632.662850615 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 37
+1691381632.762705329 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 38
+1691381632.862618843 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 39
+1691381632.963912257 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 40
+1691381633.062673271 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 41
+1691381633.162615485 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 42
+1691381633.262465999 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 43
+1691381633.362585413 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 44
+1691381633.462503227 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 45
+1691381633.562450141 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 46
+1691381633.662617955 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 47
+1691381633.762852469 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 48
+1691381633.862609783 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 49
+1691381633.962643697 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 50
+1691381634.062865011 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 51
+1691381634.162943325 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 52
+1691381634.262849039 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 53
+1691381634.362824453 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 54
+1691381634.462790167 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 55
+1691381634.562797081 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 56
+1691381634.663076895 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 57
+1691381634.762608509 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 58
+1691381634.862822623 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 59
+1691381634.962823137 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 60
+1691381635.062632251 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 61
+1691381635.162906965 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 62
+1691381635.263025079 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 63
+1691381635.362797393 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 64
+1691381635.462586607 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 65
+1691381635.562616321 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 66
+1691381635.663335635 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 67
+1691381635.763698050 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 68
+1691381635.862577763 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 69
+1691381635.962586477 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 70
+1691381636.063185792 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 71
+1691381636.162889905 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 72
+1691381636.262551419 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 73
+1691381636.363036234 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 74
+1691381636.462694048 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 75
+1691381636.563641562 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 76
+1691381636.662617976 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 77
+1691381636.762862790 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 78
+1691381636.862831704 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 79
+1691381636.962970318 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 80
+1691381637.062800832 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 81
+1691381637.162976246 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 82
+1691381637.263278160 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 83
+1691381637.363756774 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 84
+1691381637.462636788 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 85
+1691381637.562776102 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 86
+1691381637.663058916 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 87
+1691381637.763228130 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 88
+1691381637.863155744 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 89
+1691381637.962697058 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 90
+1691381638.063198772 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 91
+1691381638.162580286 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 92
+1691381638.263093600 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 93
+1691381638.363044014 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 94
+1691381638.462664329 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 95
+1691381638.563524244 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 96
+1691381638.663341259 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 97
+1691381638.762780274 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 98
+1691381638.862732488 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 99
+1691381638.962833903 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 100
+1691381639.062821518 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 101
+1691381639.162793833 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 102
+1691381639.263246748 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 103
+1691381639.363107763 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 104
+1691381639.463350278 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 105
+1691381639.562886893 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 106
+1691381639.663535908 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 107
+1691381639.762987622 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 108
+1691381639.863007037 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 109
+1691381639.963073652 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 110
+1691381640.063688967 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 111
+1691381640.163421882 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 112
+1691381640.263178597 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 113
+1691381640.363108712 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 114
+1691381640.463156627 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 115
+1691381640.564575242 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 116
+1691381640.662738756 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 117
+1691381640.762672671 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 118
+1691381640.862605486 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 119
+1691381640.962653601 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 120
+1691381641.063264416 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 121
+1691381641.163043531 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 122
+1691381641.262881346 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 123
+1691381641.363347260 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 124
+1691381641.462753575 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 125
+1691381641.562664590 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 126
+1691381641.665262805 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 127
+1691381641.763478020 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 128
+1691381641.862818935 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 129
+1691381641.962921450 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 130
+1691381642.063175465 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 131
+1691381642.162917779 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 132
+1691381642.262908194 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 133
+1691381642.363416209 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 134
+1691381642.463259824 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 135
+1691381642.563204539 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 136
+1691381642.663211554 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 137
+1691381642.763129069 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 138
+1691381642.863076484 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 139
+1691381642.962818198 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 140
+1691381643.063632413 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 141
+1691381643.162580928 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 142
+1691381643.262478743 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 143
+1691381643.362496058 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 144
+1691381643.462564973 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 145
+1691381643.562914288 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 146
+1691381643.663367303 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 147
+1691381643.763225517 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 148
+1691381643.862614332 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 149
+1691381643.962739347 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 150
+1691381644.063051462 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 151
+1691381644.162556677 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 152
+1691381644.262707792 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 153
+1691381644.362818907 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 154
+1691381644.462511822 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 155
+1691381644.562514136 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 156
+1691381644.663067551 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 157
+1691381644.762829066 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 158
+1691381644.862789981 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 159
+1691381644.962628396 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 160
+1691381645.062508111 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 161
+1691381645.162620226 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 162
+1691381645.262770741 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 163
+1691381645.363045956 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 164
+1691381645.463183070 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 165
+1691381645.562643385 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 166
+1691381645.663598900 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 167
+1691381645.762464815 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 168
+1691381645.862986330 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 169
+1691381645.963404045 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 170
+1691381646.062662860 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 171
+1691381646.162709075 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 172
+1691381646.262558089 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 173
+1691381646.362565004 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 174
+1691381646.462624713 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 175
+1691381646.562777023 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 176
+1691381646.662950033 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 177
+1691381646.762798942 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 178
+1691381646.862806652 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 179
+1691381646.962777861 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 180
+1691381647.062736871 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 181
+1691381647.162787380 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 182
+1691381647.262708890 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 183
+1691381647.362897900 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 184
+1691381647.462885109 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 185
+1691381647.562758019 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 186
+1691381647.663314428 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 187
+1691381647.762753138 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 188
+1691381647.862710647 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 189
+1691381647.962576957 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 190
+1691381648.062726866 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 191
+1691381648.163100476 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 192
+1691381648.263454486 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 193
+1691381648.362902095 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 194
+1691381648.462781805 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 195
+1691381648.562918914 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 196
+1691381648.662628724 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 197
+1691381648.762513633 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 198
+1691381648.862600943 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 199
+1691381648.962652353 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 200
+1691381649.063123462 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 201
+1691381649.162781372 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 202
+1691381649.264056781 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 203
+1691381649.363071491 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 204
+1691381649.462637000 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 205
+1691381649.562741410 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 206
+1691381649.662871719 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 207
+1691381649.762866829 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 208
+1691381649.863295139 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 209
+1691381649.963107748 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 210
+1691381650.062823858 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 211
+1691381650.163120667 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 212
+1691381650.263422077 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 213
+1691381650.362913086 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 214
+1691381650.462696696 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 215
+1691381650.562631406 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 216
+1691381650.662840315 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 217
+1691381650.762826625 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 218
+1691381650.862624234 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 219
+1691381650.962556744 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 220
+1691381651.062608553 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 221
+1691381651.162527663 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 222
+1691381651.262752773 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 223
+1691381651.362946182 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 224
+1691381651.462697292 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 225
+1691381651.562553401 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 226
+1691381651.662663211 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 227
+1691381651.762539920 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 228
+1691381651.862962530 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 229
+1691381651.963281840 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 230
+1691381652.062648049 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 231
+1691381652.163633159 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 232
+1691381652.262939568 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 233
+1691381652.362603378 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 234
+1691381724.391499953 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 2
+1691381724.491334567 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 3
+1691381724.591491380 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 4
+1691381724.691588294 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 5
+1691381724.791709008 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 6
+1691381724.891590122 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 7
+1691381724.991451236 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 8
+1691381725.091372149 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 9
+1691381725.191389063 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 10
+1691381725.291378877 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 11
+1691381725.391497591 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 12
+1691381725.491583905 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 13
+1691381725.591608419 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 14
+1691381725.691594532 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 15
+1691381725.791778646 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 16
+1691381725.891467460 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 17
+1691381725.991636574 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 18
+1691381726.091579288 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 19
+1691381726.191621001 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 20
+1691381726.291696515 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 21
+1691381726.391535829 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 22
+1691381726.491647543 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 23
+1691381726.591340760 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 24
+1691381726.691430315 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 25
+1691381726.791579169 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 26
+1691381726.891799424 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 27
+1691381726.992208178 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 28
+1691381726.994263173 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 28]
+1691381727.091721435 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 29
+1691381727.093413631 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 29]
+1691381727.191751390 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 30
+1691381727.193536586 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 30]
+1691381727.291763745 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 31
+1691381727.293393641 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 31]
+1691381727.391940900 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 32
+1691381727.393495596 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 32]
+1691381727.491623156 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 33
+1691381727.493139352 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 33]
+1691381727.591340412 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 34
+1691381727.592221210 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 34]
+1691381727.691462667 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 35
+1691381727.692634164 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 35]
+1691381727.791852921 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 36
+1691381727.793743517 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 36]
+1691381727.891758677 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 37
+1691381727.893382273 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 37]
+1691381727.991323833 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 38
+1691381727.991841532 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 38]
+1691381728.091811787 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 39
+1691381728.092773485 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 39]
+1691381728.191670443 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 40
+1691381728.192957240 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 40]
+1691381728.291583398 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 41
+1691381728.292563996 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 41]
+1691381728.391714353 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 42
+1691381728.392996950 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 42]
+1691381728.491813908 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 43
+1691381728.493166705 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 43]
+1691381728.591666064 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 44
+1691381728.593972058 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 44]
+1691381728.691715619 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 45
+1691381728.693191215 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 45]
+1691381728.791558375 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 46
+1691381728.793310770 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 46]
+1691381728.891623130 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 47
+1691381728.892997226 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 47]
+1691381728.991572485 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 48
+1691381728.992838782 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 48]
+1691381729.091501541 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 49
+1691381729.092379438 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 49]
+1691381729.191460896 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 50
+1691381729.192249494 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 50]
+1691381729.291751150 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 51
+1691381729.293168747 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 51]
+1691381729.391659706 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 52
+1691381729.393111502 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 52]
+1691381729.491603261 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 53
+1691381729.492853758 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 53]
+1691381729.591497317 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 54
+1691381729.592338515 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 54]
+1691381729.691441172 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 55
+1691381729.692287270 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 55]
+1691381729.791386328 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 56
+1691381729.792365325 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 56]
+1691381729.891909082 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 57
+1691381729.893301078 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 57]
+1691381729.991671537 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 58
+1691381729.994077232 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 58]
+1691381730.091475293 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 59
+1691381730.092176991 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 59]
+1691381730.191586948 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 60
+1691381730.192496346 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 60]
+1691381730.291651503 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 61
+1691381730.292898200 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 61]
+1691381730.391779858 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 62
+1691381730.393337754 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 62]
+1691381730.491803513 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 63
+1691381730.493272310 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 63]
+1691381730.591780269 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 64
+1691381730.593236065 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 64]
+1691381730.691959024 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 65
+1691381730.693565420 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 65]
+1691381730.791515080 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 66
+1691381730.792308978 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 66]
+1691381730.891562735 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 67
+1691381730.892559533 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 67]
+1691381730.991590090 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 68
+1691381730.992787787 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 68]
+1691381731.091592045 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 69
+1691381731.092849442 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 69]
+1691381731.191720000 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 70
+1691381731.193367996 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 70]
+1691381731.291705156 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 71
+1691381731.293349352 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 71]
+1691381731.391743711 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 72
+1691381731.394137905 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 72]
+1691381731.491830266 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 73
+1691381731.493884961 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 73]
+1691381731.591679722 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 74
+1691381731.594261815 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 74]
+1691381731.691419577 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 75
+1691381731.692219575 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 75]
+1691381731.791402333 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 76
+1691381731.792360930 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 76]
+1691381731.891799687 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 77
+1691381731.893775782 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 77]
+1691381731.991751942 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 78
+1691381731.993454038 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 78]
+1691381732.091699998 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 79
+1691381732.093473593 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 79]
+1691381732.192147352 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 80
+1691381732.194132547 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 80]
+1691381732.291697608 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 81
+1691381732.293710303 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 81]
+1691381732.391744563 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 82
+1691381732.393247560 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 82]
+1691381732.491596419 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 83
+1691381732.493026916 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 83]
+1691381732.592913871 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 84
+1691381732.594787866 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 84]
+1691381732.698265113 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 85
+1691381732.700210308 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 85]
+1691381732.791423185 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 86
+1691381732.792153783 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 86]
+1691381732.891552740 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 87
+1691381732.892576138 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 87]
+1691381732.992154394 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 88
+1691381732.994297189 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 88]
+1691381733.092030950 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 89
+1691381733.092539848 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 89]
+1691381733.191320407 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 90
+1691381733.191783305 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 90]
+1691381733.291624061 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 91
+1691381733.292872558 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 91]
+1691381733.392168615 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 92
+1691381733.393623211 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 92]
+1691381733.491575272 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 93
+1691381733.492510369 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 93]
+1691381733.591536327 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 94
+1691381733.592324325 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 94]
+1691381733.691929681 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 95
+1691381733.692923879 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 95]
+1691381733.791416938 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 96
+1691381733.792285736 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 96]
+1691381733.891948192 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 97
+1691381733.893044089 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 97]
+1691381733.991772847 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 98
+1691381733.992580046 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 98]
+1691381734.091406904 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 99
+1691381734.092707000 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 99]
+1691381734.191822458 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 100
+1691381734.193552954 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 100]
+1691381734.291686913 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 101
+1691381734.292651111 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 101]
+1691381734.391658369 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 102
+1691381734.392737466 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 102]
+1691381734.492034123 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 103
+1691381734.493838319 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 103]
+1691381734.591852210 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 104
+1691381734.594797208 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 104]
+1691381734.691837423 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 105
+1691381734.693394821 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 105]
+1691381734.791402836 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 106
+1691381734.792172535 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 106]
+1691381734.891461948 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 107
+1691381734.893664546 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 107]
+1691381734.991582461 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 108
+1691381734.992540060 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 108]
+1691381735.091366973 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 109
+1691381735.092152373 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 109]
+1691381735.191491686 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 110
+1691381735.192482385 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 110]
+1691381735.291527998 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 111
+1691381735.292365598 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 111]
+1691381735.391865611 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 112
+1691381735.394298308 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 112]
+1691381735.491537223 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 113
+1691381735.492634022 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 113]
+1691381735.591287436 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 114
+1691381735.591828436 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 114]
+1691381735.691451848 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 115
+1691381735.692121048 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 115]
+1691381735.791474161 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 116
+1691381735.792580160 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 116]
+1691381735.891479774 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 117
+1691381735.892585173 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 117]
+1691381735.991583586 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 118
+1691381735.992734685 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 118]
+1691381736.091717098 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 119
+1691381736.092943697 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 119]
+1691381736.191433011 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 120
+1691381736.192542110 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 120]
+1691381736.291588424 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 121
+1691381736.292783923 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 121]
+1691381736.392134736 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 122
+1691381736.395459733 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 122]
+1691381736.491520449 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 123
+1691381736.492221648 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 123]
+1691381736.591483561 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 124
+1691381736.592551360 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 124]
+1691381736.691671774 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 125
+1691381736.693690672 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 125]
+1691381736.791659486 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 126
+1691381736.793073485 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 126]
+1691381736.891428099 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 127
+1691381736.892080898 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 127]
+1691381736.991533412 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 128
+1691381736.992447811 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 128]
+1691381737.091876024 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 129
+1691381737.093283623 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 129]
+1691381737.192123236 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 130
+1691381737.194474634 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 130]
+1691381737.291634449 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 131
+1691381737.293488847 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 131]
+1691381737.391705462 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 132
+1691381737.392600361 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 132]
+1691381737.491712774 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 133
+1691381737.492618173 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 133]
+1691381737.591576887 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 134
+1691381737.592912186 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 134]
+1691381737.691521199 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 135
+1691381737.692563098 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 135]
+1691381737.791506512 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 136
+1691381737.792350511 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 136]
+1691381737.891897224 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 137
+1691381737.893765822 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 137]
+1691381737.992126436 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 138
+1691381737.994178835 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 138]
+1691381738.092185349 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 139
+1691381738.094723747 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 139]
+1691381738.192065362 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 140
+1691381738.194118560 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 140]
+1691381738.291785874 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 141
+1691381738.293802073 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 141]
+1691381738.392753986 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 142
+1691381738.394895184 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 142]
+1691381738.492139499 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 143
+1691381738.495193396 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 143]
+1691381738.591833112 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 144
+1691381738.592677411 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 144]
+1691381738.692396124 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 145
+1691381738.693774823 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 145]
+1691381738.791629037 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 146
+1691381738.792665036 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 146]
+1691381738.891626950 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 147
+1691381738.893139548 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 147]
+1691381738.991449162 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 148
+1691381738.992371962 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 148]
+1691381739.091486475 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 149
+1691381739.092385274 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 149]
+1691381739.192023987 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 150
+1691381739.192697787 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 150]
+1691381739.291537300 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 151
+1691381739.293043399 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 151]
+1691381739.391927612 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 152
+1691381739.394247610 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 152]
+1691381739.491788525 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 153
+1691381739.493958323 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 153]
+1691381739.592159337 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 154
+1691381739.595429134 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 154]
+1691381739.691511950 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 155
+1691381739.692412249 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 155]
+1691381739.791489963 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 156
+1691381739.792509362 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 156]
+1691381739.891435975 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 157
+1691381739.892280175 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 157]
+1691381739.991653288 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 158
+1691381739.992663887 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 158]
+1691381740.092156800 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 159
+1691381740.094779398 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 159]
+1691381740.191665113 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 160
+1691381740.193004812 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 160]
+1691381740.291457326 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 161
+1691381740.292330725 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 161]
+1691381740.391720838 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 162
+1691381740.393590936 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 162]
+1691381740.491965750 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 163
+1691381740.494561248 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 163]
+1691381740.591315363 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 164
+1691381740.591788563 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 164]
+1691381740.691399676 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 165
+1691381740.692128975 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 165]
+1691381740.791435988 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 166
+1691381740.792243488 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 166]
+1691381740.891439201 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 167
+1691381740.892279000 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 167]
+1691381740.991532913 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 168
+1691381740.992806812 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 168]
+1691381741.091934726 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 169
+1691381741.093306524 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 169]
+1691381741.191640838 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 170
+1691381741.193079537 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 170]
+1691381741.291628551 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 171
+1691381741.292921350 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 171]
+1691381741.391543364 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 172
+1691381741.392867562 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 172]
+1691381741.493206475 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 173
+1691381741.495293273 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 173]
+1691381741.591427089 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 174
+1691381741.592248588 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 174]
+1691381741.691369601 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 175
+1691381741.692166501 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 175]
+1691381741.791416814 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 176
+1691381741.792222713 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 176]
+1691381741.891792126 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 177
+1691381741.893217525 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 177]
+1691381741.992260238 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 178
+1691381741.993910337 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 178]
+1691381742.091485951 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 179
+1691381742.092284551 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 179]
+1691381742.191769964 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 180
+1691381742.192779763 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 180]
+1691381742.292076876 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 181
+1691381742.293495775 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 181]
+1691381742.392097588 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 182
+1691381742.393633987 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 182]
+1691381742.491972801 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 183
+1691381742.493370600 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 183]
+1691381742.591925152 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 184
+1691381742.593390518 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 184]
+1691381742.691518167 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 185
+1691381742.692315948 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 185]
+1691381742.791390575 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 186
+1691381742.792359653 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 186]
+1691381742.891558977 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 187
+1691381742.892342259 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 187]
+1691381742.991593382 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 188
+1691381742.992821154 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 188]
+1691381743.091747684 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 189
+1691381743.093124652 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 189]
+1691381743.192357775 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 190
+1691381743.193770043 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 190]
+1691381743.292024089 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 191
+1691381743.293313859 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 191]
+1691381743.391472107 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 192
+1691381743.392718378 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 192]
+1691381743.491434814 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 193
+1691381743.492273394 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 193]
+1691381743.591385220 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 194
+1691381743.592356898 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 194]
+1691381743.691519023 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 195
+1691381743.692606698 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 195]
+1691381743.791408531 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 196
+1691381743.792097115 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 196]
+1691381743.891511534 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 197
+1691381743.892217618 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 197]
+1691381743.991651537 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 198
+1691381743.992551116 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 198]
+1691381744.091468547 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 199
+1691381744.092230729 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 199]
+1691381744.191508051 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 200
+1691381744.192510728 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 200]
+1691381744.291506257 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 201
+1691381744.292606332 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 201]
+1691381744.391372866 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 202
+1691381744.392256845 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 202]
+1691381744.491348672 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 203
+1691381744.492057656 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 203]
+1691381744.591658470 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 204
+1691381744.592596749 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 204]
+1691381744.691701375 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 205
+1691381744.692845549 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 205]
+1691381744.791683881 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 206
+1691381744.793129448 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 206]
+1691381744.891552290 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 207
+1691381744.893254851 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 207]
+1691381744.991360100 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 208
+1691381744.992057384 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 208]
+1691381745.092332583 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 209
+1691381745.094643330 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 209]
+1691381745.191322212 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 210
+1691381745.191959397 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 210]
+1691381745.291394316 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 211
+1691381745.292134399 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 211]
+1691381745.391288253 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 212
+1691381745.391954753 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 212]
+1691381745.491403854 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 213
+1691381745.492236154 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 213]
+1691381745.591630155 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 214
+1691381745.592466055 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 214]
+1691381745.691479556 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 215
+1691381745.692337256 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 215]
+1691381745.791288257 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 216
+1691381745.792117657 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 216]
+1691381745.891513058 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 217
+1691381745.892322358 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 217]
+1691381745.991593059 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 218
+1691381745.992690259 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 218]
+1691381746.091672860 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 219
+1691381746.092596860 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 219]
+1691381746.191475661 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 220
+1691381746.192240861 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 220]
+1691381746.291691662 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 221
+1691381746.293778962 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 221]
+1691381746.391951563 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 222
+1691381746.393391863 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 222]
+1691381746.491688664 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 223
+1691381746.493502664 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 223]
+1691381746.591549065 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 224
+1691381746.592367365 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 224]
+1691381746.691714766 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 225
+1691381746.692674766 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 225]
+1691381746.791567367 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 226
+1691381746.792421967 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 226]
+1691381746.891578868 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 227
+1691381746.892881268 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 227]
+1691381746.991665169 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 228
+1691381746.992923969 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 228]
+1691381747.091627370 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 229
+1691381747.093140570 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 229]
+1691381747.191465071 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 230
+1691381747.192443171 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 230]
+1691381747.291426472 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 231
+1691381747.292284172 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 231]
+1691381747.391479573 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 232
+1691381747.392419773 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 232]
+1691381747.491619674 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 233
+1691381747.492539774 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 233]
+1691381747.592127875 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 234
+1691381747.593964375 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 234]
+1691381747.691472176 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 235
+1691381747.692307976 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 235]
+1691381747.791487177 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 236
+1691381747.792319077 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 236]
+1691381747.891487578 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 237
+1691381747.892317978 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 237]
+1691381747.991680479 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 238
+1691381747.992955979 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 238]
+1691381748.091727880 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 239
+1691381748.093206380 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 239]
+1691381748.192009281 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 240
+1691381748.193610681 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 240]
+1691381748.291346982 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 241
+1691381748.292158882 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 241]
+1691381748.391331783 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 242
+1691381748.392030183 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 242]
+1691381748.491250184 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 243
+1691381748.491729084 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 243]
+1691381748.591424385 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 244
+1691381748.592146785 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 244]
+1691381748.691682586 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 245
+1691381748.693826287 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 245]
+1691381748.792299488 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 246
+1691381748.794759788 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 246]
+1691381748.891506489 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 247
+1691381748.892393489 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 247]
+1691381748.991427790 INFO /talker [/home/jinsu_park/catkin_ws/src/tutorial/src/talker.cpp:19(main)] [topics: /rosout, /chatter] hello world 248
+1691381748.992325690 INFO /listener [/home/jinsu_park/catkin_ws/src/tutorial/src/listener.cpp:6(chatterCallback)] [topics: /rosout] I heard: [hello world 248]

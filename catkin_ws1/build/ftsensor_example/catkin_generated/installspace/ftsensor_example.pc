@@ -1,0 +1,8 @@
+prefix=/home/jinsu_park/catkin_ws/install
+
+Name: ftsensor_example
+Description: Description of ftsensor_example
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

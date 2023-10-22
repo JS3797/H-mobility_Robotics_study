@@ -1,0 +1,8 @@
+prefix=/home/jinsu_park/catkin_ws/install
+
+Name: calibration_demo
+Description: Description of calibration_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp roslib sensor_msgs std_msgs geometry_msgs

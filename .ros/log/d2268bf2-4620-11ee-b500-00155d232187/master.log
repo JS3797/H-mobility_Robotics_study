@@ -1,0 +1,21 @@
+[rosmaster.main][INFO] 2023-08-29 13:02:08,294: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2023-08-29 13:02:08,294: Starting ROS Master Node
+[xmlrpc][INFO] 2023-08-29 13:02:08,296: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2023-08-29 13:02:08,296: Started XML-RPC server [http://LAPTOP-CB8EFKQO:11311/]
+[xmlrpc][INFO] 2023-08-29 13:02:08,297: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2023-08-29 13:02:08,297: Master initialized: port[11311], uri[http://LAPTOP-CB8EFKQO:11311/]
+[rosmaster.master][INFO] 2023-08-29 13:02:08,378: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2023-08-29 13:02:08,383: +PARAM [/roslaunch/uris/host_laptop_cb8efkqo__42919] by /roslaunch
+[rosmaster.master][INFO] 2023-08-29 13:02:08,553: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2023-08-29 13:02:08,554: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2023-08-29 13:02:08,577: +SERVICE [/rosout/get_loggers] /rosout http://LAPTOP-CB8EFKQO:45121/
+[rosmaster.master][INFO] 2023-08-29 13:02:08,577: +SERVICE [/rosout/set_logger_level] /rosout http://LAPTOP-CB8EFKQO:45121/
+[rosmaster.master][INFO] 2023-08-29 13:02:08,579: +PUB [/rosout_agg] /rosout http://LAPTOP-CB8EFKQO:45121/
+[rosmaster.master][INFO] 2023-08-29 13:02:08,581: +SUB [/rosout] /rosout http://LAPTOP-CB8EFKQO:45121/
+[rosmaster.master][INFO] 2023-08-29 13:02:34,566: -PUB [/rosout_agg] /rosout http://LAPTOP-CB8EFKQO:45121/
+[rosmaster.master][INFO] 2023-08-29 13:02:34,567: -SUB [/rosout] /rosout http://LAPTOP-CB8EFKQO:45121/
+[rosmaster.master][INFO] 2023-08-29 13:02:34,568: -SERVICE [/rosout/get_loggers] /rosout rosrpc://LAPTOP-CB8EFKQO:59817
+[rosmaster.master][INFO] 2023-08-29 13:02:34,569: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://LAPTOP-CB8EFKQO:59817
+[rosmaster.main][INFO] 2023-08-29 13:02:34,647: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2023-08-29 13:02:34,648: stopping master...
+[rospy.core][INFO] 2023-08-29 13:02:34,650: signal_shutdown [atexit]

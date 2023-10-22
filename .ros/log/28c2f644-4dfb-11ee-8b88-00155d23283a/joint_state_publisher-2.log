@@ -1,0 +1,38 @@
+[rospy.client][INFO] 2023-09-08 12:52:42,994: init_node, name[/joint_state_publisher], pid[6029]
+[xmlrpc][INFO] 2023-09-08 12:52:42,995: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-08 12:52:42,996: Started XML-RPC server [http://LAPTOP-CB8EFKQO:45375/]
+[rospy.init][INFO] 2023-09-08 12:52:42,996: ROS Slave URI: [http://LAPTOP-CB8EFKQO:45375/]
+[rospy.impl.masterslave][INFO] 2023-09-08 12:52:42,997: _ready: http://LAPTOP-CB8EFKQO:45375/
+[rospy.registration][INFO] 2023-09-08 12:52:42,999: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-08 12:52:42,999: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2023-09-08 12:52:43,097: registered with master
+[rospy.rosout][INFO] 2023-09-08 12:52:43,097: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-08 12:52:43,103: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-08 12:52:43,104: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-08 12:52:43,333: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2023-09-08 12:52:43,355: topic[/move_group/fake_controller_joint_states] adding connection to [http://LAPTOP-CB8EFKQO:33709/], count 0
+[rospy.internal][INFO] 2023-09-08 12:52:43,416: topic[/joint_states] adding connection to [/robot_state_publisher], count 0
+[rospy.internal][INFO] 2023-09-08 12:52:43,457: topic[/joint_states] adding connection to [/move_group], count 1
+[rospy.internal][INFO] 2023-09-08 12:56:18,640: topic[/joint_states] adding connection to [/singularity], count 2
+[rospy.internal][INFO] 2023-09-08 12:56:18,766: topic[/move_group/fake_controller_joint_states] adding connection to [http://LAPTOP-CB8EFKQO:46051/], count 1
+[rospy.internal][INFO] 2023-09-08 12:56:36,026: topic[/move_group/fake_controller_joint_states] removing connection to http://LAPTOP-CB8EFKQO:46051/
+[rospy.internal][INFO] 2023-09-08 12:56:36,074: topic[/joint_states] removing connection to /singularity
+[rospy.internal][INFO] 2023-09-08 13:06:40,610: topic[/joint_states] adding connection to [/singularity], count 2
+[rospy.internal][INFO] 2023-09-08 13:06:40,799: topic[/move_group/fake_controller_joint_states] adding connection to [http://LAPTOP-CB8EFKQO:40551/], count 1
+[rospy.internal][INFO] 2023-09-08 13:07:12,132: topic[/move_group/fake_controller_joint_states] removing connection to http://LAPTOP-CB8EFKQO:40551/
+[rospy.internal][INFO] 2023-09-08 13:07:12,203: topic[/joint_states] removing connection to /singularity
+[rospy.internal][INFO] 2023-09-08 13:07:26,373: topic[/joint_states] adding connection to [/singularity], count 2
+[rospy.internal][INFO] 2023-09-08 13:07:26,653: topic[/move_group/fake_controller_joint_states] adding connection to [http://LAPTOP-CB8EFKQO:37351/], count 1
+[rospy.internal][INFO] 2023-09-08 13:07:34,579: topic[/move_group/fake_controller_joint_states] removing connection to http://LAPTOP-CB8EFKQO:37351/
+[rospy.internal][INFO] 2023-09-08 13:07:34,667: topic[/joint_states] removing connection to /singularity
+[rospy.internal][INFO] 2023-09-08 13:08:01,407: topic[/joint_states] adding connection to [/singularity], count 2
+[rospy.internal][INFO] 2023-09-08 13:08:01,646: topic[/move_group/fake_controller_joint_states] adding connection to [http://LAPTOP-CB8EFKQO:45387/], count 1
+[rospy.internal][INFO] 2023-09-08 13:08:07,313: topic[/move_group/fake_controller_joint_states] removing connection to http://LAPTOP-CB8EFKQO:45387/
+[rospy.internal][INFO] 2023-09-08 13:08:07,363: topic[/joint_states] removing connection to /singularity
+[rospy.core][INFO] 2023-09-08 13:09:46,257: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2023-09-08 13:09:46,266: topic[/joint_states] removing connection to /robot_state_publisher
+[rospy.internal][INFO] 2023-09-08 13:09:46,267: topic[/joint_states] removing connection to /move_group
+[rospy.internal][INFO] 2023-09-08 13:09:46,268: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2023-09-08 13:09:46,272: topic[/move_group/fake_controller_joint_states] removing connection to http://LAPTOP-CB8EFKQO:33709/
+[rospy.impl.masterslave][INFO] 2023-09-08 13:09:46,275: signal-2
+[rospy.core][INFO] 2023-09-08 13:09:46,376: signal_shutdown [atexit]

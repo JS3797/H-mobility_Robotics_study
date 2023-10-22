@@ -1,0 +1,8 @@
+prefix=/home/jinsu_park/catkin_ws/devel
+
+Name: lidar_roi_example
+Description: Description of lidar_roi_example
+Version: 0.0.0
+Cflags: -I/home/jinsu_park/catkin_ws/src/velarray_ROI/lidar_roi_example/include
+Libs: -L${prefix}/lib -llidar
+Requires: pcl_conversions pcl_ros roscpp sensor_msgs

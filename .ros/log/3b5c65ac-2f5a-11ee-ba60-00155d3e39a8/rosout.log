@@ -1,0 +1,4 @@
+
+
+1690777509.616758840  Node Startup
+1690777614.212137550 INFO /turtlesim [/tmp/binarydeb/ros-melodic-turtlesim-0.9.3/src/turtle_frame.cpp:196(__cxx11::string turtlesim::TurtleFrame::spawnTurtle)] [topics: /rosout, /turtle1/pose, /turtle1/color_sensor] Spawning turtle [turtle1] at x=[5.544445], y=[5.544445], theta=[0.000000]

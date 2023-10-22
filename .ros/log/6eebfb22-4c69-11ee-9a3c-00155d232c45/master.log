@@ -1,0 +1,1555 @@
+[rosmaster.main][INFO] 2023-09-06 12:57:01,999: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2023-09-06 12:57:01,999: Starting ROS Master Node
+[xmlrpc][INFO] 2023-09-06 12:57:02,000: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2023-09-06 12:57:02,001: Started XML-RPC server [http://LAPTOP-CB8EFKQO:11311/]
+[xmlrpc][INFO] 2023-09-06 12:57:02,001: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2023-09-06 12:57:02,001: Master initialized: port[11311], uri[http://LAPTOP-CB8EFKQO:11311/]
+[rosmaster.master][INFO] 2023-09-06 12:57:02,102: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,104: +PARAM [/roslaunch/uris/host_laptop_cb8efkqo__41329] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,347: +PARAM [/move_group/planner_configs/TRRT/temp_change_factor] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,347: +PARAM [/robot_description_kinematics/rrr/kinematics_solver_timeout] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,348: +PARAM [/move_group/planner_configs/SPARS/dense_delta_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,348: +PARAM [/move_group/planner_configs/STRIDE/min_valid_path_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,349: +PARAM [/robot_description_semantic] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,349: +PARAM [/robot_description_kinematics/rrr/kinematics_solver] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,349: +PARAM [/move_group/trajectory_execution/allowed_start_tolerance] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,349: +PARAM [/move_group/planner_configs/EST/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,349: +PARAM [/move_group/rrr/planner_configs] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,349: +PARAM [/move_group/planner_configs/STRIDE/use_projected_distance] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,349: +PARAM [/robot_description_planning/cartesian_limits/max_trans_acc] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,350: +PARAM [/move_group/controller_list] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,350: +PARAM [/move_group/planner_configs/TRRT/frountier_threshold] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,351: +SERVICE [/rosout/get_loggers] /rosout http://LAPTOP-CB8EFKQO:39863/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,351: +PARAM [/move_group/max_safe_path_cost] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,351: +PARAM [/move_group/planner_configs/STRIDE/max_degree] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,351: +PARAM [/joint_state_publisher/source_list] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,351: +PARAM [/robot_description_planning/joint_limits/joint3/has_acceleration_limits] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,352: +PARAM [/move_group/planner_configs/FMT/heuristics] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,352: +PARAM [/move_group/planning_scene_monitor/publish_planning_scene] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,352: +SERVICE [/rosout/set_logger_level] /rosout http://LAPTOP-CB8EFKQO:39863/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,352: +PARAM [/move_group/planner_configs/BiEST/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,353: +PARAM [/move_group/planner_configs/FMT/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,354: +PARAM [/move_group/planner_configs/LazyPRM/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,354: +PARAM [/move_group/planner_configs/BiTRRT/cost_threshold] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,354: +PARAM [/move_group/planner_configs/EST/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,354: +PARAM [/move_group/planner_configs/SPARStwo/max_failures] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,354: +PUB [/rosout_agg] /rosout http://LAPTOP-CB8EFKQO:39863/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,355: +PARAM [/move_group/planner_configs/KPIECE/failed_expansion_score_factor] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,355: +PARAM [/move_group/planner_configs/RRTstar/goal_bias] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,357: +PARAM [/move_group/planner_configs/BFMT/cache_cc] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,357: +PARAM [/move_group/planner_configs/STRIDE/max_pts_per_leaf] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,357: +PARAM [/move_group/planner_configs/TRRT/min_temperature] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,357: +PARAM [/move_group/planner_configs/BKPIECE/min_valid_path_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,358: +PARAM [/move_group/planner_configs/SPARS/max_failures] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,358: +PARAM [/robot_description_planning/joint_limits/joint2/max_acceleration] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,360: +PARAM [/move_group/planner_configs/BFMT/heuristics] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,361: +PARAM [/move_group/planner_configs/STRIDE/min_degree] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,361: +PARAM [/move_group/planner_configs/BFMT/radius_multiplier] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,362: +SUB [/rosout] /rosout http://LAPTOP-CB8EFKQO:39863/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,362: +PARAM [/move_group/planner_configs/SPARStwo/stretch_factor] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,363: +PARAM [/robot_description_planning/cartesian_limits/max_trans_vel] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,363: +PARAM [/move_group/planner_configs/BiTRRT/frountier_threshold] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,363: +PARAM [/move_group/planner_configs/STRIDE/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,364: +PARAM [/move_group/planner_configs/PRMstar/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,364: +PARAM [/move_group/moveit_controller_manager] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,364: +PARAM [/move_group/planning_plugin] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,364: +PARAM [/move_group/planning_scene_monitor/publish_geometry_updates] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,364: +PARAM [/move_group/planner_configs/BKPIECE/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,364: +PARAM [/move_group/planner_configs/LazyPRMstar/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,364: +PARAM [/move_group/planner_configs/SPARStwo/sparse_delta_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,365: +PARAM [/move_group/planner_configs/BFMT/balanced] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,365: +PARAM [/move_group/planner_configs/TRRT/max_states_failed] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,365: +PARAM [/move_group/planner_configs/PDST/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,365: +PARAM [/move_group/planner_configs/KPIECE/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,365: +PARAM [/move_group/planner_configs/BKPIECE/border_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,365: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,365: +PARAM [/move_group/planner_configs/LazyPRM/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,365: +PARAM [/move_group/planner_configs/LBTRRT/epsilon] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,366: +PARAM [/move_group/planner_configs/SPARStwo/dense_delta_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,366: +PARAM [/robot_description_planning/cartesian_limits/max_rot_vel] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,366: +PARAM [/move_group/disable_capabilities] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,366: +PARAM [/robot_description_planning/joint_limits/joint1/max_velocity] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,366: +PARAM [/move_group/planner_configs/KPIECE/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,366: +PARAM [/move_group/trajectory_execution/allowed_execution_duration_scaling] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,366: +PARAM [/move_group/planner_configs/BFMT/num_samples] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,366: +PARAM [/move_group/planner_configs/BFMT/optimality] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,366: +PARAM [/move_group/planner_configs/BiTRRT/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,366: +PARAM [/move_group/start_state_max_bounds_error] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,366: +PARAM [/robot_description_kinematics/rrr/kinematics_solver_search_resolution] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,366: +PARAM [/robot_description_planning/joint_limits/joint3/max_acceleration] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,366: +PARAM [/move_group/max_range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,366: +PARAM [/move_group/planner_configs/LBTRRT/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,366: +PARAM [/move_group/planner_configs/RRT/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,367: +PARAM [/move_group/planner_configs/RRTConnect/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,367: +PARAM [/move_group/planner_configs/SPARStwo/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,367: +PARAM [/move_group/planner_configs/BKPIECE/failed_expansion_score_factor] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,367: +PARAM [/move_group/planner_configs/LBKPIECE/min_valid_path_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,367: +PARAM [/move_group/planner_configs/SBL/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,368: +PARAM [/robot_description_planning/joint_limits/joint2/has_acceleration_limits] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,368: +PARAM [/move_group/planner_configs/ProjEST/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,368: +PARAM [/move_group/planner_configs/TRRT/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,368: +PARAM [/move_group/planner_configs/RRTstar/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,368: +PARAM [/move_group/moveit_manage_controllers] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,368: +PARAM [/move_group/sensors] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,368: +PARAM [/robot_description_planning/joint_limits/joint1/max_acceleration] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,368: +PARAM [/move_group/planner_configs/TRRT/goal_bias] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,368: +PARAM [/move_group/jiggle_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,368: +PARAM [/move_group/planner_configs/FMT/radius_multiplier] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,368: +PARAM [/move_group/planning_scene_monitor/publish_state_updates] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,369: +PARAM [/robot_description_planning/joint_limits/joint3/max_velocity] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,369: +PARAM [/move_group/planner_configs/TRRT/init_temperature] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,369: +PARAM [/move_group/planner_configs/SPARS/sparse_delta_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,369: +PARAM [/move_group/planner_configs/PRM/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,369: +PARAM [/move_group/planner_configs/RRT/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,370: +PARAM [/move_group/planner_configs/BFMT/extended_fmt] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,370: +PARAM [/robot_description] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,370: +PARAM [/move_group/capabilities] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,370: +PARAM [/robot_description_planning/joint_limits/joint3/has_velocity_limits] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,370: +PARAM [/move_group/planner_configs/KPIECE/goal_bias] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,370: +PARAM [/move_group/planner_configs/TRRT/k_constant] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,371: +PARAM [/move_group/planner_configs/BKPIECE/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,371: +PARAM [/move_group/planner_configs/LBKPIECE/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,371: +PARAM [/robot_description_planning/joint_limits/joint1/has_velocity_limits] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,371: +PARAM [/move_group/planner_configs/BiTRRT/init_temperature] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,371: +PARAM [/move_group/planner_configs/BiTRRT/temp_change_factor] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,371: +PARAM [/move_group/octomap_resolution] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,371: +PARAM [/move_group/planner_configs/FMT/num_samples] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,371: +PARAM [/move_group/planner_configs/LBKPIECE/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,372: +PARAM [/move_group/planner_configs/BFMT/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,372: +PARAM [/move_group/planner_configs/FMT/nearest_k] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,372: +PARAM [/move_group/planner_configs/STRIDE/estimated_dimension] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,372: +PARAM [/move_group/planner_configs/SPARS/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,372: +PARAM [/move_group/trajectory_execution/allowed_goal_duration_margin] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,372: +PARAM [/move_group/planner_configs/LBTRRT/goal_bias] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,372: +PARAM [/move_group/request_adapters] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,372: +PARAM [/move_group/planner_configs/FMT/extended_fmt] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,373: +PARAM [/move_group/planner_configs/ProjEST/goal_bias] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,373: +PARAM [/move_group/planner_configs/RRTConnect/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,373: +PARAM [/move_group/planner_configs/FMT/cache_cc] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,373: +PARAM [/move_group/planner_configs/KPIECE/border_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,373: +PARAM [/move_group/planner_configs/STRIDE/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,373: +PARAM [/move_group/planner_configs/BiEST/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,373: +PARAM [/move_group/planner_configs/ProjEST/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,373: +PARAM [/move_group/initial] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,374: +PARAM [/move_group/planner_configs/BiTRRT/frountier_node_ratio] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,374: +PARAM [/move_group/planner_configs/SPARS/stretch_factor] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,374: +PARAM [/robot_description_planning/joint_limits/joint2/max_velocity] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,374: +PARAM [/move_group/planning_scene_monitor/publish_transforms_updates] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,374: +PARAM [/robot_description_planning/joint_limits/joint2/has_velocity_limits] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,374: +PARAM [/move_group/planner_configs/RRTstar/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,374: +PARAM [/move_group/planner_configs/LBTRRT/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,375: +PARAM [/move_group/planner_configs/LBKPIECE/border_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,375: +PARAM [/move_group/planner_configs/BFMT/nearest_k] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,375: +PARAM [/move_group/planner_configs/BiTRRT/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,375: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,375: +PARAM [/move_group/planner_configs/STRIDE/goal_bias] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,375: +PARAM [/move_group/planner_configs/SBL/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,375: +PARAM [/robot_description_planning/cartesian_limits/max_trans_dec] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,375: +PARAM [/move_group/planner_configs/KPIECE/min_valid_path_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,375: +PARAM [/move_group/planner_configs/RRT/goal_bias] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,376: +PARAM [/move_group/planner_configs/TRRT/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,376: +PARAM [/move_group/planner_configs/TRRT/frountierNodeRatio] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,376: +PARAM [/move_group/planner_configs/RRTstar/delay_collision_checking] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,376: +PARAM [/move_group/planner_configs/PRM/max_nearest_neighbors] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,376: +PARAM [/robot_description_planning/joint_limits/joint1/has_acceleration_limits] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,376: +PARAM [/move_group/planner_configs/STRIDE/degree] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,376: +PARAM [/move_group/planner_configs/EST/goal_bias] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,376: +PARAM [/move_group/allow_trajectory_execution] by /roslaunch
+[rosmaster.master][INFO] 2023-09-06 12:57:02,634: +PUB [/rosout] /robot_state_publisher http://LAPTOP-CB8EFKQO:36047/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,635: +SERVICE [/robot_state_publisher/get_loggers] /robot_state_publisher http://LAPTOP-CB8EFKQO:36047/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,635: +SERVICE [/robot_state_publisher/set_logger_level] /robot_state_publisher http://LAPTOP-CB8EFKQO:36047/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,638: +PUB [/tf] /robot_state_publisher http://LAPTOP-CB8EFKQO:36047/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,638: +PUB [/tf_static] /robot_state_publisher http://LAPTOP-CB8EFKQO:36047/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,643: +SUB [/joint_states] /robot_state_publisher http://LAPTOP-CB8EFKQO:36047/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,701: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ ['http://LAPTOP-CB8EFKQO:36047/']
+[rosmaster.master][INFO] 2023-09-06 12:57:02,716: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ ['http://LAPTOP-CB8EFKQO:36047/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:02,786: +PUB [/rosout] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,786: +SERVICE [/move_group/get_loggers] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,787: +SERVICE [/move_group/set_logger_level] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,790: +SUB [/tf] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,793: +SUB [/tf_static] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,796: +CACHEDPARAM [/rosout_disable_topics_generation] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,802: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ ['http://LAPTOP-CB8EFKQO:36047/', 'http://LAPTOP-CB8EFKQO:39039/']
+[rosmaster.master][INFO] 2023-09-06 12:57:02,816: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ ['http://LAPTOP-CB8EFKQO:36047/', 'http://LAPTOP-CB8EFKQO:39039/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:02,855: +SERVICE [/move_group/planning_scene_monitor/set_parameters] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,855: +PUB [/move_group/planning_scene_monitor/parameter_descriptions] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,856: +PUB [/move_group/planning_scene_monitor/parameter_updates] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,860: +PARAM [/move_group/planning_scene_monitor/publish_planning_scene] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,862: +PARAM [/move_group/planning_scene_monitor/publish_planning_scene_hz] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,863: +PARAM [/move_group/planning_scene_monitor/publish_geometry_updates] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,863: +PARAM [/move_group/planning_scene_monitor/publish_state_updates] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,864: +PARAM [/move_group/planning_scene_monitor/publish_transforms_updates] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,865: +PUB [/move_group/monitored_planning_scene] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,866: +PARAM [/move_group/planning_scene_monitor/publish_planning_scene] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,866: +PARAM [/move_group/planning_scene_monitor/publish_planning_scene_hz] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,867: +PARAM [/move_group/planning_scene_monitor/publish_geometry_updates] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,867: +PARAM [/move_group/planning_scene_monitor/publish_state_updates] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,867: +PARAM [/move_group/planning_scene_monitor/publish_transforms_updates] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,870: +SUB [/planning_scene] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,873: +SUB [/collision_object] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,875: +SUB [/planning_scene_world] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,887: +PUB [/move_group/filtered_cloud] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,887: +SERVICE [/move_group/save_map] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,888: +SERVICE [/move_group/load_map] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,894: +SUB [/head_mount_kinect/depth_registered/points] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,897: +SUB [/joint_states] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,900: +SUB [/attached_collision_object] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,903: +PUB [/rosout] /joint_state_publisher http://LAPTOP-CB8EFKQO:32781/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,906: +SERVICE [/joint_state_publisher/get_loggers] /joint_state_publisher http://LAPTOP-CB8EFKQO:32781/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,907: +SERVICE [/joint_state_publisher/set_logger_level] /joint_state_publisher http://LAPTOP-CB8EFKQO:32781/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,917: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ ['http://LAPTOP-CB8EFKQO:36047/', 'http://LAPTOP-CB8EFKQO:39039/', 'http://LAPTOP-CB8EFKQO:32781/']
+[rosmaster.master][INFO] 2023-09-06 12:57:02,918: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ ['http://LAPTOP-CB8EFKQO:36047/', 'http://LAPTOP-CB8EFKQO:39039/', 'http://LAPTOP-CB8EFKQO:32781/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:02,929: +SUB [/move_group/fake_controller_joint_states] /joint_state_publisher http://LAPTOP-CB8EFKQO:32781/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,931: +PUB [/joint_states] /joint_state_publisher http://LAPTOP-CB8EFKQO:32781/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,945: +PUB [/rosout] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,946: +SERVICE [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/get_loggers] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,948: +SERVICE [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/set_logger_level] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,951: +CACHEDPARAM [/rosout_disable_topics_generation] by /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041
+[rosmaster.master][INFO] 2023-09-06 12:57:02,958: +SERVICE [/move_group/ompl/set_parameters] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,959: +PUB [/move_group/ompl/parameter_descriptions] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,960: +PUB [/move_group/ompl/parameter_updates] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,964: +PARAM [/move_group/ompl/simplify_solutions] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,965: +PARAM [/move_group/ompl/minimum_waypoint_count] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,966: +PARAM [/move_group/ompl/maximum_waypoint_distance] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,966: +PARAM [/move_group/ompl/link_for_exploration_tree] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,967: +PARAM [/move_group/ompl/display_random_valid_states] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,968: +PARAM [/move_group/ompl/simplify_solutions] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,969: +PARAM [/move_group/ompl/minimum_waypoint_count] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,970: +PARAM [/move_group/ompl/maximum_waypoint_distance] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,970: +PARAM [/move_group/ompl/link_for_exploration_tree] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,971: +PARAM [/move_group/ompl/display_random_valid_states] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:02,981: +PUB [/move_group/display_planned_path] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,982: +PUB [/move_group/display_contacts] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:02,989: +PUB [/move_group/fake_controller_joint_states] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,003: publisherUpdate[/joint_states] -> http://LAPTOP-CB8EFKQO:36047/ ['http://LAPTOP-CB8EFKQO:32781/']
+[rosmaster.master][INFO] 2023-09-06 12:57:03,015: publisherUpdate[/joint_states] -> http://LAPTOP-CB8EFKQO:36047/ ['http://LAPTOP-CB8EFKQO:32781/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:03,016: publisherUpdate[/joint_states] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:32781/']
+[rosmaster.master][INFO] 2023-09-06 12:57:03,018: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ ['http://LAPTOP-CB8EFKQO:36047/', 'http://LAPTOP-CB8EFKQO:39039/', 'http://LAPTOP-CB8EFKQO:32781/', 'http://LAPTOP-CB8EFKQO:41897/']
+[rosmaster.master][INFO] 2023-09-06 12:57:03,019: publisherUpdate[/move_group/fake_controller_joint_states] -> http://LAPTOP-CB8EFKQO:32781/ ['http://LAPTOP-CB8EFKQO:39039/']
+[rosmaster.master][INFO] 2023-09-06 12:57:03,022: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ ['http://LAPTOP-CB8EFKQO:36047/', 'http://LAPTOP-CB8EFKQO:39039/', 'http://LAPTOP-CB8EFKQO:32781/', 'http://LAPTOP-CB8EFKQO:41897/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:03,022: +CACHEDPARAM [/rosout/omit_topics] by /rosout
+[rosmaster.master][INFO] 2023-09-06 12:57:03,026: publisherUpdate[/move_group/fake_controller_joint_states] -> http://LAPTOP-CB8EFKQO:32781/ ['http://LAPTOP-CB8EFKQO:39039/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:03,034: publisherUpdate[/joint_states] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:32781/']: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:03,036: +SUB [/trajectory_execution_event] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,037: +SERVICE [/move_group/trajectory_execution/set_parameters] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,037: +PUB [/move_group/trajectory_execution/parameter_descriptions] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,038: +PUB [/move_group/trajectory_execution/parameter_updates] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,041: +PARAM [/move_group/trajectory_execution/execution_duration_monitoring] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,042: +PARAM [/move_group/trajectory_execution/allowed_execution_duration_scaling] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,042: +PARAM [/move_group/trajectory_execution/allowed_goal_duration_margin] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,043: +PARAM [/move_group/trajectory_execution/execution_velocity_scaling] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,044: +PARAM [/move_group/trajectory_execution/allowed_start_tolerance] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,045: +PARAM [/move_group/trajectory_execution/wait_for_trajectory_completion] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,046: +PARAM [/move_group/trajectory_execution/execution_duration_monitoring] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,047: +PARAM [/move_group/trajectory_execution/allowed_execution_duration_scaling] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,047: +PARAM [/move_group/trajectory_execution/allowed_goal_duration_margin] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,048: +PARAM [/move_group/trajectory_execution/execution_velocity_scaling] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,049: +PARAM [/move_group/trajectory_execution/allowed_start_tolerance] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,049: +PARAM [/move_group/trajectory_execution/wait_for_trajectory_completion] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,050: +SERVICE [/move_group/plan_execution/set_parameters] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,051: +PUB [/move_group/plan_execution/parameter_descriptions] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,051: +PUB [/move_group/plan_execution/parameter_updates] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,053: +PARAM [/move_group/plan_execution/max_replan_attempts] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,053: +PARAM [/move_group/plan_execution/record_trajectory_state_frequency] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,054: +PARAM [/move_group/plan_execution/max_replan_attempts] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,054: +PARAM [/move_group/plan_execution/record_trajectory_state_frequency] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,055: +SERVICE [/move_group/sense_for_plan/set_parameters] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,056: +PUB [/move_group/sense_for_plan/parameter_descriptions] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,057: +PUB [/move_group/sense_for_plan/parameter_updates] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,059: +PARAM [/move_group/sense_for_plan/max_safe_path_cost] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,060: +PARAM [/move_group/sense_for_plan/max_look_attempts] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,060: +PARAM [/move_group/sense_for_plan/max_cost_sources] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,061: +PARAM [/move_group/sense_for_plan/discard_overlapping_cost_sources] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,062: +PARAM [/move_group/sense_for_plan/max_safe_path_cost] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,063: +PARAM [/move_group/sense_for_plan/max_look_attempts] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,063: +PARAM [/move_group/sense_for_plan/max_cost_sources] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,064: +PARAM [/move_group/sense_for_plan/discard_overlapping_cost_sources] by /move_group
+[rosmaster.master][INFO] 2023-09-06 12:57:03,065: +PUB [/move_group/display_cost_sources] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,066: +PUB [/move_group/motion_plan_request] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,073: +SERVICE [/apply_planning_scene] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,074: +SERVICE [/clear_octomap] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,074: +SERVICE [/compute_cartesian_path] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,077: +PUB [/execute_trajectory/result] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,078: +PUB [/execute_trajectory/feedback] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,079: +PUB [/execute_trajectory/status] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,085: +SUB [/execute_trajectory/goal] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,088: +SUB [/execute_trajectory/cancel] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,089: +SERVICE [/get_planning_scene] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,090: +SERVICE [/compute_fk] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,091: +SERVICE [/compute_ik] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,107: +PUB [/move_group/result] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,109: +PUB [/move_group/feedback] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,110: +PUB [/move_group/status] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,124: +SUB [/move_group/goal] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,129: +SUB [/move_group/cancel] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,148: +PUB [/move_group/display_grasp_markers] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,154: +PUB [/pickup/result] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,155: +PUB [/pickup/feedback] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,156: +PUB [/pickup/status] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,164: +SUB [/pickup/goal] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,168: +SUB [/pickup/cancel] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,170: +PUB [/place/result] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,171: +PUB [/place/feedback] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,172: +PUB [/place/status] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,182: +SUB [/place/goal] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,184: +SUB [/tf] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,191: +SUB [/tf_static] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,192: +SUB [/place/cancel] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,194: +SERVICE [/plan_kinematic_path] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,195: +SERVICE [/query_planner_interface] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,196: +SERVICE [/get_planner_params] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,197: +SERVICE [/set_planner_params] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,199: +SERVICE [/check_state_validity] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,242: +PUB [/initialpose] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,244: +PUB [/goal] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,307: +PUB [/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,308: -PUB [/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,312: +SUB [/round_trip_targets/update] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,315: +SUB [/round_trip_targets/update_full] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,316: +PUB [/round_trip_targets/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,332: +PUB [/planning_scene] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,333: +PUB [/planning_scene_world] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,335: publisherUpdate[/planning_scene] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']
+[rosmaster.master][INFO] 2023-09-06 12:57:03,336: publisherUpdate[/planning_scene] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:03,336: publisherUpdate[/planning_scene_world] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']
+[rosmaster.master][INFO] 2023-09-06 12:57:03,338: publisherUpdate[/planning_scene_world] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:03,339: +SUB [/recognize_objects/status] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,342: +SUB [/recognize_objects/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,344: +SUB [/recognize_objects/result] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,345: +PUB [/recognize_objects/goal] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,346: +PUB [/recognize_objects/cancel] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:03,349: +SUB [/recognized_object_array] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,361: -SUB [/recognize_objects/status] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,364: -PUB [/recognize_objects/cancel] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,366: -PUB [/recognize_objects/goal] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,369: -SUB [/recognize_objects/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,373: -SUB [/recognize_objects/result] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,503: +PUB [/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,505: -PUB [/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,509: +PUB [/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,526: +SUB [/singularity/local_target] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,548: +SUB [/visualization_marker_array] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,552: -SUB [/visualization_marker_array] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,567: +SUB [/rviz_visual_tools] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,581: +SUB [/singularity/current_eef] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,584: -PUB [/goal] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,586: -PUB [/initialpose] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,650: -SUB [/round_trip_targets/update_full] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,731: +SERVICE [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/motionplanning_planning_scene_monitor/set_parameters] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,732: +PUB [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/motionplanning_planning_scene_monitor/parameter_descriptions] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,733: +PUB [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/motionplanning_planning_scene_monitor/parameter_updates] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,736: +PARAM [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/motionplanning_planning_scene_monitor/publish_planning_scene] by /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041
+[rosmaster.master][INFO] 2023-09-06 12:57:06,737: +PARAM [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/motionplanning_planning_scene_monitor/publish_planning_scene_hz] by /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041
+[rosmaster.master][INFO] 2023-09-06 12:57:06,737: +PARAM [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/motionplanning_planning_scene_monitor/publish_geometry_updates] by /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041
+[rosmaster.master][INFO] 2023-09-06 12:57:06,738: +PARAM [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/motionplanning_planning_scene_monitor/publish_state_updates] by /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041
+[rosmaster.master][INFO] 2023-09-06 12:57:06,738: +PARAM [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/motionplanning_planning_scene_monitor/publish_transforms_updates] by /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041
+[rosmaster.master][INFO] 2023-09-06 12:57:06,739: +PARAM [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/motionplanning_planning_scene_monitor/publish_planning_scene] by /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041
+[rosmaster.master][INFO] 2023-09-06 12:57:06,741: +PARAM [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/motionplanning_planning_scene_monitor/publish_planning_scene_hz] by /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041
+[rosmaster.master][INFO] 2023-09-06 12:57:06,742: +PARAM [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/motionplanning_planning_scene_monitor/publish_geometry_updates] by /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041
+[rosmaster.master][INFO] 2023-09-06 12:57:06,743: +PARAM [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/motionplanning_planning_scene_monitor/publish_state_updates] by /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041
+[rosmaster.master][INFO] 2023-09-06 12:57:06,743: +PARAM [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/motionplanning_planning_scene_monitor/publish_transforms_updates] by /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041
+[rosmaster.master][INFO] 2023-09-06 12:57:06,864: +SERVICE [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/reload_shaders] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,865: +SERVICE [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/load_config] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,866: +SERVICE [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/save_config] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,911: +SUB [/move_group/monitored_planning_scene] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,929: +SUB [/move_group/display_planned_path] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,932: +PUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/update_full] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,934: +PUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/update] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,943: +SUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,945: -PUB [/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,958: +SUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/update] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,963: +SUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/update_full] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,963: +PUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,974: +PUB [/trajectory_execution_event] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,976: +PUB [/attached_collision_object] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,983: +SUB [/move_group/status] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,992: +SUB [/move_group/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:06,999: +SUB [/move_group/result] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:07,001: +PUB [/move_group/goal] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:07,002: +PUB [/move_group/cancel] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:07,042: publisherUpdate[/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/feedback] -> http://LAPTOP-CB8EFKQO:41897/ ['http://LAPTOP-CB8EFKQO:41897/']
+[rosmaster.master][INFO] 2023-09-06 12:57:07,046: publisherUpdate[/trajectory_execution_event] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']
+[rosmaster.master][INFO] 2023-09-06 12:57:07,059: publisherUpdate[/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/feedback] -> http://LAPTOP-CB8EFKQO:41897/ ['http://LAPTOP-CB8EFKQO:41897/']: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:07,064: publisherUpdate[/trajectory_execution_event] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:07,064: publisherUpdate[/attached_collision_object] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']
+[rosmaster.master][INFO] 2023-09-06 12:57:07,065: publisherUpdate[/attached_collision_object] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:07,066: publisherUpdate[/move_group/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']
+[rosmaster.master][INFO] 2023-09-06 12:57:07,067: publisherUpdate[/move_group/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:07,067: publisherUpdate[/move_group/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']
+[rosmaster.master][INFO] 2023-09-06 12:57:07,068: publisherUpdate[/move_group/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:07,276: +SUB [/pickup/status] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:07,281: +SUB [/pickup/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:07,284: +SUB [/pickup/result] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:07,285: +PUB [/pickup/goal] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:07,285: +PUB [/pickup/cancel] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:07,356: publisherUpdate[/pickup/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']
+[rosmaster.master][INFO] 2023-09-06 12:57:07,357: publisherUpdate[/pickup/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:07,357: publisherUpdate[/pickup/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']
+[rosmaster.master][INFO] 2023-09-06 12:57:07,359: publisherUpdate[/pickup/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:07,467: -SUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/update_full] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:07,492: +SUB [/place/status] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:07,499: +SUB [/place/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:07,503: +SUB [/place/result] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:07,504: +PUB [/place/goal] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:07,506: +PUB [/place/cancel] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:07,560: publisherUpdate[/place/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']
+[rosmaster.master][INFO] 2023-09-06 12:57:07,561: publisherUpdate[/place/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:07,562: publisherUpdate[/place/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']
+[rosmaster.master][INFO] 2023-09-06 12:57:07,564: publisherUpdate[/place/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:07,712: +SUB [/execute_trajectory/status] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:07,718: +SUB [/execute_trajectory/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:07,723: +SUB [/execute_trajectory/result] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:07,725: +PUB [/execute_trajectory/goal] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:07,726: +PUB [/execute_trajectory/cancel] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 12:57:07,764: publisherUpdate[/execute_trajectory/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']
+[rosmaster.master][INFO] 2023-09-06 12:57:07,780: publisherUpdate[/execute_trajectory/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:07,780: publisherUpdate[/execute_trajectory/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']
+[rosmaster.master][INFO] 2023-09-06 12:57:07,781: publisherUpdate[/execute_trajectory/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:34,582: +PARAM [/ik_node/robot] by /ik_node
+[rosmaster.master][INFO] 2023-09-06 12:57:34,584: +PUB [/rosout] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:34,585: +SERVICE [/ik_node/get_loggers] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:34,586: +SERVICE [/ik_node/set_logger_level] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:34,589: +CACHEDPARAM [/rosout_disable_topics_generation] by /ik_node
+[rosmaster.master][INFO] 2023-09-06 12:57:34,592: +SUB [/rviz_visual_tools_gui] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:34,595: +SUB [/tf] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:34,602: +SUB [/tf_static] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:34,648: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ ['http://LAPTOP-CB8EFKQO:36047/', 'http://LAPTOP-CB8EFKQO:39039/', 'http://LAPTOP-CB8EFKQO:32781/', 'http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 12:57:34,663: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ ['http://LAPTOP-CB8EFKQO:36047/', 'http://LAPTOP-CB8EFKQO:39039/', 'http://LAPTOP-CB8EFKQO:32781/', 'http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:34,685: +PUB [/trajectory_execution_event] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:34,687: +PUB [/attached_collision_object] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:34,691: +SUB [/move_group/status] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:34,694: +SUB [/move_group/feedback] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:34,697: +SUB [/move_group/result] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:34,698: +PUB [/move_group/goal] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:34,699: +PUB [/move_group/cancel] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:34,755: publisherUpdate[/trajectory_execution_event] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 12:57:34,756: publisherUpdate[/trajectory_execution_event] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:34,756: publisherUpdate[/attached_collision_object] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 12:57:34,757: publisherUpdate[/attached_collision_object] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:34,757: publisherUpdate[/move_group/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 12:57:34,758: publisherUpdate[/move_group/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:34,758: publisherUpdate[/move_group/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 12:57:34,759: publisherUpdate[/move_group/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:35,022: +SUB [/pickup/status] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:35,037: +SUB [/pickup/feedback] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:35,052: +SUB [/pickup/result] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:35,055: +PUB [/pickup/goal] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:35,058: +PUB [/pickup/cancel] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:35,060: publisherUpdate[/pickup/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 12:57:35,085: publisherUpdate[/pickup/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:35,085: publisherUpdate[/pickup/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 12:57:35,102: publisherUpdate[/pickup/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:35,337: +SUB [/place/status] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:35,352: +SUB [/place/feedback] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:35,361: +SUB [/place/result] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:35,362: +PUB [/place/goal] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:35,363: +PUB [/place/cancel] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:35,365: publisherUpdate[/place/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 12:57:35,380: publisherUpdate[/place/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:35,381: publisherUpdate[/place/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 12:57:35,395: publisherUpdate[/place/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:35,665: +SUB [/execute_trajectory/status] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:35,690: +SUB [/execute_trajectory/feedback] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:35,707: +SUB [/execute_trajectory/result] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:35,709: +PUB [/execute_trajectory/goal] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:35,711: +PUB [/execute_trajectory/cancel] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:35,767: publisherUpdate[/execute_trajectory/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 12:57:35,794: publisherUpdate[/execute_trajectory/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']: sec=0.03, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:35,795: publisherUpdate[/execute_trajectory/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 12:57:35,797: publisherUpdate[/execute_trajectory/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:36,002: +PUB [/planning_scene] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:36,003: publisherUpdate[/planning_scene] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 12:57:36,007: publisherUpdate[/planning_scene] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 12:57:36,021: +SUB [/joint_states] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:36,417: +PUB [/rviz_visual_tools] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 12:57:36,500: publisherUpdate[/rviz_visual_tools] -> http://LAPTOP-CB8EFKQO:41897/ ['http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 12:57:36,505: publisherUpdate[/rviz_visual_tools] -> http://LAPTOP-CB8EFKQO:41897/ ['http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 13:13:11,215: -SUB [/move_group/fake_controller_joint_states] /joint_state_publisher http://LAPTOP-CB8EFKQO:32781/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,215: -PUB [/joint_states] /joint_state_publisher http://LAPTOP-CB8EFKQO:32781/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,215: -PUB [/rosout] /joint_state_publisher http://LAPTOP-CB8EFKQO:32781/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,216: -SERVICE [/joint_state_publisher/get_loggers] /joint_state_publisher rosrpc://LAPTOP-CB8EFKQO:38553
+[rosmaster.master][INFO] 2023-09-06 13:13:11,216: -SERVICE [/joint_state_publisher/set_logger_level] /joint_state_publisher rosrpc://LAPTOP-CB8EFKQO:38553
+[rosmaster.master][INFO] 2023-09-06 13:13:11,289: publisherUpdate[/joint_states] -> http://LAPTOP-CB8EFKQO:36047/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,290: publisherUpdate[/joint_states] -> http://LAPTOP-CB8EFKQO:36047/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2023-09-06 13:13:11,291: publisherUpdate[/joint_states] -> http://LAPTOP-CB8EFKQO:39039/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,292: publisherUpdate[/joint_states] -> http://LAPTOP-CB8EFKQO:39039/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2023-09-06 13:13:11,292: publisherUpdate[/joint_states] -> http://LAPTOP-CB8EFKQO:43669/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,303: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ ['http://LAPTOP-CB8EFKQO:36047/', 'http://LAPTOP-CB8EFKQO:39039/', 'http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 13:13:11,306: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ ['http://LAPTOP-CB8EFKQO:36047/', 'http://LAPTOP-CB8EFKQO:39039/', 'http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 13:13:11,313: publisherUpdate[/joint_states] -> http://LAPTOP-CB8EFKQO:43669/ []: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 13:13:11,392: -PUB [/rosout] /robot_state_publisher http://LAPTOP-CB8EFKQO:36047/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,393: -PUB [/rosout] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,394: -PUB [/tf] /robot_state_publisher http://LAPTOP-CB8EFKQO:36047/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,396: -PUB [/move_group/planning_scene_monitor/parameter_descriptions] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,397: -PUB [/tf_static] /robot_state_publisher http://LAPTOP-CB8EFKQO:36047/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,399: -PUB [/move_group/planning_scene_monitor/parameter_updates] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,400: -PUB [/move_group/monitored_planning_scene] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,400: -SUB [/joint_states] /robot_state_publisher http://LAPTOP-CB8EFKQO:36047/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,404: -PUB [/move_group/filtered_cloud] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,405: -SERVICE [/robot_state_publisher/get_loggers] /robot_state_publisher rosrpc://LAPTOP-CB8EFKQO:44235
+[rosmaster.master][INFO] 2023-09-06 13:13:11,406: -PUB [/move_group/ompl/parameter_descriptions] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,407: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ ['http://LAPTOP-CB8EFKQO:39039/', 'http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 13:13:11,409: publisherUpdate[/tf] -> http://LAPTOP-CB8EFKQO:39039/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,410: -PUB [/rosout] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,412: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ ['http://LAPTOP-CB8EFKQO:39039/', 'http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 13:13:11,414: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 13:13:11,413: publisherUpdate[/tf] -> http://LAPTOP-CB8EFKQO:39039/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,415: -SERVICE [/robot_state_publisher/set_logger_level] /robot_state_publisher rosrpc://LAPTOP-CB8EFKQO:44235
+[rosmaster.master][INFO] 2023-09-06 13:13:11,416: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ ['http://LAPTOP-CB8EFKQO:41897/', 'http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, result=[1, '', 0]
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,418: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,420: -PUB [/move_group/ompl/parameter_updates] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,420: publisherUpdate[/tf] -> http://LAPTOP-CB8EFKQO:41897/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,420: publisherUpdate[/tf] -> http://LAPTOP-CB8EFKQO:43669/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,421: publisherUpdate[/tf_static] -> http://LAPTOP-CB8EFKQO:39039/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,422: -PUB [/round_trip_targets/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,426: publisherUpdate[/tf_static] -> http://LAPTOP-CB8EFKQO:39039/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,428: -PUB [/move_group/display_planned_path] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,429: -PUB [/planning_scene] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,430: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,432: -PUB [/move_group/display_contacts] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,433: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ ['http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 13:13:11,433: -PUB [/planning_scene_world] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,435: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ ['http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 13:13:11,436: -PUB [/move_group/fake_controller_joint_states] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,437: publisherUpdate[/planning_scene] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 13:13:11,438: -PUB [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/motionplanning_planning_scene_monitor/parameter_descriptions] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,444: publisherUpdate[/planning_scene] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,445: -PUB [/move_group/trajectory_execution/parameter_descriptions] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,446: -PUB [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/motionplanning_planning_scene_monitor/parameter_updates] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,447: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,449: -PUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/update_full] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,448: publisherUpdate[/tf] -> http://LAPTOP-CB8EFKQO:43669/ []: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 13:13:11,450: publisherUpdate[/tf] -> http://LAPTOP-CB8EFKQO:41897/ []: sec=0.03, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,451: publisherUpdate[/planning_scene_world] -> http://LAPTOP-CB8EFKQO:39039/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,452: -PUB [/move_group/trajectory_execution/parameter_updates] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,457: publisherUpdate[/tf_static] -> http://LAPTOP-CB8EFKQO:43669/ []
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,458: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,460: publisherUpdate[/planning_scene_world] -> http://LAPTOP-CB8EFKQO:39039/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,461: -PUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/update] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,463: publisherUpdate[/tf_static] -> http://LAPTOP-CB8EFKQO:43669/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 13:13:11,463: publisherUpdate[/tf_static] -> http://LAPTOP-CB8EFKQO:41897/ []
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,464: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,464: -PUB [/move_group/plan_execution/parameter_descriptions] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,467: publisherUpdate[/tf_static] -> http://LAPTOP-CB8EFKQO:41897/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,468: -PUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,471: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,472: publisherUpdate[/move_group/monitored_planning_scene] -> http://LAPTOP-CB8EFKQO:41897/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,473: -PUB [/move_group/plan_execution/parameter_updates] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,475: publisherUpdate[/move_group/monitored_planning_scene] -> http://LAPTOP-CB8EFKQO:41897/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,476: -PUB [/trajectory_execution_event] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,478: -PUB [/move_group/sense_for_plan/parameter_descriptions] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,479: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,480: -PUB [/attached_collision_object] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,481: publisherUpdate[/move_group/display_planned_path] -> http://LAPTOP-CB8EFKQO:41897/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,482: -PUB [/move_group/sense_for_plan/parameter_updates] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,484: publisherUpdate[/move_group/display_planned_path] -> http://LAPTOP-CB8EFKQO:41897/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,487: -PUB [/move_group/goal] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,488: -PUB [/move_group/display_cost_sources] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,489: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,496: publisherUpdate[/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/update] -> http://LAPTOP-CB8EFKQO:41897/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,495: -PUB [/move_group/cancel] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,498: publisherUpdate[/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/update] -> http://LAPTOP-CB8EFKQO:41897/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,498: -PUB [/move_group/motion_plan_request] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,500: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,501: publisherUpdate[/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/feedback] -> http://LAPTOP-CB8EFKQO:41897/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,503: publisherUpdate[/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/feedback] -> http://LAPTOP-CB8EFKQO:41897/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,504: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,510: -PUB [/pickup/goal] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,510: publisherUpdate[/trajectory_execution_event] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 13:13:11,512: -PUB [/execute_trajectory/result] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,513: publisherUpdate[/trajectory_execution_event] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,514: -PUB [/pickup/cancel] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,516: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,516: -PUB [/execute_trajectory/feedback] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,517: publisherUpdate[/attached_collision_object] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 13:13:11,517: -PUB [/place/goal] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,520: publisherUpdate[/attached_collision_object] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,522: -PUB [/place/cancel] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,524: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,524: -PUB [/execute_trajectory/status] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,526: publisherUpdate[/move_group/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 13:13:11,530: -PUB [/execute_trajectory/goal] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,532: publisherUpdate[/move_group/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,533: -PUB [/move_group/result] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,535: -PUB [/execute_trajectory/cancel] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,536: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,538: -PUB [/move_group/feedback] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,540: publisherUpdate[/move_group/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 13:13:11,541: -SUB [/tf] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,544: publisherUpdate[/move_group/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,545: -PUB [/move_group/status] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,546: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,547: -SUB [/tf_static] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,547: publisherUpdate[/pickup/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 13:13:11,548: -PUB [/move_group/display_grasp_markers] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,551: publisherUpdate[/pickup/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,552: -SUB [/round_trip_targets/update] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,553: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,554: -PUB [/pickup/result] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,555: publisherUpdate[/execute_trajectory/result] -> http://LAPTOP-CB8EFKQO:41897/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,560: -SUB [/recognized_object_array] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,563: publisherUpdate[/execute_trajectory/result] -> http://LAPTOP-CB8EFKQO:41897/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,564: -PUB [/pickup/feedback] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,564: -SUB [/singularity/local_target] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,565: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,567: -PUB [/pickup/status] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,567: publisherUpdate[/pickup/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 13:13:11,568: publisherUpdate[/execute_trajectory/feedback] -> http://LAPTOP-CB8EFKQO:41897/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,566: publisherUpdate[/execute_trajectory/result] -> http://LAPTOP-CB8EFKQO:43669/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,571: -SUB [/rviz_visual_tools] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,574: publisherUpdate[/pickup/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,577: publisherUpdate[/execute_trajectory/feedback] -> http://LAPTOP-CB8EFKQO:41897/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,579: publisherUpdate[/execute_trajectory/result] -> http://LAPTOP-CB8EFKQO:43669/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 13:13:11,579: -PUB [/place/result] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,582: publisherUpdate[/execute_trajectory/feedback] -> http://LAPTOP-CB8EFKQO:43669/ []
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,583: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,584: publisherUpdate[/place/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 13:13:11,585: publisherUpdate[/execute_trajectory/feedback] -> http://LAPTOP-CB8EFKQO:43669/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 13:13:11,586: -SUB [/singularity/current_eef] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,587: publisherUpdate[/place/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,589: publisherUpdate[/execute_trajectory/status] -> http://LAPTOP-CB8EFKQO:41897/ []
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,595: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,596: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,608: publisherUpdate[/execute_trajectory/status] -> http://LAPTOP-CB8EFKQO:43669/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,607: publisherUpdate[/place/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 13:13:11,596: -PUB [/place/feedback] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,609: publisherUpdate[/place/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,611: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,611: publisherUpdate[/execute_trajectory/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 13:13:11,612: publisherUpdate[/execute_trajectory/goal] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,613: -SUB [/move_group/monitored_planning_scene] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,615: -PUB [/place/status] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,616: -SUB [/tf] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,618: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,618: -SUB [/move_group/display_planned_path] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,619: publisherUpdate[/execute_trajectory/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']
+[rosmaster.master][INFO] 2023-09-06 13:13:11,622: -SUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,624: -SUB [/tf_static] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,625: publisherUpdate[/execute_trajectory/status] -> http://LAPTOP-CB8EFKQO:41897/ []: sec=0.03, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,627: -SUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/update] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,628: publisherUpdate[/execute_trajectory/status] -> http://LAPTOP-CB8EFKQO:43669/ []: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 13:13:11,629: publisherUpdate[/move_group/result] -> http://LAPTOP-CB8EFKQO:41897/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,629: publisherUpdate[/execute_trajectory/cancel] -> http://LAPTOP-CB8EFKQO:39039/ ['http://LAPTOP-CB8EFKQO:43669/']: sec=0.01, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,628: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,631: publisherUpdate[/move_group/result] -> http://LAPTOP-CB8EFKQO:41897/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,632: -SUB [/planning_scene] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,633: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,634: publisherUpdate[/move_group/result] -> http://LAPTOP-CB8EFKQO:43669/ []
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,635: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,636: -SUB [/move_group/status] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,638: publisherUpdate[/move_group/feedback] -> http://LAPTOP-CB8EFKQO:41897/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,643: publisherUpdate[/move_group/result] -> http://LAPTOP-CB8EFKQO:43669/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 13:13:11,647: publisherUpdate[/move_group/feedback] -> http://LAPTOP-CB8EFKQO:41897/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,648: publisherUpdate[/move_group/feedback] -> http://LAPTOP-CB8EFKQO:43669/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,648: -SUB [/collision_object] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,649: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,652: publisherUpdate[/move_group/status] -> http://LAPTOP-CB8EFKQO:41897/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,653: publisherUpdate[/move_group/status] -> http://LAPTOP-CB8EFKQO:41897/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,653: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,654: publisherUpdate[/pickup/result] -> http://LAPTOP-CB8EFKQO:41897/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,655: publisherUpdate[/pickup/result] -> http://LAPTOP-CB8EFKQO:41897/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,655: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,655: publisherUpdate[/pickup/feedback] -> http://LAPTOP-CB8EFKQO:41897/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,657: publisherUpdate[/pickup/feedback] -> http://LAPTOP-CB8EFKQO:41897/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,650: publisherUpdate[/move_group/feedback] -> http://LAPTOP-CB8EFKQO:43669/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,657: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,657: publisherUpdate[/move_group/status] -> http://LAPTOP-CB8EFKQO:43669/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,658: publisherUpdate[/pickup/status] -> http://LAPTOP-CB8EFKQO:41897/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,659: publisherUpdate[/move_group/status] -> http://LAPTOP-CB8EFKQO:43669/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2023-09-06 13:13:11,660: publisherUpdate[/pickup/result] -> http://LAPTOP-CB8EFKQO:43669/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,660: publisherUpdate[/pickup/status] -> http://LAPTOP-CB8EFKQO:41897/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,661: publisherUpdate[/pickup/result] -> http://LAPTOP-CB8EFKQO:43669/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2023-09-06 13:13:11,661: publisherUpdate[/pickup/feedback] -> http://LAPTOP-CB8EFKQO:43669/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,651: -SUB [/move_group/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,662: publisherUpdate[/pickup/feedback] -> http://LAPTOP-CB8EFKQO:43669/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2023-09-06 13:13:11,663: -SUB [/move_group/result] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,663: publisherUpdate[/pickup/status] -> http://LAPTOP-CB8EFKQO:43669/ []
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,665: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,665: -SUB [/planning_scene_world] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,666: publisherUpdate[/pickup/status] -> http://LAPTOP-CB8EFKQO:43669/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2023-09-06 13:13:11,667: -PUB [/rosout] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,668: publisherUpdate[/place/result] -> http://LAPTOP-CB8EFKQO:43669/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,669: -SUB [/head_mount_kinect/depth_registered/points] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,671: -PUB [/trajectory_execution_event] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,672: -SUB [/joint_states] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,667: publisherUpdate[/place/result] -> http://LAPTOP-CB8EFKQO:41897/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,676: publisherUpdate[/place/result] -> http://LAPTOP-CB8EFKQO:41897/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,676: -PUB [/attached_collision_object] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,678: publisherUpdate[/place/result] -> http://LAPTOP-CB8EFKQO:43669/ []: sec=0.01, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,680: -SUB [/attached_collision_object] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,681: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,682: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,683: -SUB [/pickup/status] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,683: publisherUpdate[/place/feedback] -> http://LAPTOP-CB8EFKQO:41897/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,684: publisherUpdate[/place/feedback] -> http://LAPTOP-CB8EFKQO:43669/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,685: -PUB [/move_group/goal] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,689: publisherUpdate[/place/feedback] -> http://LAPTOP-CB8EFKQO:41897/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,697: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,697: publisherUpdate[/place/status] -> http://LAPTOP-CB8EFKQO:41897/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,690: -SUB [/trajectory_execution_event] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,698: -SUB [/pickup/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,699: -PUB [/move_group/cancel] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,700: -SUB [/execute_trajectory/goal] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,701: -SUB [/execute_trajectory/cancel] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,702: -SUB [/move_group/goal] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,703: -SUB [/move_group/cancel] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,704: -SUB [/pickup/goal] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,706: -SUB [/pickup/result] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,710: -PUB [/pickup/goal] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,711: -PUB [/pickup/cancel] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,712: -PUB [/place/goal] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,714: publisherUpdate[/place/status] -> http://LAPTOP-CB8EFKQO:41897/ []: sec=0.02, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,715: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,716: publisherUpdate[/place/feedback] -> http://LAPTOP-CB8EFKQO:43669/ []: sec=0.03, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,717: -PUB [/place/cancel] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,717: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,721: -PUB [/execute_trajectory/goal] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,723: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,725: publisherUpdate[/place/status] -> http://LAPTOP-CB8EFKQO:43669/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,727: -SUB [/place/status] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,728: -PUB [/execute_trajectory/cancel] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,729: -SUB [/place/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,730: -SUB [/pickup/cancel] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,733: publisherUpdate[/place/status] -> http://LAPTOP-CB8EFKQO:43669/ []: sec=0.01, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,734: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,734: -PUB [/planning_scene] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,734: publisherUpdate[/trajectory_execution_event] -> http://LAPTOP-CB8EFKQO:39039/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,741: -SUB [/place/result] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,742: publisherUpdate[/trajectory_execution_event] -> http://LAPTOP-CB8EFKQO:39039/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,744: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,744: publisherUpdate[/attached_collision_object] -> http://LAPTOP-CB8EFKQO:39039/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,745: publisherUpdate[/rosout] -> http://LAPTOP-CB8EFKQO:39863/ []: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-06 13:13:11,745: -PUB [/rviz_visual_tools] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,748: publisherUpdate[/attached_collision_object] -> http://LAPTOP-CB8EFKQO:39039/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,750: -SUB [/execute_trajectory/status] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,751: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,753: publisherUpdate[/move_group/goal] -> http://LAPTOP-CB8EFKQO:39039/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,755: publisherUpdate[/move_group/goal] -> http://LAPTOP-CB8EFKQO:39039/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,750: -SUB [/place/goal] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,757: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,758: -SUB [/rviz_visual_tools_gui] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,758: publisherUpdate[/move_group/cancel] -> http://LAPTOP-CB8EFKQO:39039/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,759: -SUB [/execute_trajectory/feedback] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,768: -SUB [/place/cancel] /move_group http://LAPTOP-CB8EFKQO:39039/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,769: -SERVICE [/move_group/get_loggers] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.master][INFO] 2023-09-06 13:13:11,770: publisherUpdate[/move_group/cancel] -> http://LAPTOP-CB8EFKQO:39039/ []: sec=0.01, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,772: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,773: -SUB [/execute_trajectory/result] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 http://LAPTOP-CB8EFKQO:41897/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,773: publisherUpdate[/pickup/cancel] -> http://LAPTOP-CB8EFKQO:39039/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,776: -SERVICE [/move_group/set_logger_level] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.master][INFO] 2023-09-06 13:13:11,779: -SERVICE [/move_group/planning_scene_monitor/set_parameters] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.master][INFO] 2023-09-06 13:13:11,781: -SERVICE [/move_group/save_map] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.master][INFO] 2023-09-06 13:13:11,782: publisherUpdate[/pickup/cancel] -> http://LAPTOP-CB8EFKQO:39039/ []: sec=0.01, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,783: -SUB [/tf] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,787: -SERVICE [/move_group/load_map] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.master][INFO] 2023-09-06 13:13:11,789: -SERVICE [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/get_loggers] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 rosrpc://LAPTOP-CB8EFKQO:51719
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,790: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,792: publisherUpdate[/place/goal] -> http://LAPTOP-CB8EFKQO:39039/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,790: -SUB [/tf_static] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,794: -SUB [/move_group/status] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,795: -SUB [/move_group/feedback] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,796: -SUB [/move_group/result] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,797: -SUB [/pickup/status] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,797: publisherUpdate[/place/goal] -> http://LAPTOP-CB8EFKQO:39039/ []: sec=0.01, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-06 13:13:11,799: -SERVICE [/move_group/ompl/set_parameters] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,799: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,799: publisherUpdate[/place/cancel] -> http://LAPTOP-CB8EFKQO:39039/ []
+[rosmaster.master][INFO] 2023-09-06 13:13:11,802: publisherUpdate[/place/cancel] -> http://LAPTOP-CB8EFKQO:39039/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2023-09-06 13:13:11,804: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-06 13:13:11,800: -SERVICE [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/set_logger_level] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 rosrpc://LAPTOP-CB8EFKQO:51719
+[rosmaster.master][INFO] 2023-09-06 13:13:11,805: -SUB [/pickup/feedback] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,805: -SERVICE [/move_group/trajectory_execution/set_parameters] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.master][INFO] 2023-09-06 13:13:11,807: -SUB [/pickup/result] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,810: -SERVICE [/move_group/plan_execution/set_parameters] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.master][INFO] 2023-09-06 13:13:11,811: -SUB [/place/status] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,813: -SERVICE [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/motionplanning_planning_scene_monitor/set_parameters] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 rosrpc://LAPTOP-CB8EFKQO:51719
+[rosmaster.master][INFO] 2023-09-06 13:13:11,815: -SERVICE [/move_group/sense_for_plan/set_parameters] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.master][INFO] 2023-09-06 13:13:11,816: -SUB [/place/feedback] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,817: -SERVICE [/apply_planning_scene] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.master][INFO] 2023-09-06 13:13:11,819: -SERVICE [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/reload_shaders] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 rosrpc://LAPTOP-CB8EFKQO:51719
+[rosmaster.master][INFO] 2023-09-06 13:13:11,822: -SERVICE [/clear_octomap] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.master][INFO] 2023-09-06 13:13:11,825: -SUB [/place/result] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,826: -SUB [/execute_trajectory/status] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,827: -SUB [/execute_trajectory/feedback] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,829: -SUB [/execute_trajectory/result] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,830: -SERVICE [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/load_config] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 rosrpc://LAPTOP-CB8EFKQO:51719
+[rosmaster.master][INFO] 2023-09-06 13:13:11,832: -SUB [/joint_states] /ik_node http://LAPTOP-CB8EFKQO:43669/
+[rosmaster.master][INFO] 2023-09-06 13:13:11,833: -SERVICE [/compute_cartesian_path] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.master][INFO] 2023-09-06 13:13:11,834: -SERVICE [/ik_node/get_loggers] /ik_node rosrpc://LAPTOP-CB8EFKQO:55189
+[rosmaster.master][INFO] 2023-09-06 13:13:11,838: -SERVICE [/rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041/save_config] /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041 rosrpc://LAPTOP-CB8EFKQO:51719
+[rosmaster.master][INFO] 2023-09-06 13:13:11,838: -SERVICE [/get_planning_scene] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.master][INFO] 2023-09-06 13:13:11,839: -SERVICE [/compute_fk] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.master][INFO] 2023-09-06 13:13:11,851: -SERVICE [/compute_ik] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.master][INFO] 2023-09-06 13:13:11,851: -SERVICE [/ik_node/set_logger_level] /ik_node rosrpc://LAPTOP-CB8EFKQO:55189
+[rosmaster.master][INFO] 2023-09-06 13:13:11,853: -CACHEDPARAM [/rosout_disable_topics_generation] by /rviz_LAPTOP_CB8EFKQO_7913_1302414365514155041
+[rosmaster.master][INFO] 2023-09-06 13:13:11,854: -SERVICE [/plan_kinematic_path] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.master][INFO] 2023-09-06 13:13:11,856: -CACHEDPARAM [/rosout_disable_topics_generation] by /ik_node
+[rosmaster.master][INFO] 2023-09-06 13:13:11,858: -SERVICE [/query_planner_interface] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.master][INFO] 2023-09-06 13:13:11,859: -SERVICE [/get_planner_params] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.master][INFO] 2023-09-06 13:13:11,860: -SERVICE [/set_planner_params] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.master][INFO] 2023-09-06 13:13:11,861: -SERVICE [/check_state_validity] /move_group rosrpc://LAPTOP-CB8EFKQO:39501
+[rosmaster.master][INFO] 2023-09-06 13:13:11,863: -CACHEDPARAM [/rosout_disable_topics_generation] by /move_group
+[rosmaster.master][INFO] 2023-09-06 13:13:14,231: -PUB [/rosout_agg] /rosout http://LAPTOP-CB8EFKQO:39863/
+[rosmaster.master][INFO] 2023-09-06 13:13:14,231: -SUB [/rosout] /rosout http://LAPTOP-CB8EFKQO:39863/
+[rosmaster.master][INFO] 2023-09-06 13:13:14,232: -SERVICE [/rosout/get_loggers] /rosout rosrpc://LAPTOP-CB8EFKQO:44589
+[rosmaster.master][INFO] 2023-09-06 13:13:14,233: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://LAPTOP-CB8EFKQO:44589
+[rosmaster.master][INFO] 2023-09-06 13:13:14,234: -CACHEDPARAM [/rosout/omit_topics] by /rosout
+[rosmaster.main][INFO] 2023-09-06 13:13:14,320: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2023-09-06 13:13:14,321: stopping master...
+[rospy.core][INFO] 2023-09-06 13:13:14,321: signal_shutdown [atexit]

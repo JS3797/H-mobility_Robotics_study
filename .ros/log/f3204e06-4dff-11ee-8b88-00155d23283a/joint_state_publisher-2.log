@@ -1,0 +1,38 @@
+[rospy.client][INFO] 2023-09-08 13:27:00,241: init_node, name[/joint_state_publisher], pid[12801]
+[xmlrpc][INFO] 2023-09-08 13:27:00,242: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-08 13:27:00,242: Started XML-RPC server [http://LAPTOP-CB8EFKQO:35455/]
+[rospy.impl.masterslave][INFO] 2023-09-08 13:27:00,242: _ready: http://LAPTOP-CB8EFKQO:35455/
+[rospy.init][INFO] 2023-09-08 13:27:00,243: ROS Slave URI: [http://LAPTOP-CB8EFKQO:35455/]
+[rospy.registration][INFO] 2023-09-08 13:27:00,243: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-08 13:27:00,244: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2023-09-08 13:27:00,343: registered with master
+[rospy.rosout][INFO] 2023-09-08 13:27:00,343: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-08 13:27:00,346: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-08 13:27:00,347: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-08 13:27:00,540: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2023-09-08 13:27:00,612: topic[/move_group/fake_controller_joint_states] adding connection to [http://LAPTOP-CB8EFKQO:36799/], count 0
+[rospy.internal][INFO] 2023-09-08 13:27:00,634: topic[/joint_states] adding connection to [/robot_state_publisher], count 0
+[rospy.internal][INFO] 2023-09-08 13:27:00,713: topic[/joint_states] adding connection to [/move_group], count 1
+[rospy.internal][INFO] 2023-09-08 13:27:12,468: topic[/joint_states] adding connection to [/singularity], count 2
+[rospy.internal][INFO] 2023-09-08 13:27:12,668: topic[/move_group/fake_controller_joint_states] adding connection to [http://LAPTOP-CB8EFKQO:37763/], count 1
+[rospy.internal][INFO] 2023-09-08 13:28:36,494: topic[/move_group/fake_controller_joint_states] removing connection to http://LAPTOP-CB8EFKQO:37763/
+[rospy.internal][INFO] 2023-09-08 13:28:36,582: topic[/joint_states] removing connection to /singularity
+[rospy.internal][INFO] 2023-09-08 13:29:14,236: topic[/joint_states] adding connection to [/singularity], count 2
+[rospy.internal][INFO] 2023-09-08 13:29:14,431: topic[/move_group/fake_controller_joint_states] adding connection to [http://LAPTOP-CB8EFKQO:38549/], count 1
+[rospy.core][INFO] 2023-09-08 13:29:39,072: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2023-09-08 13:29:39,085: topic[/joint_states] removing connection to /robot_state_publisher
+[rospy.internal][INFO] 2023-09-08 13:29:39,085: topic[/joint_states] removing connection to /move_group
+[rospy.internal][INFO] 2023-09-08 13:29:39,091: topic[/joint_states] removing connection to /singularity
+[rospy.internal][INFO] 2023-09-08 13:29:39,092: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2023-09-08 13:29:39,093: topic[/move_group/fake_controller_joint_states] removing connection to http://LAPTOP-CB8EFKQO:36799/
+[rospy.internal][INFO] 2023-09-08 13:29:39,094: topic[/move_group/fake_controller_joint_states] removing connection to http://LAPTOP-CB8EFKQO:36799/
+[rospy.topics][ERROR] 2023-09-08 13:29:39,105: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 858, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.internal][INFO] 2023-09-08 13:29:39,106: topic[/move_group/fake_controller_joint_states] removing connection to http://LAPTOP-CB8EFKQO:38549/
+[rospy.impl.masterslave][INFO] 2023-09-08 13:29:39,106: signal-2
+[rospy.core][INFO] 2023-09-08 13:29:39,213: signal_shutdown [atexit]
