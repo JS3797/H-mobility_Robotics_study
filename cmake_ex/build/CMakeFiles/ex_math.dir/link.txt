@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/ex_math.dir/src/main.cpp.o  -o ex_math MyMathLib/libMyMath.a 
